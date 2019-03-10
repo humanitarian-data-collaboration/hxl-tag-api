@@ -9,12 +9,18 @@ from werkzeug.utils import secure_filename
 import pickle
 import re
 from sklearn.neural_network import MLPClassifier
-from fasttext import load_model
+from fastText import load_model
 from sklearn.model_selection import train_test_split
 
+'''Install fastText by doing:
+#git clone https://github.com/facebookresearch/fastText.git
+#cd fastText
+#pip install .
 
+#'wiki.en.bin' needs to be in the same directory as server.py (can be downloaded from 
+#https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.zip)
 
-#This is not but-free, still have some problems...
+'''
 
 fasttext_model = 'wiki.en.bin'
 fmodel = load_model(fasttext_model)
@@ -27,7 +33,7 @@ app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 
 def lower_cols(lst):
     #convert data to lowercases
-    #QUESTION: will I miss anyt important information? 
+    #QUESTION: will I miss any important information? 
     return [word.lower() for word in lst]
 
 
@@ -69,8 +75,8 @@ def preprocess(pandas_dataset):
         dataset_df = pandas_dataset
         headers = list(dataset_df.columns.values)
         headers = clean_cols(headers)
-    for i in headers:
-        i = fmodel.get_sentence_vector(str(i))
+    for i in range(len(headers)): #Uses fastText to make header embeddings that model generates tags on.
+        headers[i] = fmodel.get_sentence_vector(str(headers[i]))
     return headers
 
 
@@ -98,7 +104,7 @@ def upload_file():
                 # process the untagged dataset
 
             headers = preprocess(input_dataset)
-           
+           '''Model needs be named model.pkl, preferably using version 0.20.3'''
             model = pickle.load(open("model.pkl", "rb"))
 
             output_dataset = pd.DataFrame(data = model.predict(headers))
