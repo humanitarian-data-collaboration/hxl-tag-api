@@ -11,6 +11,12 @@ import re
 from sklearn.neural_network import MLPClassifier
 from fastText import load_model
 from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import CountVectorizer
+import nltk
+
+from nltk.corpus import stopwords
+nltk.download('stopwords')
+stopWords = set(stopwords.words('english'))
 
 '''Install fastText by doing:
 #git clone https://github.com/facebookresearch/fastText.git
@@ -70,21 +76,72 @@ def clean_cols(data):
 #             print("Error: different number of headers and tags")
 #     return
 
-def preprocess(pandas_dataset):
+def preprocess(pandas_dataset, df_target):
     if (not pandas_dataset.empty):
-        dataset_df = pandas_dataset
-        headers = list(dataset_df.columns.values)
-        headers = clean_cols(headers)
+    	organization = 'HDX'   #Replace if datasets contains organization
+    	headers = list(pandas_dataset.columns.values)
+    	headers = clean_cols(headers)
     for i in range(len(headers)): #Uses fastText to make header embeddings that model generates tags on.
         headers[i] = fmodel.get_sentence_vector(str(headers[i]))
-    return headers
+        try:
+            dic = {'Header': headers[i], 
+                   'Data': list(pandas_dataset.iloc[1:, i]), 
+                   'Relative Column Position': (i+1) / len(pandas_dataset.columns), 
+                   'Organization': organization,
+                   'Index': i}
+            df_target.loc[len(df_target)] = dic
+        except:
+            raise Exception("Error: different number of headers and tags")
 
+    df_result = transform_vectorizers(df_target, headers)
+    return df_result
+
+def transform_vectorizers(df_target, headers):
+	cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts']
+	df = pd.DataFrame(columns = cols)
+	df['Header_embedding'] = df_target['Header']
+	df['Organization_embedded'] = df_target['Organization']
+	long_string = []
+	for i in df_target['Data']:
+		result_by_tag = word_extract(i)
+		holder_list = ''.join(result_by_tag)
+		long_string.append(holder_list)
+	bag_vectorizer = CountVectorizer()
+	corpus = long_string
+	X_vecs_bag = bag_vectorizer.fit_transform(corpus)
+	df['BOW_counts'] = [item for item in X_vecs_bag.toarray()]
+	ngrams = generate_n_grams(headers, 3)
+	ngrams_vectorizer = CountVectorizer(tokenizer=lambda doc: doc, lowercase=False)
+	X_vec_grams = ngrams_vectorizer.fit_transform(ngrams)
+	df['ngrams_counts'] = [item for item in X_vec_grams.toarray()]
+	return df
+
+def remove_stop_words(data_lst):
+    #remove stopwords from the data including 'the', 'and' etc.
+    wordsFiltered = []
+    for w in data_lst:
+    	if w not in stopWords:
+    		wordsFiltered.append(w)
+    return wordsFiltered
+
+
+def word_extract(row):
+    ignore = ['nan']
+    no_white = [i.lstrip() for i in row if i not in ignore and not isinstance(i, float)]
+    cleaned_text = [w.lower() for w in no_white if w not in ignore]
+    return cleaned_text
 
 def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS 
 
-
+from nltk import ngrams
+def generate_n_grams(data_lst, n):
+    # cleaned = remove_chars(list(data_lst))
+    # cleaned = clean_cols(cleaned)
+    cleaned = remove_stop_words(list(data_lst))
+    #make sure that n_grams 'refresh' when a new dataset is encountered!!!!   
+    return list(ngrams(cleaned, n))
 
 @app.route('/', methods=['GET','POST'])
 def upload_file():
@@ -102,10 +159,8 @@ def upload_file():
             filename = secure_filename(file.filename)
             input_dataset = pd.read_csv(file)
                 # process the untagged dataset
-
-            headers = preprocess(input_dataset)
-           '''Model needs be named model.pkl, preferably using version 0.20.3'''
-            model = pickle.load(open("model.pkl", "rb"))
+            headers = preprocess(input_dataset, pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
+            model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
 
             output_dataset = pd.DataFrame(data = model.predict(headers))
 
