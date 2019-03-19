@@ -93,7 +93,7 @@ def preprocess(pandas_dataset, df_target):
         except:
             raise Exception("Error: different number of headers and tags")
 
-    df_result = transform_vectorizers(df_target, headers)
+    df_result = transform_vectorizers(df_target, list(pandas_dataset.columns.values))
     return df_result
 
 def transform_vectorizers(df_target, headers):
@@ -113,13 +113,14 @@ def transform_vectorizers(df_target, headers):
 	ngrams = generate_n_grams(headers, 3)
 	ngrams_vectorizer = CountVectorizer(tokenizer=lambda doc: doc, lowercase=False)
 	X_vec_grams = ngrams_vectorizer.fit_transform(ngrams)
+	print(len(df),len(X_vec_grams.toarray()),len(headers),len(ngrams))
 	df['ngrams_counts'] = [item for item in X_vec_grams.toarray()]
 	return df
 
 def remove_stop_words(data_lst):
     #remove stopwords from the data including 'the', 'and' etc.
     wordsFiltered = []
-    for w in data_lst:
+    for w in data_lst:p
     	if w not in stopWords:
     		wordsFiltered.append(w)
     return wordsFiltered
@@ -139,7 +140,7 @@ from nltk import ngrams
 def generate_n_grams(data_lst, n):
     # cleaned = remove_chars(list(data_lst))
     # cleaned = clean_cols(cleaned)
-    cleaned = remove_stop_words(list(data_lst))
+    cleaned = remove_stop_words(data_lst)
     #make sure that n_grams 'refresh' when a new dataset is encountered!!!!   
     return list(ngrams(cleaned, n))
 
