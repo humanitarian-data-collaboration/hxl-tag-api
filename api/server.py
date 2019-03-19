@@ -5,6 +5,7 @@ from jsonrpc import JSONRPCResponseManager, dispatcher
 import os
 import hashlib
 import pandas as pd
+import numpy as np
 from werkzeug.utils import secure_filename
 import pickle
 import re
@@ -13,6 +14,7 @@ from fastText import load_model
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 import nltk
+from flask_cors import CORS
 
 from nltk.corpus import stopwords
 nltk.download('stopwords')
@@ -35,6 +37,7 @@ UPLOAD_FOLDER = '\datasets'
 ALLOWED_EXTENSIONS = set(['csv'])
 
 app = Flask(__name__)
+CORS(app)
 app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 
 def lower_cols(lst):
@@ -81,8 +84,7 @@ def preprocess(pandas_dataset, df_target):
     	organization = 'HDX'   #Replace if datasets contains organization
     	headers = list(pandas_dataset.columns.values)
     	headers = clean_cols(headers)
-    for i in range(len(headers)): #Uses fastText to make header embeddings that model generates tags on.
-        headers[i] = fmodel.get_sentence_vector(str(headers[i]))
+    for i in range(len(headers)):
         try:
             dic = {'Header': headers[i], 
                    'Data': list(pandas_dataset.iloc[1:, i]), 
@@ -91,38 +93,40 @@ def preprocess(pandas_dataset, df_target):
                    'Index': i}
             df_target.loc[len(df_target)] = dic
         except:
-            raise Exception("Error: different number of headers and tags")
+            raise Exception("Error: arguments not matched")
 
-    df_result = transform_vectorizers(df_target, list(pandas_dataset.columns.values))
+    df_result = transform_vectorizers(df_target)
     return df_result
 
-def transform_vectorizers(df_target, headers):
-	cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts']
-	df = pd.DataFrame(columns = cols)
-	df['Header_embedding'] = df_target['Header']
-	df['Organization_embedded'] = df_target['Organization']
-	long_string = []
-	for i in df_target['Data']:
-		result_by_tag = word_extract(i)
-		holder_list = ''.join(result_by_tag)
-		long_string.append(holder_list)
-	bag_vectorizer = CountVectorizer()
-	corpus = long_string
-	X_vecs_bag = bag_vectorizer.fit_transform(corpus)
-	df['BOW_counts'] = [item for item in X_vecs_bag.toarray()]
-	ngrams = generate_n_grams(headers, 3)
-	ngrams_vectorizer = CountVectorizer(tokenizer=lambda doc: doc, lowercase=False)
-	X_vec_grams = ngrams_vectorizer.fit_transform(ngrams)
-	print(len(df),len(X_vec_grams.toarray()),len(headers),len(ngrams))
-	df['ngrams_counts'] = [item for item in X_vec_grams.toarray()]
-	return df
+def transform_vectorizers(df_target):
+    cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts', 'features_combined']
+    df = pd.DataFrame(columns = cols)
+    long_string = []
+    for i in df_target['Data']:
+        result_by_tag = word_extract(i)
+        holder_list = ''.join(result_by_tag)
+        long_string.append(holder_list)
+    bag_vectorizer = CountVectorizer()
+    corpus = long_string
+    X_vecs_bag = bag_vectorizer.fit_transform(corpus)
+    df['BOW_counts'] = [item for item in X_vecs_bag.toarray()]
+    ngrams = generate_n_grams(df_target['Header'], 3)
+    ngrams_vectorizer = CountVectorizer(tokenizer=lambda doc: doc, lowercase=False)
+    X_vec_grams = ngrams_vectorizer.fit_transform(ngrams)
+    df['ngrams_counts'] = pd.Series([item for item in X_vec_grams.toarray()])
+    df['Header_embedding'] = df_target['Header'].astype(str).apply(fmodel.get_sentence_vector)
+    df['Organization_embedded'] = df_target['Organization'].astype(str).apply(fmodel.get_sentence_vector)
+    cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts']
+    df['features_combined'] = df[cols].values.tolist()
+    df['features_combined'] = df['features_combined'].apply(lambda x: np.concatenate(x, axis=None))
+    return df
 
 def remove_stop_words(data_lst):
     #remove stopwords from the data including 'the', 'and' etc.
     wordsFiltered = []
-    for w in data_lst:p
-    	if w not in stopWords:
-    		wordsFiltered.append(w)
+    for w in data_lst:
+        if w not in stopWords:
+            wordsFiltered.append(w)
     return wordsFiltered
 
 
@@ -160,10 +164,11 @@ def upload_file():
             filename = secure_filename(file.filename)
             input_dataset = pd.read_csv(file)
                 # process the untagged dataset
-            headers = preprocess(input_dataset, pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
+            processed_dataset = preprocess(input_dataset, 
+                pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
             model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
 
-            output_dataset = pd.DataFrame(data = model.predict(headers))
+            output_dataset = pd.DataFrame(data = model.predict(processed_dataset['features_combined']))
 
             resp = make_response(output_dataset.to_csv())
             resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
