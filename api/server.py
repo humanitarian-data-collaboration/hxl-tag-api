@@ -37,7 +37,7 @@ UPLOAD_FOLDER = '\datasets'
 ALLOWED_EXTENSIONS = set(['csv'])
 
 app = Flask(__name__)
-CORS(app)
+# CORS(app)
 app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 
 def lower_cols(lst):
@@ -110,15 +110,20 @@ def transform_vectorizers(df_target):
     corpus = long_string
     X_vecs_bag = bag_vectorizer.fit_transform(corpus)
     df['BOW_counts'] = [item for item in X_vecs_bag.toarray()]
-    ngrams = generate_n_grams(df_target['Header'], 3)
+    n = 3
+    ngrams = generate_n_grams(df_target['Header'], n)
     ngrams_vectorizer = CountVectorizer(tokenizer=lambda doc: doc, lowercase=False)
     X_vec_grams = ngrams_vectorizer.fit_transform(ngrams)
-    df['ngrams_counts'] = pd.Series([item for item in X_vec_grams.toarray()])
+    df = df.iloc[:(-n+1),:]
+    df['ngrams_counts'] = [item for item in X_vec_grams.toarray()]
+    df.dropna()
     df['Header_embedding'] = df_target['Header'].astype(str).apply(fmodel.get_sentence_vector)
     df['Organization_embedded'] = df_target['Organization'].astype(str).apply(fmodel.get_sentence_vector)
     cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts']
     df['features_combined'] = df[cols].values.tolist()
-    df['features_combined'] = df['features_combined'].apply(lambda x: np.concatenate(x, axis=None))
+    df['features_combined'] = df['features_combined'].apply(lambda x: [val for item in x for val in item])
+    df['features_combined'] = df['features_combined'].apply(lambda x: x[0:300])
+    df.dropna()
     return df
 
 def remove_stop_words(data_lst):
@@ -132,7 +137,7 @@ def remove_stop_words(data_lst):
 
 def word_extract(row):
     ignore = ['nan']
-    no_white = [i.lstrip() for i in row if i not in ignore and not isinstance(i, float)]
+    no_white = [i.lstrip() for i in row if i not in ignore and not (isinstance(i, float) or isinstance(i,int))]
     cleaned_text = [w.lower() for w in no_white if w not in ignore]
     return cleaned_text
 
@@ -168,7 +173,7 @@ def upload_file():
                 pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
             model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
 
-            output_dataset = pd.DataFrame(data = model.predict(processed_dataset['features_combined']))
+            output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
 
             resp = make_response(output_dataset.to_csv())
             resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
