@@ -15,6 +15,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 import nltk
 from flask_cors import CORS
+from nltk import ngrams
 
 from nltk.corpus import stopwords
 nltk.download('stopwords')
@@ -61,24 +62,6 @@ def clean_cols(data):
     data = remove_chars(data)
     return data
 
-# def process(pandas_dataset, dataframe):
-#     if (not pandas_dataset.empty):
-#             dataset_df = pandas_dataset
-#             headers = list(dataset_df.columns.values)
-#             headers = clean_cols(headers)
-#     for i in range(len(headers)):
-#         try:
-#             dic = {'Header': headers[i], 
-#                    'Data': list(dataset_df.iloc[1:, i]), 
-#                    'Relative Column Position': (i+1) / len(dataset_df.columns), 
-#                    'Dataset_name': os.path.basename(path), 
-#                    'Organization': organization,
-#                    'Index': index}
-#             dataframe.loc[len(dataframe)] = dic
-#         except:
-#             print("Error: different number of headers and tags")
-#     return
-
 def preprocess(pandas_dataset, df_target):
     if (not pandas_dataset.empty):
     	organization = 'HDX'   #Replace if datasets contains organization
@@ -110,19 +93,28 @@ def transform_vectorizers(df_target):
     corpus = long_string
     X_vecs_bag = bag_vectorizer.fit_transform(corpus)
     df['BOW_counts'] = [item for item in X_vecs_bag.toarray()]
-    n = 3
-    ngrams = generate_n_grams(df_target['Header'], n)
+    ngrams = generate_n_grams(df_target['Header'], 3)
+    ngrams.append([ngrams[-1][-2], ngrams[-1][-1], 'dummy'])
+    ngrams.append([ngrams[-2][-1], 'dummy', 'dummy'])
     ngrams_vectorizer = CountVectorizer(tokenizer=lambda doc: doc, lowercase=False)
     X_vec_grams = ngrams_vectorizer.fit_transform(ngrams)
-    df = df.iloc[:(-n+1),:]
-    df['ngrams_counts'] = [item for item in X_vec_grams.toarray()]
-    df.dropna()
+    tmp = X_vec_grams.toarray()
+    for i in range(len(tmp[-1])):
+        if tmp[-1][i] == 2:
+            dummy = i
+    final = []
+    for i in range(len(tmp)):
+        final.append(np.delete(tmp[i], dummy).tolist())    
+    df['ngrams_counts'] = [item for item in final]
     df['Header_embedding'] = df_target['Header'].astype(str).apply(fmodel.get_sentence_vector)
     df['Organization_embedded'] = df_target['Organization'].astype(str).apply(fmodel.get_sentence_vector)
     cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts']
     df['features_combined'] = df[cols].values.tolist()
     df['features_combined'] = df['features_combined'].apply(lambda x: [val for item in x for val in item])
-    df['features_combined'] = df['features_combined'].apply(lambda x: x[0:300])
+    diff = 2934 - len(df['features_combined'][0])
+    for i in range(len(df)):
+        for j in range(diff):
+            df['features_combined'][i].append(0)
     df.dropna()
     return df
 
@@ -145,7 +137,6 @@ def allowed_file(filename):
     return '.' in filename and \
            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS 
 
-from nltk import ngrams
 def generate_n_grams(data_lst, n):
     # cleaned = remove_chars(list(data_lst))
     # cleaned = clean_cols(cleaned)
