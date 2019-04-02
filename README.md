@@ -6,14 +6,16 @@ To get started:
 0. Clone this repository, and create a virtual environment
 
 1. Install fastText for header embeddings
- - `git clone https://github.com/facebookresearch/fastText.git`
- - `cd fastTest`
- - `pip install .`
+   - `git clone https://github.com/facebookresearch/fastText.git`
+   - `cd fastText`
+   - `pip install .`
  
 2. 'wiki.en.bin' needs to be in the same directory as server.py
-  - Download from https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.zip
+    - Download from https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.zip
+    - Extract from zip file
+    - Move to hxl-tag-api folder
   
-3. Run `pip install requirements.txt`
+3. Install dependencies with `pip install -r requirements.txt`, preferably in the virtual environment.
 
 4. Use `python server.py` to run the API.
 
