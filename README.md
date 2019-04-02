@@ -3,10 +3,19 @@ API using Flask to predict hxl tags in a csv.
 
 To get started:
 
-1. Pip install fastText by cloning (https://github.com/facebookresearch/fastText.git), cd into the directory and run 'pip install .'<br>
-2. 'wiki.en.bin' needs to be in the same directory as server.py (can be downloaded from https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.zip)
-3. Run pip install requirements.txt, preferably in a virtualenv.
-4. Use 'python server.py' to run the API.
+0. Clone this repository, and create a virtual environment
+
+1. Install fastText for header embeddings
+ - `git clone https://github.com/facebookresearch/fastText.git`
+ - `cd fastTest`
+ - `pip install .`
+ 
+2. 'wiki.en.bin' needs to be in the same directory as server.py
+  - Download from https://dl.fbaipublicfiles.com/fasttext/vectors-wiki/wiki.en.zip
+  
+3. Run `pip install requirements.txt`
+
+4. Use `python server.py` to run the API.
 
 ***Known Issues***:
 
