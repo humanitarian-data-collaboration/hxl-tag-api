@@ -22,4 +22,4 @@ To get started:
 ***Known Issues***:
 
 1. The API can't handle files with missing values. Make sure to fill in missing values in the dataset.
-2. For now, the API can only handle .csv and JSON files.
+2. For now, the API can only handle .csv and .json files.
