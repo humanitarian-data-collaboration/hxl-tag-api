@@ -22,5 +22,4 @@ To get started:
 ***Known Issues***:
 
 1. The API can't handle files with missing values. Make sure to fill in missing values in the dataset.
-2. For now, the API can only handle .csv files. We will add JSON functionality shortly.
-3. The model will not generate predicted tags for the last 2 columns of the dataset for now. This will be fixed shortly.
+2. For now, the API can only handle .csv and JSON files.
