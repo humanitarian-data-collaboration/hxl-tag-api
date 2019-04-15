@@ -16,6 +16,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 import nltk
 from flask_cors import CORS
 from nltk import ngrams
+import json
 
 from nltk.corpus import stopwords
 nltk.download('stopwords')
@@ -35,7 +36,8 @@ fasttext_model = 'wiki.en.bin'
 fmodel = load_model(fasttext_model)
 
 UPLOAD_FOLDER = '\datasets'
-ALLOWED_EXTENSIONS = set(['csv'])
+ALLOWED_EXTENSIONS_CSV = set(['csv'])
+ALLOWED_EXTENSIONS_JSON = set(['json'])
 
 app = Flask(__name__)
 # CORS(app)
@@ -64,9 +66,10 @@ def clean_cols(data):
 
 def preprocess(pandas_dataset, df_target):
     if (not pandas_dataset.empty):
-    	organization = 'HDX'   #Replace if datasets contains organization
-    	headers = list(pandas_dataset.columns.values)
-    	headers = clean_cols(headers)
+        organization = 'HDX'   #Replace if datasets contains organization
+        headers = list(pandas_dataset.columns.values)
+        
+        headers = clean_cols(headers)
     for i in range(len(headers)):
         try:
             dic = {'Header': headers[i], 
@@ -82,41 +85,58 @@ def preprocess(pandas_dataset, df_target):
     return df_result
 
 def transform_vectorizers(df_target):
-    cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts', 'features_combined']
+    number_of_data_point_to_vectorize = 7
+    cols = ['Header_embedding', 'Organization_embedded', 'features_combined']
     df = pd.DataFrame(columns = cols)
-    long_string = []
-    for i in df_target['Data']:
-        result_by_tag = word_extract(i)
-        holder_list = ''.join(result_by_tag)
-        long_string.append(holder_list)
-    bag_vectorizer = CountVectorizer()
-    corpus = long_string
-    X_vecs_bag = bag_vectorizer.fit_transform(corpus)
-    df['BOW_counts'] = [item for item in X_vecs_bag.toarray()]
-    ngrams = generate_n_grams(df_target['Header'], 3)
-    ngrams.append([ngrams[-1][-2], ngrams[-1][-1], 'dummy'])
-    ngrams.append([ngrams[-2][-1], 'dummy', 'dummy'])
-    ngrams_vectorizer = CountVectorizer(tokenizer=lambda doc: doc, lowercase=False)
-    X_vec_grams = ngrams_vectorizer.fit_transform(ngrams)
-    tmp = X_vec_grams.toarray()
-    for i in range(len(tmp[-1])):
-        if tmp[-1][i] == 2:
-            dummy = i
-    final = []
-    for i in range(len(tmp)):
-        final.append(np.delete(tmp[i], dummy).tolist())    
-    df['ngrams_counts'] = [item for item in final]
+    df_target.dropna(how = 'all', inplace = True)
+    df_target, number_of_data_point_to_vectorize = embedded_datapoints(df_target, 7)
+    df['data_combined'] = df_target.loc[:, 'embedded_datapoint0': 'embedded_datapoint' 
+                                                           + str(number_of_data_point_to_vectorize-1)].values.tolist()
+    df['data_combined'] = df['data_combined'].apply(lambda x: [val for item in x for val in item])
     df['Header_embedding'] = df_target['Header'].astype(str).apply(fmodel.get_sentence_vector)
     df['Organization_embedded'] = df_target['Organization'].astype(str).apply(fmodel.get_sentence_vector)
-    cols = ['Header_embedding', 'Organization_embedded', 'BOW_counts', 'ngrams_counts']
+    cols = ['Header_embedding', 'Organization_embedded', 'data_combined']
     df['features_combined'] = df[cols].values.tolist()
     df['features_combined'] = df['features_combined'].apply(lambda x: [val for item in x for val in item])
-    diff = 2934 - len(df['features_combined'][0])
+    diff = 2700 - len(df['features_combined'][0])
     for i in range(len(df)):
         for j in range(diff):
             df['features_combined'][i].append(0)
-    df.dropna()
+    df = df.dropna()
     return df
+
+
+def separate_words(series): 
+    #each series is a long string that contains all the data
+    lst = []
+    cleanlist = [x for x in series if str(x) != 'nan']
+    for i in cleanlist:
+        lst = re.split(r"\W+", i)
+        lst.extend(list(filter(None, lst)))
+    return lst
+
+    
+def vectorize_n_datapoints(df, number_of_datapoints_to_vectorize = 7):
+#     print(df['Data'].head())
+#     print(df['Data'].iloc[0])
+#     for i in range(len(df['Data'])):
+#         df['Data_separated'].iloc[0] = separate_words(df['Data'].iloc[0])
+    df['Data_separated'] = df['Data'].apply(separate_words)
+    if (number_of_datapoints_to_vectorize > len(df['Data_separated'][0])):
+        number_of_datapoints_to_vectorize = len(df['Data_separated'][0])
+    for i in range(number_of_datapoints_to_vectorize):
+        df['datapoint' + str(i)] = df['Data_separated'].str[i]
+    return df, number_of_datapoints_to_vectorize
+
+
+def embedded_datapoints(df, number_of_data_point_to_vectorize=7):
+    df, number_of_data_point_to_vectorize = vectorize_n_datapoints(df)
+    print(df.head())
+    for i in range(number_of_data_point_to_vectorize):
+        
+        df['embedded_datapoint' + str(i)] = df['datapoint' + str(i)].map(lambda x: fmodel.get_sentence_vector(str(x)))
+    return df, number_of_data_point_to_vectorize
+
 
 def remove_stop_words(data_lst):
     #remove stopwords from the data including 'the', 'and' etc.
@@ -133,9 +153,13 @@ def word_extract(row):
     cleaned_text = [w.lower() for w in no_white if w not in ignore]
     return cleaned_text
 
-def allowed_file(filename):
+def allowed_file_csv(filename):
     return '.' in filename and \
-           filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS 
+           filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS_CSV
+
+def allowed_file_json(filename):
+    return '.' in filename and \
+            filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS_JSON
 
 def generate_n_grams(data_lst, n):
     # cleaned = remove_chars(list(data_lst))
@@ -152,49 +176,48 @@ def upload_file():
             flash('No file part')
             return redirect(request.url)
         file = request.files['file']
-        # file.save(os.getcwd())
+        
         if file.filename == '':
-            flash('No selected file')
+            # flash('No selected file')
             return redirect(request.url)
-        if file and allowed_file(file.filename):
+        # file.save(os.getcwd())
+        if file and allowed_file_csv(file.filename):
             filename = secure_filename(file.filename)
             input_dataset = pd.read_csv(file)
+                
+
+        if file and allowed_file_json(file.filename):
+            # filename = secure_filename(file.filename)
+            input_dataset = pd.read_json(file)
+            input_dataset = input_dataset.rename(columns=input_dataset.iloc[0]).drop(input_dataset.index[0])
                 # process the untagged dataset
-            processed_dataset = preprocess(input_dataset, 
-                pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
-            model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
+        processed_dataset = preprocess(input_dataset, 
+            pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
+        model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
 
-            output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
+        output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
 
-            resp = make_response(output_dataset.to_csv())
-            resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
-            resp.headers["Content-Type"] = "text/csv"
-            return resp  
+        resp = make_response(output_dataset.to_csv())
+        resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
+        resp.headers["Content-Type"] = "text/csv"
+        return resp
+        
+          
+
+
     return '''
     <!doctype html>
     <title>Upload new File</title>
-    <h1>Upload new File (only CSV files accepted)</h1>
+    <h1>Upload new File (only CSV and JSON files accepted)</h1>
     <form method=post enctype=multipart/form-data>
       <input type=file name=file>
       <input type=submit value=Upload>
+    # <form method=post>
+    #   <input name=text>
+    #   <input type=submit>
     </form>
     ''' 
 
- # action={{url_for('tag', dataset='df')}}   
-
-# @app.route('/tag/<dataset>', methods=['POST'])
-# def tag(dataset):
-# 	#getting our trained model	
-# 	model = pickle.load(open("model.pkl", "rb"))   	
-# 	input_dataset = request.get_json()
-# 	tags = model.predict(input_dataset).to_list()
-# 	#Add one row to the dataset
-# 	for i in range(len(tags)):
-# 		input_dataset.loc1[1: i] = tags[i]
-# 	response = {}
-# 	response['tags'] = tags
-# 	#returning the response object as json
-#     return flask.jsonify(response)
 
 if __name__ == '__main__':
      app.run(debug=True)
