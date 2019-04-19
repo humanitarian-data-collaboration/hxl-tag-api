@@ -109,7 +109,7 @@ def transform_vectorizers(df_target):
 def separate_words(series): 
     #each series is a long string that contains all the data
     lst = []
-    cleanlist = [x for x in series if str(x) != 'nan']
+    cleanlist = [str(x) for x in series if str(x) != 'nan']
     for i in cleanlist:
         lst = re.split(r"\W+", i)
         lst.extend(list(filter(None, lst)))
