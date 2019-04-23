@@ -2,3 +2,4 @@
 *.vec
 /fastText
 /api/test files/
+.DS_Store
