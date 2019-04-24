@@ -46,7 +46,7 @@ app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 def lower_cols(lst):
     #convert data to lowercases
     #QUESTION: will I miss any important information? 
-    return [word.lower() for word in lst]
+    return [word.lower() for word in lst if isinstance(word,str)]
 
 
 def remove_chars(lst):
@@ -54,8 +54,8 @@ def remove_chars(lst):
     #NOTE: PRESERVES WHITE SPACE.
     #QUESTION: any other characters we should be aware of? Is this a good idea? I'm inspecting each word individually.
     #Any potential pitfalls? 
-    cleaned = [re.sub('\s+', ' ', mystring).strip() for mystring in lst]
-    cleaned = [re.sub(r'[[^A-Za-z0-9\s]+]', ' ', mystr) for mystr in cleaned]
+    cleaned = [re.sub('\s+', ' ', mystring).strip() for mystring in lst if isinstance(mystring,str)]
+    cleaned = [re.sub(r'[[^A-Za-z0-9\s]+]', ' ', mystr) for mystr in cleaned if isinstance(mystr,str)]
     cleaned = [mystr.replace('_', ' ') for mystr in cleaned]
     return cleaned
 
@@ -68,7 +68,10 @@ def preprocess(pandas_dataset, df_target):
     if (not pandas_dataset.empty):
         organization = 'HDX'   #Replace if datasets contains organization
         headers = list(pandas_dataset.columns.values)
-        
+        #Drops rows with all nan values.
+        pandas_dataset.dropna(how = 'all', inplace = True)
+        #Drops columns with all nan values. Subset parameter is used to exclude column label.
+        pandas_dataset.dropna(axis=1, how = 'all', subset=range(1,len(pandas_dataset)), inplace = True)
         headers = clean_cols(headers)
     for i in range(len(headers)):
         try:
