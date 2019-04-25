@@ -21,5 +21,4 @@ To get started:
 
 ***Known Issues***:
 
-1. The API can't handle files with missing values. Make sure to fill in missing values in the dataset.
-2. For now, the API can only handle .csv and .json files.
+1. For now, the API can only handle .csv and .json files. (If using a JSON file, it must follow the format [here](https://proxy.hxlstandard.org/data.json?url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F1R9zfMTk7SQB8VoEp4XK0xAWtlsQcHgEvYiswZsj9YA4%2Fedit%23gid%3D0))
