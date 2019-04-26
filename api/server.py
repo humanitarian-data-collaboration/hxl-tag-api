@@ -68,7 +68,7 @@ def fill_empty_cols(df):
     empty_cols = []
     for i in df.columns.values:
         if (len(df[i].dropna()) == 0):
-            df.set_value(2,i,1)
+            df.at[2,i] = 1
             empty_cols.append(df.columns.get_loc(i))
     return df, empty_cols
 
@@ -210,6 +210,7 @@ def upload_file():
         output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
         output_dataset.loc[empty_cols,0] = 'No Prediction. Column only had missing values'
         output_dataset.insert(loc=0, column='Header', value=input_headers)
+        output_dataset.rename(index=str, columns={0: "Predicted tag"}, inplace=True)
 
         resp = make_response(output_dataset.to_csv())
         resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
