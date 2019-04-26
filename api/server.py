@@ -78,7 +78,7 @@ def preprocess(pandas_dataset, df_target):
         headers = list(pandas_dataset.columns.values)
         #Drops rows with all nan values.
         pandas_dataset.dropna(how = 'all', inplace = True)
-        pandas_dataset, empty_cols = fill_empty_cols(pandas_dataset.iloc[range(1,len(pandas_dataset))])
+        pandas_dataset, empty_cols = fill_empty_cols(pandas_dataset)
         #Drops columns with all nan values. Subset parameter is used to exclude column label.
         pandas_dataset.dropna(axis=1, how = 'all', subset=range(1,len(pandas_dataset)), inplace = True)
         headers = clean_cols(headers)
