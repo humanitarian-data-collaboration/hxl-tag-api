@@ -64,12 +64,21 @@ def clean_cols(data):
     data = remove_chars(data)
     return data
 
+def fill_empty_cols(df):
+    empty_cols = []
+    for i in df.columns.values:
+        if (len(df[i].dropna()) == 0):
+            df.set_value(2,i,1)
+            empty_cols.append(df.columns.get_loc(i))
+    return df, empty_cols
+
 def preprocess(pandas_dataset, df_target):
     if (not pandas_dataset.empty):
         organization = 'HDX'   #Replace if datasets contains organization
         headers = list(pandas_dataset.columns.values)
         #Drops rows with all nan values.
         pandas_dataset.dropna(how = 'all', inplace = True)
+        pandas_dataset, empty_cols = fill_empty_cols(pandas_dataset.iloc[range(1,len(pandas_dataset))])
         #Drops columns with all nan values. Subset parameter is used to exclude column label.
         pandas_dataset.dropna(axis=1, how = 'all', subset=range(1,len(pandas_dataset)), inplace = True)
         headers = clean_cols(headers)
@@ -85,7 +94,7 @@ def preprocess(pandas_dataset, df_target):
             raise Exception("Error: arguments not matched")
 
     df_result = transform_vectorizers(df_target)
-    return df_result
+    return df_result, empty_cols
 
 def transform_vectorizers(df_target):
     number_of_data_point_to_vectorize = 7
@@ -194,11 +203,11 @@ def upload_file():
             input_dataset = pd.read_json(file)
             input_dataset = input_dataset.rename(columns=input_dataset.iloc[0]).drop(input_dataset.index[0])
                 # process the untagged dataset
-        processed_dataset = preprocess(input_dataset, 
-            pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
+        processed_dataset, empty_cols = preprocess(input_dataset, 
+                               pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
         model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
-
         output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
+        output_dataset.loc[empty_cols,0] = 'No Prediction. Column only had missing values'
 
         resp = make_response(output_dataset.to_csv())
         resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
