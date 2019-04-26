@@ -1,0 +1,886 @@
+ADM0_NAME,ADM1_NAME,ADM2_NAME,FCS_Mean,FCS_poor,FCS_Borderline,FCS_Acceptable,Target_Group,FCS_Month,FCS_Year,Methodology,FCS_LowerThreshold,FCS_UpperThreshold,FCS_DataSource,Indicator_Type
+Armenia,Aragatsotn,,,0,3.128376514,96.87162349,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Ararat,,,0.262798676,1.744469185,97.99273214,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Armavir,,,1.039384823,4.820485125,94.14013005,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Gergharkunik,,,1.163326497,5.236942691,93.59973081,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Kotayk,,,0.586704098,3.999281954,95.41401395,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Lori,,,0.196676637,0.284479604,99.51884376,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Shirak,,,1.259946391,9.874959879,88.86509373,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Syunik,,,0,0.854294208,99.14570579,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Tavush,,,0.780488774,3.6909092,95.52860203,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Vayots Dzor,,,0.186228077,1.100710212,98.71306171,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,Yerevan,,,1.26688228,4.312313222,94.4208045,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Armenia,,,,0.836192136,3.978693301,95.18511456,Total Population by Administrative Units,8,2009,Raised Threshold: 28/42,,,"WFP VAM Impact of the Global Financial Crisis on Households, 2010",Baseline
+Bangladesh,Barisal,,,2.004449169,12.42243824,85.57311259,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Bangladesh Household Food Security and Nutrition Assessment Report (CFSVA), 2009",Baseline
+Bangladesh,Chittagong,,,0.646031446,10.93574202,88.41822654,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Bangladesh Household Food Security and Nutrition Assessment Report (CFSVA), 2009",Baseline
+Bangladesh,Dhaka,,,0.618428462,9.782032678,89.59953886,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Bangladesh Household Food Security and Nutrition Assessment Report (CFSVA), 2009",Baseline
+Bangladesh,Khulna,,,0.957971124,12.62196877,86.4200601,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Bangladesh Household Food Security and Nutrition Assessment Report (CFSVA), 2009",Baseline
+Bangladesh,Rajshahi,,,0.976344634,16.21759889,82.80605648,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Bangladesh Household Food Security and Nutrition Assessment Report (CFSVA), 2009",Baseline
+Bangladesh,Sylhet,,,0.461792151,11.30473737,88.23347048,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Bangladesh Household Food Security and Nutrition Assessment Report (CFSVA), 2009",Baseline
+Bangladesh,,,,0.836492236,12.26601412,86.89749364,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Bangladesh Household Food Security and Nutrition Assessment Report (CFSVA), 2009",Baseline
+Benin,Alibori,,,1.511627907,14.41860465,84.06976744,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Atakora,,,13.21243523,36.01036269,50.77720207,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Atlantique,,,1.685985248,17.01791359,81.29610116,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Borgou,,,6.06557377,27.95081967,65.98360656,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Collines,,,1.25,25.91666667,72.83333333,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Couffo,,,18.7037037,28.7037037,52.59259259,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Donga,,,9.325681492,18.22094692,72.45337159,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Littoral,,,0.297619048,3.80952381,95.89285714,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Mono,,,14.1,33.7,52.2,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Oueme,,,3.694874851,9.535160906,86.76996424,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Plateau,,,0.447928331,5.711086226,93.84098544,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,Zou,,,2.416356877,19.45477076,78.12887237,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Benin,,,,5.374549339,19.2215249,75.40392576,Total Population by Administrative Units,3,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de la Securite Alimentaire (AGVSA), 2014",Baseline
+Burkina Faso,Boucle Du Mouhoun,,,3.298082781,22.27045569,74.43146153,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Cascades,,,0.876652849,9.523809524,89.59953763,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Centre,,,8.333333333,39.16666667,52.5,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Centre-est,,,4.32796685,37.4273469,58.24468625,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Centre-nord,,,5.526965701,32.39025695,62.08277735,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Centre-ouest,,,9.616812254,37.6325715,52.75061625,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Centre-sud,,,5.250402923,48.71759184,46.03200524,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Est,,,1.299431464,25.7777708,72.92279773,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Hauts-bassins,,,0.180209614,11.33071643,88.48907396,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Nord,,,4.50736928,17.36435281,78.12827791,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Plateau Central,,,13.13226595,46.64499259,40.22274146,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Sahel,,,1.340829989,8.789026758,89.87014325,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,Sud-ouest,,,2.886170727,15.81557085,81.29825842,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burkina Faso,,,,4.680635478,27.42335896,67.89600556,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Burundi,,,36.62,8.1,44,47.9,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,34.52,23.3,32.8,43.9,Total Population by Administrative Units,4,2009,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,35.77,17.6,39.5,42.9,Total Population by Administrative Units,10,2009,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,33.9,18.6,40.8,40.6,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,37.12,15.2,34.7,50.1,Total Population by Administrative Units,10,2010,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,38.6,11.3,33.9,54.8,Total Population by Administrative Units,4,2011,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,42.09,6.4,28.8,64.8,Total Population by Administrative Units,10,2011,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,37.55,10.1,38.9,51,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,39.56,4.8,37.9,57.3,Total Population by Administrative Units,10,2012,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,,,39.13,5.4,40.5,54.1,Total Population by Administrative Units,4,2013,Standard Threshold: 21/35,,,FSMS,Monitoring
+Burundi,Bubanza,,,3.770021381,26.49182721,69.73815141,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Bujumbura Rural,,,6.029028285,24.11612991,69.8548418,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Bururi,,,1.021071276,8.752333068,90.22659566,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Cankuzo,,,8.659358236,25.36438829,65.97625348,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Cibitoke,,,7.711447727,28.61203434,63.67651793,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Gitega,,,3.693243273,18.40503456,77.90172216,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Karuzi,,,10.64059804,30.39768593,58.96171603,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Kayanza,,,1.261524116,29.72542346,69.01305243,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Kirundo,,,2.203891117,22.81457622,74.98153266,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Makamba,,,0.612801029,7.130427005,92.25677197,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Muramvya,,,2.2467117,15.95263629,81.80065201,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Muyinga,,,8.646322089,22.64112929,68.71254863,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Mwaro,,,2.552259377,25.76143654,71.68630408,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Ngozi,,,8.196295609,33.06088804,58.74281635,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Rutana,,,3.073902832,16.19326426,80.73283291,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,Ruyigi,,,4.374605681,20.77381722,74.8515771,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Burundi,,,,4.8368037,22.91099835,72.25219795,Total Population by Administrative Units,7,2008,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security & Vulnerability Analysis (CFSVA), 2008",Baseline
+Côte d'Ivoire,#Agneby,,,0,0.430107527,99.56989247,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#Bafing,,,4.485488127,24.34036939,71.17414248,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#Fromager,,,3.789731051,7.762836186,88.44743276,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#Haut-sassandra,,,1.678832117,8.175182482,90.1459854,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#Moyen Comoe,,,1.437371663,4.859685147,93.70294319,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#Moyen-Cavally,,,7.461809636,15.2173913,77.32079906,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#N'zi Comoe,,,0.842696629,12.5,86.65730337,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#Sud Bandama,,,1.937207749,7.214428858,90.84836339,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,#Worodougou,,,0.971659919,8.502024291,90.52631579,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Bas Sassandra,,,3.497501784,19.12919343,77.37330478,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Comoe,,,0,1.058201058,98.94179894,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Denguele,,,0.574712644,6.635318704,92.78996865,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Lacs,,,0,9.255898367,90.74410163,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Lagunes,,,0,3.98912058,96.01087942,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Montagnes,,,7.170099161,14.56903127,78.26086957,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Sassandra-Marahoue,,,0.801479655,5.795314427,93.40320592,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Savanes,,,1.737871108,14.33743664,83.92469225,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Vallee Du Bandama,,,0.327868852,2.62295082,97.04918033,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,Zanzan,,,1.849112426,8.727810651,89.42307692,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Côte d'Ivoire,,,,2.066784084,9.280759139,88.65245678,Total Population by Administrative Units,6,2009,Standard Threshold: 21/35,,,"WFP VAM Evaluation approfondie de la securite alimentaire des menages ruraux en Cote d?Ivoire (CFSVA), 2009",Baseline
+Cameroon,Adamaoua,,,0,9.868421053,90.13157895,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Centre,,,0.877192982,11.22807018,87.89473684,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Extrême - Nord,,,3.194444444,12.77777778,84.02777778,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Littoral,,,2.962962963,14.53703704,82.5,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Nord,,,2.976190476,9.920634921,87.1031746,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Nord - Ouest,,,0.396825397,6.944444444,92.65873016,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Ouest,,,6.944444444,18.05555556,75,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Sud,,,2.850877193,26.09649123,71.05263158,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Sud - Ouest,,,0.416666667,2.916666667,96.66666667,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,,,,2.174603175,13.36507937,84.46031746,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Cameroon,Est,,,1.096491228,24.34210526,74.56140351,Total Population by Administrative Units,5,2011,Non-Standard Threshold (please specify),28,38,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Ins‚curite Alimentaire (CFSVA), 2011",Baseline
+Central African Republic,Bamingui-Bangoran,,,1.604278075,9.625668449,88.77005348,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Bangui,,,1.052631579,9.473684211,89.47368421,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Basse-Kotto,,,8.070175439,37.89473684,54.03508772,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Haut-Mbomou,,,1.260504202,13.44537815,85.29411765,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Haute-Kotto,,,2.777777778,15.07936508,82.14285714,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Kémo,,,9.122807018,30.1754386,60.70175439,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Lobaye,,,2.105263158,29.47368421,68.42105263,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Mambéré-Kadéï,,,1.094890511,13.13868613,85.76642336,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Mbomou,,,2.105263158,23.50877193,74.38596491,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Nana-Gribizi,,,29.07801418,36.5248227,34.39716312,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Nana-Mambéré,,,1.754385965,14.38596491,83.85964912,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Ombella M'Poko,,,0,6.293706294,93.70629371,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Ouaka,,,12,21.09090909,66.90909091,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Ouham,,,7.665505226,32.05574913,60.27874564,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Ouham Pendé,,,22.37762238,39.16083916,38.46153846,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Sangha-Mbaéré,,,3.272727273,22.90909091,73.81818182,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,Vakaga,,,3.03030303,15.15151515,81.81818182,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Central African Republic,,,,6.750285063,22.5313569,70.71835804,Total Population by Administrative Units,6,2009,Non-Standard Threshold (please specify),25,39,"WFP VAM Analyse Globale de la Vulnerabilite et de l?Insecurite Alimentaire (AGVSA), 2009",Baseline
+Chad,Assongha,,,19.44444444,58.33333333,22.22222222,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Baguirmi,,,23.14814815,25,51.85185185,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Barh Koh,,,18.08510638,31.91489362,50,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Barl El Gazal,,,16.66666667,11.66666667,71.66666667,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Batha Est,,,36.11111111,25,38.88888889,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Batha Ouest,,,40,25,35,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Biltine,,,19.73244147,25.4180602,54.84949833,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Daraba,,,16.66666667,41.66666667,41.66666667,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Guera,,,10.33333333,22.66666667,67,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Hadjer Lamis,,,13.94849785,16.73819742,69.31330472,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Kabia,,,21.42857143,44.04761905,34.52380952,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Kanem,,,25.83333333,18.33333333,55.83333333,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Lac,,,15.33333333,12.66666667,72,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Lac Iro,,,26.66666667,36.66666667,36.66666667,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Logone Occidental,,,9.660574413,25.06527415,65.27415144,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Logone Oriental,,,9.333333333,27.33333333,63.33333333,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Mandoul,,,13.46153846,28.84615385,57.69230769,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Mayo-Boneye,,,39.28571429,22.61904762,38.0952381,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Mayo-Dala,,,14.39393939,25.75757576,59.84848485,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Ouaddai,,,4.900181488,24.50090744,70.59891107,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Salamat,,,19.33333333,28,52.66666667,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Tandjile Est,,,13.46153846,21.79487179,64.74358974,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,Tandjile Ouest,,,23.61111111,28.47222222,47.91666667,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Chad,,,,16.20519425,24.03949345,59.7553123,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite, 2010",Baseline
+Congo,Bouenza,,,0.746268657,11.19402985,88.05970149,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Cuvette,,,2.973977695,12.26765799,84.75836431,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Cuvette Ovest,,,3.333333333,10.37037037,86.2962963,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Kouilou,,,0.25974026,2.467532468,97.27272727,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Lekoumou,,,2.681992337,14.55938697,82.75862069,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Likouala,,,2.991452991,15.38461538,81.62393162,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Niari,,,4.150943396,23.39622642,72.45283019,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Plateaux,,,1.481481481,10,88.51851852,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Pool,,,1.902173913,5.706521739,92.39130435,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,Sangha,,,1.538461538,3.846153846,94.61538462,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Congo,,,,1.887316125,9.020260894,89.09242298,Total Population by Administrative Units,3,2014,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Securite Alimentaire et de la Vulnerabilite (AGSAV), 2014",Baseline
+Democratic Republic of the Congo,Bandundu,,,11.19076065,15.89008363,72.91915571,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Bas-Congo,,,6.709265176,25.68690096,67.60383387,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Equateur,,,12.97192643,36.83446273,50.19361084,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Kasai Occidental,,,10.38077969,26.60924751,63.0099728,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Kasai Oriental,,,8.014059754,37.60984183,54.37609842,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Katanga,,,11.50527325,23.25023969,65.24448706,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Maniema,,,5.497501136,32.12176284,62.38073603,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Nord-Kivu,,,12.66222378,25.35952297,61.97825324,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Orientale,,,7.207718502,30.24971623,62.54256527,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Sud-Kivu,,,12.52613969,32.45503973,55.01882058,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,,,,10.28743719,29.02110553,60.69145729,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2014",Baseline
+Democratic Republic of the Congo,Nord-Kivu,$Goma,26.83,57.54716981,37.73584906,4.716981132,Total Population by Administrative Units,2,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 3: Food Insecurity Rates Stable but at High Levels in Mugunga 3, July 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,25.5,73.52941176,23.52941176,2.941176471,Total Population by Administrative Units,3,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 3: Food Insecurity Rates Stable but at High Levels in Mugunga 3, July 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,26.56,70.21276596,26.06382979,3.723404255,Total Population by Administrative Units,4,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 3: Food Insecurity Rates Stable but at High Levels in Mugunga 3, July 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,27.97,61.58536585,32.92682927,5.487804878,Total Population by Administrative Units,5,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 3: Food Insecurity Rates Stable but at High Levels in Mugunga 3, July 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,26.32,67.4796748,29.26829268,3.25203252,Total Population by Administrative Units,6,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 3: Food Insecurity Rates Stable but at High Levels in Mugunga 3, July 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,26.02,69.87951807,25.70281124,4.417670683,Total Population by Administrative Units,7,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 3: Food Insecurity Rates Stable but at High Levels in Mugunga 3, July 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,27.41,66.80497925,27.80082988,5.394190871,Total Population by Administrative Units,8,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 4: Food insecurity remains high. Indications that beneficiaries have lower coping, August 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,28.60084034,56.96202532,36.70886076,6.329113924,Total Population by Administrative Units,10,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 5: Levels of food insecurity persist in Mugunga 3 Camp, October 2014",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,30.05,53.63636364,33.63636364,12.72727273,Total Population by Administrative Units,11,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 6: Less Severely Food Insecure Households Following the Harvest, January 2015",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,29.43,51.70454545,39.20454545,9.090909091,Total Population by Administrative Units,12,2014,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 6: Less Severely Food Insecure Households Following the Harvest, January 2015",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,30.79,44.33497537,45.32019704,10.34482759,Total Population by Administrative Units,1,2015,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 6: Less Severely Food Insecure Households Following the Harvest, January 2015",Monitoring
+Democratic Republic of the Congo,Nord-Kivu,$Goma,29,58.07860262,35.37117904,6.550218341,Total Population by Administrative Units,2,2015,Raised Threshold: 28/42,,,"WFP mVAM Bulletin 7: Post Harvest Improvement in Household Food Security Halts, February 2015",Monitoring
+Ethiopia,Addis Ababa,,,7.979899579,22.59415124,69.42594918,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Afar,,,1.103865327,4.609042211,94.28709246,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Amhara,,,1.978132277,9.057918318,88.9639494,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Beneshangul Gumu,,,1.641329266,15.13249713,83.22617361,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Dire Dawa,,,0.370476073,10.75367199,88.87585194,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Gambela,,,6.835461417,21.5596931,71.60484548,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Hareri,,,0.252208632,9.17952267,90.5682687,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Oromia,,,5.683066509,14.11047659,80.2064569,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,SNNPR,,,30.59321903,32.17708418,37.22969679,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Somali,,,6.573201846,9.81500731,83.61179084,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,Tigray,,,2.611796428,12.82155434,84.56664923,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Ethiopia,,,,9.519638395,16.57109698,73.90926463,Total Population by Administrative Units,6,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis, 2014",Baseline
+Gambia,$Kanifing Municipal Council,,,0.892857143,4.166666667,94.94047619,Total Population by Administrative Units,4,2011,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Gambia,Central River,,,0.444444444,3.259259259,96.2962963,Total Population by Administrative Units,4,2011,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Gambia,Lower River,,,0.196850394,1.968503937,97.83464567,Total Population by Administrative Units,4,2011,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Gambia,North Bank,,,0.199600798,1.397205589,98.40319361,Total Population by Administrative Units,4,2011,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Gambia,Upper River,,,0.589970501,2.949852507,96.46017699,Total Population by Administrative Units,4,2011,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Gambia,West Coast,,,0,2.686567164,97.31343284,Total Population by Administrative Units,4,2011,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Gambia,,,,0.371195249,2.672605791,96.95619896,Total Population by Administrative Units,4,2011,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Ghana,Northern,,,2.3,18,79.7,Total Population by Administrative Units,5,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis - Focus on Northern Ghana (CFSVA), 2012",Baseline
+Ghana,Upper East,,,6.4,31.9,61.7,Total Population by Administrative Units,5,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis - Focus on Northern Ghana (CFSVA), 2012",Baseline
+Ghana,Upper West,,,1.4,22.3,76.3,Total Population by Administrative Units,5,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis - Focus on Northern Ghana (CFSVA), 2012",Baseline
+Ghana,,,,3.3,22.8,73.9,Total Population by Administrative Units,5,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis - Focus on Northern Ghana (CFSVA), 2012",Baseline
+Guinea,Boke,,,4.583333333,31.04166667,64.375,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,Conakry,,,1.641414141,17.42424242,80.93434343,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,Faranah,,,8.607594937,18.48101266,72.91139241,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,Kankan,,,2.124183007,23.20261438,74.67320261,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,Kindia,,,4.166666667,42.39130435,53.44202899,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,Labe,,,2.222222222,20,77.77777778,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,Mamou,,,3.055555556,26.94444444,70,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,Nzerekore,,,3.166666667,39.16666667,57.66666667,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea,,,,3.394135304,27.15308243,69.45278227,Total Population by Administrative Units,7,2012,Standard Threshold: 21/35,,,"WFP VAM Enquete Nationale de la Securite Alimentaire et de la Vulnerabilite (ENSAV), 2014",Baseline
+Guinea-Bissau,Tombali,,,1.294498382,9.708737864,88.99676375,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,Quinara,,,18.78453039,27.0718232,54.14364641,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,Oio,,,6.94239291,17.72525849,75.3323486,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,Biombo,,,4.814814815,13.7037037,81.48148148,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,Bolama/bijagos,,,13.15789474,12.28070175,74.56140351,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,Gabu,,,2.139037433,11.942959,85.91800357,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,Cacheu,,,3.684210526,16.66666667,79.64912281,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,,,,4.81184454,14.62060457,80.56755089,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Guinea-Bissau,Bafata,,,1.785714286,11.07142857,87.14285714,Total Population by Administrative Units,12,2010,Standard Threshold: 21/35,,,"WFP VAM Resultats de l?Enquete Approfondie sur la Securite Alimentaire et la Vulnerabilite des Menages Ruraux (CFSVA), 2011",Baseline
+Haiti,Nord Ouest,,,11.78861789,30.48780488,57.72357724,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Nord,,,12.17391304,25.79710145,62.02898551,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Nord Est,,,8.403361345,26.8907563,64.70588235,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Artibonite,,,5.78358209,19.96268657,74.25373134,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Centre,,,2.75862069,15.51724138,81.72413793,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Ouest,,,3.75,16.25,80,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Grande Anse,,,6.043956044,25.27472527,68.68131868,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,$Nippes,,,3.03030303,7.575757576,89.39393939,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Sud,,,3.896103896,12.01298701,84.09090909,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,Sud Est,,,4.743083004,14.62450593,80.63241107,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Haiti,,,,5.998033432,19.07571288,74.92625369,Total Population by Administrative Units,11,2007,Non-Standard Threshold (please specify),26,40,"WFP VAM Analyse Comprehensive de la Securite Alimentaire et de la Vulnerabilite en Milieu Rural Haitien (CFSVA),2009",Baseline
+Iraq,Anbar,,80.79591837,2.040816327,2.040816327,95.91836735,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Babil,,79.91525424,0,5.084745763,94.91525424,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Baghdad,,78.42259414,0.418410042,2.092050209,97.48953975,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Basrah,,83.52,0,0,100,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Dahuk,,70.19148936,2.127659574,6.382978723,91.4893617,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Diyala,,74.82,0,0,100,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Erbil,,77.53424658,1.369863014,4.109589041,94.52054795,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Kerbala,,87.675,0,0,100,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Kirkuk,,72.73469388,2.040816327,6.12244898,91.83673469,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Missan,,74.74193548,0,0,100,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Muthanna,,75.26666667,3.333333333,6.666666667,90,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Najaf,,72.94,0,4,96,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Ninewa,,72.23232323,3.03030303,6.060606061,90.90909091,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Qadissiya,,78.69230769,0,2.564102564,97.43589744,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Salah al-Din,,73.54,4,4,92,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Sulaymaniyah,,78.78666667,1.333333333,1.333333333,97.33333333,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Thi-Qar,,79.12307692,3.076923077,0,96.92307692,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,Wassit,,71.58139535,2.325581395,9.302325581,88.37209302,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Iraq,,,77.30516799,1.251254135,2.996260891,95.75248497,Total Population by Administrative Units,3,2015,Raised Threshold: 28/42,,,WFP - live call survey,Monitoring
+Kenya,Central,,,2.752293578,4.128440367,93.11926606,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,Coast,,,4.784688995,11.00478469,84.21052632,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,Eastern,,,5.304010349,6.985769728,87.71021992,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,Nairobi,,,4.166666667,12.5,83.33333333,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,North Eastern,,,0.717703349,3.588516746,95.6937799,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,Nyanza,,,4.464285714,9.821428571,85.71428571,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,Rift Valley,,,9.753593429,8.213552361,82.03285421,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,Western,,,3.584229391,7.885304659,88.53046595,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kenya,,,,5.397727273,8.161157025,86.4411157,Total Population by Administrative Units,9,2010,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis(CFSVA)and Nutrition Assessment, 2012",Baseline
+Kyrgyzstan,,,73.83,1.4,5.5,93.1,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,59.98,7.5,17.2,75.3,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,75,0.5,5.5,94,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,69.92,1.7,8,90.3,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,69.5,4,10.2,85.8,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,74.07,1.2,5.2,93.6,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,73.03,1.8,6.4,91.8,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,60.25,7.7,16.2,76.1,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,59.21,6.7,20.1,73.2,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,74.67,0.5,4.8,94.7,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,75.72,1,7,92,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,70.06,1.5,7.5,91,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,69.65,2.2,8.9,88.9,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,69.81,3.5,9.5,87,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,,,68.66,5.3,12,82.7,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,88.58,0,1.6,98.4,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,78.84,0,7.4,92.6,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,70.8,2.2,8.4,89.4,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,67.47,1.4,15.5,83.1,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,79,0.8,5.3,93.9,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,70.48,0.9,13.6,85.5,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,76.28,0.7,3.4,95.9,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,71.77,2.9,5.7,91.4,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,77.48,0.8,5.8,93.4,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,79.22,1.6,2.3,96.1,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,79.85,0,2,98,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,74.42,0,7.5,92.5,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,73.15,0,0.6,99.4,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,70.21,0,3.8,96.2,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,59.44,4.1,11.3,84.6,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,55.39,7.1,16.1,76.8,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,65.62,0,12.5,87.5,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,62.05,0.7,9.6,89.7,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,73.17,0.5,5.8,93.7,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,71.25,4.9,3.3,91.8,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,70.12,6.4,8.5,85.1,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,63.44,11.3,9.7,79,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,65.14,8,10.3,81.7,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,68.46,3.9,10.5,85.6,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,81.27,0.6,5.2,94.2,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,81.92,1.1,1.1,97.8,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,76.15,2.3,6.3,91.4,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,77.88,0,6.6,93.4,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,80.83,0.5,0.9,98.6,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,79.22,0,2.6,97.4,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,83.19,0,1.5,98.5,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,75.25,0,6,94,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,50.11,8.9,34.7,56.4,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,46.05,8.3,43.3,48.4,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,70.29,0,3.5,96.5,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,70.57,0,4,96,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,63.83,9.5,11.6,78.9,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,60.32,9.8,9.8,80.4,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,76.77,0,2.4,97.6,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,76,0,2.6,97.4,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,65.31,1,7.4,91.6,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,60.36,6.5,15.2,78.3,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,53.55,8.2,23,68.8,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,49.44,6,40,54,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,76.82,0,1.6,98.4,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,77.76,0,0,100,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,67.26,0,6.7,93.3,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,56.97,1.4,22.2,76.4,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,54.38,11.1,22.6,66.3,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,45.37,18.3,36.7,45,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,78.8,0.5,5.6,93.9,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,75.07,0,11.4,88.6,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,47.07,19,29.6,51.4,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,45.8,23.9,28.2,47.9,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,67.86,1,7.7,91.3,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,68.08,0,12.5,87.5,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,65.28,0.6,8.4,91,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,64.31,0,9.7,90.3,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,53.17,12.9,17.2,69.9,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,46.65,17.1,36.6,46.3,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,62.2,2,7.6,90.4,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,64.4,0,5.8,94.2,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,60.46,8.3,15.9,75.8,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,52.92,14,18.6,67.4,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,69.7,0,7.9,92.1,Male Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,76.99,0,8.3,91.7,Female Headed HHs,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,64.83,2,11.5,86.5,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,68.59,6.9,6.9,86.2,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,65.87,0.5,17,82.5,Male Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,59.21,7.1,25,67.9,Female Headed HHs,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,85.932,0,3.2,96.8,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,69.858,2,10.4,87.6,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,75.014,0.8,9.2,90,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,74.384,1.8,4.4,93.8,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Chuy,,78.38,1.2,4,94.8,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,78.702,0,3.2,96.8,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,72.234,0,1.6,98.4,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,58.53,4.8,12.4,82.8,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,63.538,0.4,10.8,88.8,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Naryn,,72.71,1.6,5.2,93.2,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,68.464,7.6,8.8,83.6,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,66.15,6.8,10.4,82.8,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,81.516,0.8,3.6,95.6,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,76.674,1.6,6.4,92,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Ysyk-Kol,,80.58,0.4,1.2,98.4,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,81.602,0,2.4,97.6,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,49.138,8.8,36.8,54.4,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,70.35,0,3.6,96.4,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,63.118,9.6,11.2,79.2,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Talas,,76.65,0,2.4,97.6,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,64.398,2,8.8,89.2,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,52.6158,7.8,26.8,65.4,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,76.9891,0,1.3,98.7,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,64.3,0.4,11.2,88.4,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Jalal-Abad,,52.22,12.8,26,61.2,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,78.282,0.4,6.4,93.2,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,46.706,20.4,29.2,50.4,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,67.91,0.8,8.8,90.4,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,65,0.4,8.8,90.8,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Batken,,52.1,13.6,20.4,66,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,62.658,1.6,7.2,91.2,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,58.84,9.5,16.5,74,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,71.4525,0,8,92,Total Population by Administrative Units,8,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,65.702,3.2,10.4,86.4,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Kyrgyzstan,Osh,,64.38,2,18.8,79.2,Total Population by Administrative Units,9,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Lao People's Democratic Republic,Attapu,,,1.209677419,8.064516129,90.72580645,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Bokeo,,,11.2,30.4,58.4,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Bolikhamxai,,,0.803212851,3.212851406,95.98393574,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Champasak,,,0.403225806,1.209677419,98.38709677,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Houaphan,,,1.632653061,19.18367347,79.18367347,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Khammouan,,,1.271186441,8.898305085,89.83050847,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Louang-Namtha,,,1.659751037,14.52282158,83.81742739,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Louangphabang,,,2.43902439,13.82113821,83.7398374,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Oudomxai,,,4,14.8,81.2,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Phongsali,,,4.4,14.8,80.8,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Salavan,,,4.149377593,26.14107884,69.70954357,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Savannakhet,,,0.909090909,2.727272727,96.36363636,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Vientiane,,,0,3.6,96.4,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Xaignabouli,,,1.2,8.8,90,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Xekong,,,10.83333333,14.16666667,75,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,Xiangkhouang,,,3.2,22.8,74,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Lao People's Democratic Republic,,,,3.09146653,13.00459888,83.90393459,Total Population by Administrative Units,11,2006,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2007",Baseline
+Liberia,Bomi,,,38.8,34.8,26.4,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Bong,,,16.34615385,37.30769231,46.34615385,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Gbarpolu,,,4.2,32.2,63.6,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Grand Bassa,,,6.6,27.4,66,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Grand Cape Mount,,,13.05220884,40.96385542,45.98393574,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Grand Gedeh,,,10.8,31.2,58,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Grand Kru,,,33.6,44.6,21.8,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Lofa,,,3.006012024,33.46693387,63.52705411,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Margibi,,,7.214428858,30.06012024,62.7254509,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Maryland,,,43.28657315,29.25851703,27.45490982,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Montserrado,,,12.3246493,29.05811623,58.61723447,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Nimba,,,9.2,23.2,67.6,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,River Gee,,,28.10590631,54.37881874,17.51527495,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Rivercess,,,15.83166333,38.67735471,45.49098196,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,Sinoe,,,12.0240481,33.06613226,54.90981964,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Liberia,,,,16.65833542,34.27893027,49.06273432,Total Population by Administrative Units,8,2010,Non-Standard Threshold (please specify),24,38,"WFP VAM The State of Food and Nutrition Insecurity in Liberia - Comprehensive Food Security and Nutrition Survey (CFSVA), 2010",Baseline
+Madagascar,$Alaotra Mangoro,,,1.851851852,39.50617284,58.64197531,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Amoron I Mania,,,3.968253968,39.68253968,56.34920635,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Analamanga,,,0.819672131,13.1147541,86.06557377,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Analanjirofo,,,2.542372881,55.93220339,41.52542373,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Androy,,,50.3649635,26.64233577,22.99270073,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Anosy,,,23.10606061,35.60606061,41.28787879,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Atsimo Andrefana,,,68.18181818,21.21212121,10.60606061,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Atsimo Atsinanana,,,15.42857143,45.14285714,39.42857143,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Betsiboka,,,0.947867299,26.54028436,72.51184834,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Boeny,,,1.01010101,25.25252525,73.73737374,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Bongolava,,,1.226993865,27.60736196,71.16564417,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Diana,,,14.28571429,33.33333333,52.38095238,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Haute Matsiatra,,,0.694444444,61.11111111,38.19444444,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Ihorombe,,,0.609756098,26.82926829,72.56097561,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Itasy,,,1.840490798,75.4601227,22.6993865,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Melaky,,,0.549450549,16.48351648,82.96703297,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Menabe,,,0.462962963,18.98148148,80.55555556,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Sava,,,7.262569832,69.27374302,23.46368715,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Sofia,,,9.865470852,56.50224215,33.632287,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Vakinankaratra,,,0.751879699,29.32330827,69.92481203,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,$Vatovavy Fitovinany,,,21.17117117,60.81081081,18.01801802,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,Atsinanana,,,0.930232558,49.30232558,49.76744186,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Madagascar,,,,12.04616494,38.95167107,49.00216398,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food and Nutrition Security and Vulnerability Analysis(CFSVA+N), 2011",Baseline
+Malawi,Central Region,Dedza,,6.064858796,28.0946829,65.8404583,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Dowa,,5.815082216,27.60622798,66.57868981,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Kasungu,,2.014991763,21.40577384,76.5792344,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Lilongwe,,4.447029246,19.77510699,75.77786377,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Mchinji,,4.737980226,28.42788136,66.83413842,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Nkhotakota,,0.808560682,11.51350372,87.6779356,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Ntcheu,,2.665672242,22.25052794,75.08379982,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Ntchisi,,1.573527169,23.09948443,75.3269884,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,Salima,,7.585869372,22.65972593,69.7544047,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Central Region,,,4.429042656,22.5634545,73.00750284,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Northern Region,Chitipa,,1.187279152,34.92226148,63.89045936,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Northern Region,Karonga,,1.794208791,26.69206324,71.51372797,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Northern Region,Mzimba,,2.24819414,27.26461105,70.48719481,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Northern Region,Nkhata Bay,,0.202381265,4.50232607,95.29529266,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Northern Region,Rumphi,,1.138093032,6.206577119,92.65532985,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Northern Region,,,1.666731502,22.61492596,75.71834253,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Balaka,,2.061245947,31.47737177,66.46138229,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Blantyre,,0.725809915,9.23272205,90.04146804,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Chikwawa,,9.162425265,31.89335591,58.94421883,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Chiradzulu,,1.028250662,21.50014427,77.47160507,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Machinga,,3.668724373,26.34344163,69.987834,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Mangochi,,2.198190531,25.4411836,72.36062586,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Mulanje,,6.475416277,28.84185412,64.6827296,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Mwanza,,0.675271166,17.19835335,82.12637549,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Neno,,2.056015488,26.43564608,71.50833843,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Nsanje,,6.377114402,27.03042034,66.59246525,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Phalombe,,9.177579081,32.13412904,58.68829188,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Thyolo,,2.307617313,15.73283772,81.95954497,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,Zomba,,1.677101653,17.27963419,81.04326416,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,Southern Region,,,3.474843898,22.09773008,74.42742602,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Malawi,,,,3.685318087,22.34362762,73.9710543,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive food security and vulnerability analysis (CFSVA) and nutrition assessment, 2012",Baseline
+Mauritania,,,70.09,2.5,4.9,92.6,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,66.49,8.2,10.8,81,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,66.58,5.2,7.9,86.9,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,63.81,8.5,13.7,77.8,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,70.09,2.5,4.9,92.6,Total Population by Administrative Units,1,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,63.38,6,9.2,84.8,Rural,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,85.13,0.3,0.7,99,Urban,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,58.4,11.3,17.2,71.5,Rural,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,79.48,0.2,3.7,96.1,Urban,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,67.31,2.9,5.8,91.3,Rural,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,,,82.43,0.5,0.8,98.7,Urban,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh Ech Chargi,,50.23606272,25.6097561,20.55749129,53.83275261,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh El Gharbi,,61.22025913,6.124852768,15.66548881,78.20965842,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Assaba,,60.14212152,15.96292482,10.71060762,73.32646756,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Gorgol,,63.38773148,8.680555556,17.01388889,74.30555556,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Brakna,,75.29703429,2.687673772,7.136237257,90.17608897,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Trarza,,73.88275862,1.206896552,2.75862069,96.03448276,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Adrar,,68.83676093,2.05655527,9.511568123,88.43187661,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Dakhlet-Nouadhibou,,75.35763889,0,6.25,93.75,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tagant,,66.65888889,3.111111111,13.11111111,83.77777778,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Guidimakha,,72.72991968,3.614457831,7.630522088,88.75502008,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tiris-Zemmour,,76.60416667,4.166666667,4.166666667,91.66666667,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Inchiri,,74.56306306,4.504504505,0.900900901,94.59459459,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Nouakchott,,82.91053922,0.245098039,0.980392157,98.7745098,Total Population by Administrative Units,6,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh Ech Chargi,,86.77941176,0.490196078,0.490196078,99.01960784,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh El Gharbi,,57.20833333,7.352941176,8.333333333,84.31372549,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Assaba,,50.08578431,16.17647059,24.50980392,59.31372549,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Gorgol,,61.56372549,6.862745098,10.78431373,82.35294118,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Brakna,,60.85539216,7.352941176,9.31372549,83.33333333,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Trarza,,70.57843137,0.980392157,4.411764706,94.60784314,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Adrar,,64.08823529,2.450980392,10.78431373,86.76470588,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Dakhlet-Nouadhibou,,73.09027778,0,1.388888889,98.61111111,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tagant,,75.90277778,0,4.166666667,95.83333333,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Guidimakha,,73.7377451,3.431372549,1.470588235,95.09803922,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tiris-Zemmour,,64.86029412,6.862745098,6.862745098,86.2745098,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Inchiri,,76.84722222,0,2.777777778,97.22222222,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Nouakchott,,83.91666667,0,0,100,Total Population by Administrative Units,3,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh Ech Chargi,,42.38308458,34.32835821,25.37313433,40.29850746,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh El Gharbi,,54.57360406,16.75126904,26.39593909,56.85279188,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Assaba,,59.63902439,3.902439024,22.43902439,73.65853659,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Gorgol,,54.05693069,10.89108911,18.81188119,70.2970297,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Brakna,,66.56067961,3.398058252,12.13592233,84.46601942,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Trarza,,75.02941176,0.980392157,3.431372549,95.58823529,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Adrar,,60.91578947,14.73684211,5.263157895,80,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Dakhlet-Nouadhibou,,84.77777778,0,0,100,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tagant,,56.18226601,13.30049261,17.24137931,69.45812808,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Guidimakha,,56.62745098,6.862745098,18.1372549,75,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tiris-Zemmour,,77.60526316,0,7.894736842,92.10526316,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Inchiri,,81.30555556,0,2.777777778,97.22222222,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Nouakchott,,78.70717131,0.199203187,3.984063745,95.81673307,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh Ech Chargi,,82.42577197,0.475059382,0.831353919,98.6935867,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Hodh El Gharbi,,61.16484517,5.464480874,5.282331512,89.25318761,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Assaba,,68.50102881,3.909465021,7.818930041,88.27160494,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Gorgol,,66.92942346,2.584493042,3.777335984,93.63817097,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Brakna,,65.03898635,2.339181287,9.55165692,88.10916179,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Trarza,,74.5503876,1.550387597,2.842377261,95.60723514,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Adrar,,74.10897436,2.777777778,3.846153846,93.37606838,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Dakhlet-Nouadhibou,,54.1010101,3.03030303,7.070707071,89.8989899,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tagant,,67.23333333,0,2.222222222,97.77777778,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Guidimakha,,67.30701754,1.754385965,5.263157895,92.98245614,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Tiris-Zemmour,,66.66203704,1.851851852,8.333333333,89.81481481,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Inchiri,,81.06060606,0,0,100,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Nouakchott,,78.28125,2.083333333,2.083333333,95.83333333,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Mauritania,Adrar,,,2.05655527,9.511568123,88.43187661,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Assaba,,,15.96292482,10.71060762,73.32646756,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Brakna,,,2.687673772,7.136237257,90.17608897,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Dakhlet-Nouadhibou,,,0,6.25,93.75,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Gorgol,,,8.680555556,17.01388889,74.30555556,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Guidimakha,,,3.614457831,7.630522088,88.75502008,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Hodh Ech Chargi,,,25.6097561,20.55749129,53.83275261,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Hodh El Gharbi,,,6.124852768,15.66548881,78.20965842,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Inchiri,,,4.504504505,0.900900901,94.59459459,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Nouakchott,,,0.245098039,0.980392157,98.7745098,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Tagant,,,3.111111111,13.11111111,83.77777778,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Tiris-Zemmour,,,4.166666667,4.166666667,91.66666667,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,Trarza,,,1.206896552,2.75862069,96.03448276,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mauritania,,,,8.191502388,10.7873148,81.02118281,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete sur la securite alimentaire des menages en Mauritanie (CFSVA), 2009",Baseline
+Mozambique,Cabo Delgado,,,15.10557859,16.57954559,68.31487582,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Gaza,,,18.31731389,34.490348,47.19233811,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Inhambane,,,9.348350598,33.72382222,56.92782718,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Manica,,,15.16854633,28.28922003,56.54223364,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Maputo,,,5.833680062,12.01670579,82.14961415,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Nampula,,,2.781646376,11.62616818,85.59218544,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Niassa,,,3.70958792,28.12380626,68.16660582,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Sofala,,,2.786305857,20.25031208,76.96338206,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Tete,,,11.06212181,22.93653264,66.00134555,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,Zambezia,,,12.32891453,13.8343077,73.83677777,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Mozambique,,,,9.079125419,18.33075493,72.59011965,Total Population by Administrative Units,9,2009,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2010",Baseline
+Nepal,,,39.74,31.4,28.9,39.7,Total Population by Administrative Units,1,2008,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,37.96,35.8,28.8,35.4,Total Population by Administrative Units,4,2008,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,41.08,25.3,33.1,41.6,Total Population by Administrative Units,7,2008,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,43.93,24.2,28.3,47.5,Total Population by Administrative Units,10,2008,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,40.36,29.2,30.9,39.9,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,40.46,29.9,31.1,39,Total Population by Administrative Units,4,2009,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,42.63,21.6,32.5,45.9,Total Population by Administrative Units,7,2009,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,44.93,18.9,32.5,48.6,Total Population by Administrative Units,10,2009,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,44.76,23.9,28.1,48,Total Population by Administrative Units,1,2010,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,45.18,20.3,29.5,50.2,Total Population by Administrative Units,4,2010,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,49.1,15.9,28,56.1,Total Population by Administrative Units,7,2010,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,,,53.14,10.1,25.8,64.1,Total Population by Administrative Units,10,2010,Raised Threshold: 28/42,,,NeKSAP,Monitoring
+Nepal,Central,,,1.788990826,10.77981651,87.43119266,Total Population by Administrative Units,2,2011,Raised Threshold: 28/42,,,"WFP VAM Nepal Thematic Report on Food Security and Nutrition (CFSVA), 2013",Baseline
+Nepal,Eastern,,,0.723472669,13.585209,85.69131833,Total Population by Administrative Units,2,2011,Raised Threshold: 28/42,,,"WFP VAM Nepal Thematic Report on Food Security and Nutrition (CFSVA), 2013",Baseline
+Nepal,Far Western,,,1.556420233,11.28404669,87.15953307,Total Population by Administrative Units,2,2011,Raised Threshold: 28/42,,,"WFP VAM Nepal Thematic Report on Food Security and Nutrition (CFSVA), 2013",Baseline
+Nepal,Mid Western,,,3.25203252,16.12466125,80.62330623,Total Population by Administrative Units,2,2011,Raised Threshold: 28/42,,,"WFP VAM Nepal Thematic Report on Food Security and Nutrition (CFSVA), 2013",Baseline
+Nepal,Western,,,1.243339254,6.48312611,92.27353464,Total Population by Administrative Units,2,2011,Raised Threshold: 28/42,,,"WFP VAM Nepal Thematic Report on Food Security and Nutrition (CFSVA), 2013",Baseline
+Nepal,,,,1.620130989,11.27197518,87.10789383,Total Population by Administrative Units,2,2011,Raised Threshold: 28/42,,,"WFP VAM Nepal Thematic Report on Food Security and Nutrition (CFSVA), 2013",Baseline
+Niger,Agadez,,,15.33074935,32.42377261,52.24547804,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,Diffa,,,15.16121538,26.53406304,58.30472158,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,Dosso,,,13.4616472,21.58605586,64.95229695,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,Maradi,,,11.00233325,22.01477113,66.98289562,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,Niamey,,,5.35992521,13.96073543,80.67933936,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,Tahoua,,,12.935934,12.99451182,74.06955418,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,Tillaberi,,,11.14665981,18.02218494,70.83115525,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,Zinder,,,7.836977153,25.75658065,66.40644219,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Niger,,,,11.29672868,20.52455516,68.17871616,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,"WFP VAM Enquete conjointe sur la vulnerabilite … l?insecurite alimentaire des menages au Niger (CFSVA), 2009",Emergency
+Philippines,,,,19.33292156,26.99197035,53.67510809,Total Population by Administrative Units,3,2013,Raised Threshold: 28/42,,,"WFP VAM Baseline Food Security Survey in Five Provinces of Central Mindanao (CFSVA), 2013",Baseline
+Philippines,Autonomous region in Muslim Mindanao (ARMM),Lanao Del Sur,,27.80172414,29.52586207,42.67241379,Total Population by Administrative Units,3,2013,Raised Threshold: 28/42,,,"WFP VAM Baseline Food Security Survey in Five Provinces of Central Mindanao (CFSVA), 2013",Baseline
+Philippines,Autonomous region in Muslim Mindanao (ARMM),Maguindanao,,17.5,29.375,53.125,Total Population by Administrative Units,3,2013,Raised Threshold: 28/42,,,"WFP VAM Baseline Food Security Survey in Five Provinces of Central Mindanao (CFSVA), 2013",Baseline
+Philippines,Region X (Northern Mindanao),Lanao Del Norte,,20.44444444,31.55555556,48,Total Population by Administrative Units,3,2013,Raised Threshold: 28/42,,,"WFP VAM Baseline Food Security Survey in Five Provinces of Central Mindanao (CFSVA), 2013",Baseline
+Philippines,Region XII (Soccsksargen),North Cotabato,,10.66666667,21.77777778,67.55555556,Total Population by Administrative Units,3,2013,Raised Threshold: 28/42,,,"WFP VAM Baseline Food Security Survey in Five Provinces of Central Mindanao (CFSVA), 2013",Baseline
+Philippines,Region XII (Soccsksargen),Sultan Kudarat,,13.33333333,17.33333333,69.33333333,Total Population by Administrative Units,3,2013,Raised Threshold: 28/42,,,"WFP VAM Baseline Food Security Survey in Five Provinces of Central Mindanao (CFSVA), 2013",Baseline
+Rwanda,,,42.33,6.9,23.5,69.6,Total Population by Administrative Units,9,2010,Standard Threshold: 21/35,,,FSMS,Monitoring
+Rwanda,,,42.47,4.5,21.6,73.9,Total Population by Administrative Units,3,2011,Standard Threshold: 21/35,,,FSMS,Monitoring
+Rwanda,,,40.86,10.3,26.3,63.4,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,FSMS,Monitoring
+Rwanda,,,29.26,37.7,37.1,25.2,Total Population by Administrative Units,3,2012,Standard Threshold: 21/35,,,FSMS,Monitoring
+Rwanda,,,42.81,7.7,23.2,69.1,Total Population by Administrative Units,9,2012,Standard Threshold: 21/35,,,FSMS,Monitoring
+Rwanda,#Butare,#Huye,,0,7.737725784,92.26227422,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,#Gisenyi,#Rubavu,,6.225515123,21.85525664,71.91922823,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,#Kibungo,#Kayonza,,0.804001891,8.581874636,90.61412347,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,#Kibuye,#Rutsiro,,13.75972247,38.85690654,47.38337099,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,#Umutara,#Nyagatare,,0,1.59190787,98.40809213,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$East/Iburasirazuba,$Bugesera,,1.621311046,22.87005804,75.50863091,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$East/Iburasirazuba,$Gatsibo,,2.606441632,23.76473088,73.62882749,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$East/Iburasirazuba,$Kirehe,,0.909878087,11.07934632,88.0107756,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$East/Iburasirazuba,$Ngoma,,1.671033974,9.92829216,88.40067387,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$East/Iburasirazuba,$Rwamagana,,1.385910316,6.823119128,91.79097056,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$North/Amajyaruguru,$Burera,,6.679161699,18.82616623,74.49467207,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$North/Amajyaruguru,$Gakenke,,2.604067426,21.58962438,75.80630819,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$North/Amajyaruguru,$Gicumbi,,0.816983325,12.41426238,86.76875429,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$North/Amajyaruguru,$Musanze,,2.346928649,9.219013595,88.43405776,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$North/Amajyaruguru,$Rulindo,,2.070889541,22.70393208,75.22517837,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$South/Amajyepfo,$Gisagara,,0.533771578,16.3526967,83.11353172,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$South/Amajyepfo,$Kamonyi,,1.237980513,12.85575718,85.90626231,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$South/Amajyepfo,$Muhanga,,2.666981417,22.88733139,74.44568719,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$South/Amajyepfo,$Nyamagabe,,6.204298836,25.62448071,68.17122045,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$South/Amajyepfo,$Nyanza,,3.190272041,21.25167977,75.55804819,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$South/Amajyepfo,$Nyaruguru,,6.872575087,14.79344871,78.3339762,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$South/Amajyepfo,$Ruhango,,4.716530711,18.30822896,76.97524033,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$West/Iburengerazuba,$Karongi,,11.84784194,24.69406409,63.45809398,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$West/Iburengerazuba,$Ngororero,,9.069201867,34.56337491,56.36742322,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$West/Iburengerazuba,$Nyabihu,,4.527269178,13.16116873,82.31156209,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$West/Iburengerazuba,$Nyamasheke,,6.982511315,29.67498997,63.34249871,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,$West/Iburengerazuba,$Rusizi,,5.088495575,43.89868981,51.01281462,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,Kigali City/Umujyi wa Kigali,$Gasabo,,6.503931206,3.687304611,89.80876418,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,Kigali City/Umujyi wa Kigali,Kicukiro,,0.590905938,3.929878601,95.47921546,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,Kigali City/Umujyi wa Kigali,Nyarugenge,,0,1.74965814,98.25034186,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Rwanda,,,,3.890091151,17.63178412,78.47812473,Total Population by Administrative Units,4,2012,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis and Nutrition Survey (CFSVA), 2012",Baseline
+Sao Tome and Principe,Principe,$R.A. Principe,,10.23622047,15.7480315,74.01574803,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Sao Tome and Principe,Sao Tome,$Aqua Grande,,15.07936508,12.3015873,72.61904762,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Sao Tome and Principe,Sao Tome,$Cantagalo,,3.658536585,11.78861789,84.55284553,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Sao Tome and Principe,Sao Tome,$Cau‚,,18.5,13,68.5,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Sao Tome and Principe,Sao Tome,$Lemba,,9.05511811,12.20472441,78.74015748,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Sao Tome and Principe,Sao Tome,$Lobata,,3.90625,10.9375,85.15625,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Sao Tome and Principe,Sao Tome,$Me-Zochi,,18.47389558,12.85140562,68.6746988,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Sao Tome and Principe,,,,9.22026181,12.97666477,77.80307342,Total Population by Administrative Units,9,2007,Raised Threshold: 28/42,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2009",Baseline
+Senegal,Dakar,,,2.625442389,6.462746474,90.91181114,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Diourbel,,,1.924776283,13.1697512,84.90547251,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Fatick,,,3.990879811,10.11990178,85.88921841,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,$Kaffrine,,,2.005853075,9.155576442,88.83857048,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Kaolack,,,2.103241788,6.777869942,91.11888827,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,$Kedougou,,,14.60748048,27.31607069,58.07644883,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Kolda,,,19.42178387,25.4364718,55.14174434,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Louga,,,2.851290001,9.510297863,87.63841214,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Matam,,,9.149197242,37.81691236,53.0338904,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Saint louis,,,4.298738076,10.69157393,85.009688,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,$Sedhiou,,,24.59715504,38.55004436,36.8528006,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Tambacounda,,,5.251594463,18.14167787,76.60672767,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Thies,,,1.204038577,6.120403858,92.67555756,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,Ziguinchor,,,16.73177981,50.9797613,32.28845889,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Senegal,,,,4.980670807,13.84487111,81.17445808,Total Population by Administrative Units,6,2013,Standard Threshold: 21/35,,,"WFP VAM Analyse Globale de la Vulnerabilite, de la Securite Alimentaire et de la Nutrition (AGVSAN), 2014",Baseline
+Sierra Leone,Eastern,Kailahun,,3.69301624,17.27508691,79.03189685,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Eastern,Kenema,,2.254499377,32.28071537,65.46478525,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Eastern,Kono,,8.330727529,39.69600795,51.97326452,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Northern,Bombali,,2.169927774,24.50955698,73.32051525,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Northern,Kambia,,4.266260483,66.69055059,29.04318893,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Northern,Koinadugu,,14.12556555,51.83974192,34.03469253,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Northern,Port Loko,,4.97015496,65.64599899,29.38384605,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Northern,Tonkolili,,22.65251576,52.07645014,25.2710341,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Southern,Bo,,0.901121742,31.48147117,67.61740709,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Southern,Bonthe,,1.385468524,24.89858291,73.71594857,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Southern,Moyamba,,18.30218055,58.16481547,23.53300398,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Southern,Pujehun,,6.791057016,74.21857453,18.99036845,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Western Area,$Western Area Urban,,7.843279912,19.10326748,73.05345261,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,Western Area,Western Area Rural,,1.340328857,23.78209281,74.87757834,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+Sierra Leone,,,,6.932462331,39.10976176,53.95777591,Total Population by Administrative Units,7,2010,Standard Threshold: 21/35,,,"WFP VAM The State of Food Security and Nutrition in Sierra Leone - Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2011",Baseline
+South Sudan,Central Equatoria,,,8.333333333,13.11111111,78.55555556,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Eastern Equatoria,,,16.80942184,30.19271949,52.99785867,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,El Buheyrat,,,18.66515837,21.83257919,59.50226244,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Jonglei,,,13.86363636,16.81818182,69.31818182,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Northern Bahr El Ghazal,,,27.43837085,31.61843516,40.943194,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Unity,,,12.93103448,15.14778325,71.92118227,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Upper Nile,,,15.43478261,18.69565217,65.86956522,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Warab,,,30.36117381,23.92776524,45.71106095,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Western Bahr El Ghazal,,,11.58798283,20.38626609,68.02575107,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,Western Equatoria,,,5.336179296,15.47491996,79.18890075,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+South Sudan,,,,16.06786427,20.82501663,63.1071191,Total Population by Administrative Units,4,2010,Standard Threshold: 21/35,,,"WFP VAM Report on Food Security and Nutrition in South Sudan (CFSVA), 2012",Baseline
+Sudan,Western Darfur,,57.8,1.6,28.6,69.8,Mixed Communities,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,66.4,0,12.7,87.3,Resident Communities,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,50.7,0.2,42,57.8,IDP Camps,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,54.9,2.3,34.4,63.3,Mixed Communities,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,53.6,0.6,36.5,62.9,Resident Communities,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,53.6,4.5,34.3,61.2,IDP Camps,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,57.7,0.3,30.2,69.5,Mixed Communities,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,68,0.8,10.3,88.9,Resident Communities,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,53.5,6.4,34.8,58.8,IDP Camps,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,60.4,2.1,26.5,71.4,Mixed Communities,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,64.4,0,17.7,82.3,Resident Communities,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,59.3,11.4,16,72.6,IDP Camps,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,61.6,4.4,15,80.6,Mixed Communities,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,56,10.8,19.9,69.3,Resident Communities,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,47.7,14,33.5,52.5,IDP Camps,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,59.2,11.3,20.4,68.3,Mixed Communities,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,56.1,11.7,15.5,72.8,Resident Communities,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,46.1,11.6,41.6,46.8,IDP Camps,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,61.7,10,15.7,74.3,Mixed Communities,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,59.5,4.1,14.9,81,Resident Communities,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,48.9,2,37.7,60.3,IDP Camps,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,63,5.4,17.6,77,Mixed Communities,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,54.9,8,18.9,73.1,Resident Communities,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,59.4,8.8,19.1,72.1,IDP Camps,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,68.5,0,17.3,82.7,Mixed Communities,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,53.2,9.6,22.6,67.8,Resident Communities,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,54.4,4.7,27.1,68.2,IDP Camps,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,67.5,0.9,16.5,82.6,Mixed Communities,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,52.6,7.6,23.6,68.8,Resident Communities,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,54,5.8,19.5,74.7,IDP Camps,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,72.9,0.7,9.1,90.2,Mixed Communities,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,52.5,6.4,28.6,65,Resident Communities,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,60.3,6.4,18.5,75.1,IDP Camps,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,67.9,2.8,10.2,87,Mixed Communities,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,53.9,9.1,18.9,72,Resident Communities,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,58.5,13.9,16.3,69.8,IDP Camps,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,70.1,0,6.9,93.1,Mixed Communities,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,50.3,12.3,21,66.7,Resident Communities,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,50.8,18.7,17.9,63.4,IDP Camps,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,36.9,39.5,37.4,23.1,Mixed Communities,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,53.4,22,12.6,65.4,Resident Communities,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,59.2,5.7,20.6,73.7,IDP Camps,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,47.9,16.5,33.4,50.1,Mixed Communities,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,52,10.9,27.9,61.2,Resident Communities,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,60.4,3.6,13.2,83.2,IDP Camps,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,48.9,21.9,28,50.1,Mixed Communities,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,54.9,9,27.5,63.5,Resident Communities,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,58.4,4.5,24,71.5,IDP Camps,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,48.2,15.3,32.8,51.9,Mixed Communities,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,58.2,9.6,10.7,79.7,Resident Communities,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,55.6,7.2,19.9,72.9,IDP Camps,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,46,13,36.4,50.6,Mixed Communities,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,62.1,4.1,12.7,83.2,Resident Communities,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,50.8,16.2,25.8,58,IDP Camps,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,40.7,25.2,39.3,35.5,Mixed Communities,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,56,5.2,20.6,74.2,IDP Camps,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,50,6.2,37.8,56,Mixed Communities,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,56.1,13.2,21.7,65.1,Resident Communities,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,58.7,10.4,16.8,72.8,IDP Camps,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,57.9,1.2,26.2,72.6,Mixed Communities,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,72.3,4,8,88,Resident Communities,11,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,49.8,19.9,16.7,63.4,IDP Camps,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,39.1,24,48,28,Mixed Communities,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Southern Darfur,,40.9,25.5,38.2,36.3,Resident Communities,2,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,48.8,4.3,41.8,53.9,IDP Camps,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,49.6,6.3,35.8,57.9,Mixed Communities,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,59.5,1.7,25.2,73.1,Resident Communities,2,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,42.4,3.1,58.3,38.6,IDP Camps,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,49.8,1.2,42.1,56.7,Mixed Communities,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,59.6,0,31.7,68.3,Resident Communities,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,49.4,6.1,37.4,56.5,IDP Camps,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,50.3,2.7,41.5,55.8,Mixed Communities,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,42.7,8.3,61.1,30.6,Resident Communities,8,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,42,7,57.3,35.7,IDP Camps,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,55.8,2.2,26.1,71.7,Mixed Communities,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,53.9,0,34.2,65.8,Resident Communities,11,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,49,2.3,45.2,52.5,IDP Camps,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,56.9,0.3,29.2,70.5,Mixed Communities,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,51.9,1.6,42.8,55.6,Resident Communities,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Western Darfur,,57.8,2.7,19.5,77.8,IDP Camps,5,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Sudan,Northern Darfur,,,12.4137931,23.93103448,63.65517241,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Sudan - Darfur: Comprehensive Food Security Assessment (CFSVA), 2013",Baseline
+Sudan,Southern Darfur,,,7.257273619,16.67211507,76.07061131,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Sudan - Darfur: Comprehensive Food Security Assessment (CFSVA), 2013",Baseline
+Sudan,Western Darfur,,,3.400416378,33.31020125,63.28938237,Total Population by Administrative Units,12,2012,Raised Threshold: 28/42,,,"WFP VAM Sudan - Darfur: Comprehensive Food Security Assessment (CFSVA), 2013",Baseline
+Sudan,Kassala,,,2.091503268,3.790849673,94.11764706,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM Sudan - Comprehensive Food Security Assessment in Kassala State (CFSVA), 2012",Baseline
+Sudan,Northern Kordofan,,,3.031561462,12.25083056,84.71760797,Total Population by Administrative Units,4,2012,Raised Threshold: 28/42,,,"WFP VAM Sudan - Comprehensive Food Security Assessment in North Kordofan (CFSVA), 2013",Baseline
+Tajikistan,,,55.46,15.3,18.1,66.6,Total Population by Administrative Units,11,2008,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,52.546875,12.8,25.9,61.3,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,50.96390977,17.4,20.5,62.1,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,52.97969925,14.8,22.9,62.3,Total Population by Administrative Units,7,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,50.21203008,16.5,26.4,57.1,Total Population by Administrative Units,10,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,45.93609023,20,30.7,49.3,Total Population by Administrative Units,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,54.31121643,10.2,15.2,74.6,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,54.02180451,7.5,24.5,68,Total Population by Administrative Units,12,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,53.43984962,10.1,19.2,70.7,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,57.79924818,7.2,15.2,77.6,Total Population by Administrative Units,7,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,56.27593985,8,22.8,69.2,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,67.41692308,5.1,10.1,84.8,Total Population by Administrative Units,11,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,16.7,14.9,16.7,68.4,Male Headed HHs,11,2008,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,51.16,16.7,22.7,60.6,Female Headed HHs,11,2008,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,47.77273,14,34.3,51.7,Female Headed HHs,1,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,53.92052,12.5,23.5,64,Male Headed HHs,1,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,48.99286,20.7,22.1,57.2,Female Headed HHs,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,51.48952,16.6,20,63.4,Male Headed HHs,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,49.27083,16.7,27.1,56.2,Female Headed HHs,7,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,54.0048,14.4,21.7,63.9,Male Headed HHs,7,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,44.01493,19.4,35.8,44.8,Female Headed HHs,10,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,51.77589,15.8,23.9,60.3,Male Headed HHs,10,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,41.68506,23.4,36.4,40.2,Female Headed HHs,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,47.21722,19,29,52,Male Headed HHs,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,54.93878,10.2,12.2,77.6,Female Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,54.19626,10.3,15.7,74,Male Headed HHs,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,55.29245,7.5,21.7,70.8,Female Headed HHs,12,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,53.78086,7.5,25,67.5,Male Headed HHs,12,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,54.30303,7.1,18.2,74.7,Female Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,53.28887,10.6,19.4,70,Male Headed HHs,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,60.41919,8.1,10.1,81.8,Female Headed HHs,7,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,57.34099,7.1,16.1,76.8,Male Headed HHs,7,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,55.71,5,29,66,Female Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,56.37611,8.5,21.8,69.7,Male Headed HHs,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,62.89831,7.2,14.8,78,Female Headed HHs,11,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,,,68.41917,4.7,9,86.3,Male Headed HHs,11,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,70.17213,1.6,8.2,90.2,Total Population by Administrative Units,11,2008,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,62.60656,8.2,4.9,86.9,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,54.42143,10,11.4,78.6,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,52.80714,4.3,41.4,54.3,Total Population by Administrative Units,7,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,52.02857,18.6,31.4,50,Total Population by Administrative Units,10,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,51.45714,27.1,22.9,50,Total Population by Administrative Units,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,61.80303,0,0,100,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,79.80714,0,0,100,Total Population by Administrative Units,12,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,72.99289,0,0,100,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,77.81429,0,0,100,Total Population by Administrative Units,7,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Badakhshoni Kuni,,79.69286,0,0,100,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,53.17167,13.7,21.9,64.4,Total Population by Administrative Units,11,2008,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,49.66953,16.3,30,53.7,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,55.04898,14.7,15.5,69.8,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,56.07551,13.5,19.2,67.3,Total Population by Administrative Units,7,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,50.26939,13.5,24.9,61.6,Total Population by Administrative Units,10,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,43.26122,17.1,38,44.9,Total Population by Administrative Units,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,57.86266,3,15.9,81.1,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,51.07959,8.2,28.6,63.2,Total Population by Administrative Units,12,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,50.42653,8.2,26.1,65.7,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,56.57347,5.3,21.6,73.1,Total Population by Administrative Units,7,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Khatlon,,56.73061,5.7,20.4,73.9,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,59.74272,11.7,14.1,74.2,Total Population by Administrative Units,11,2008,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,53.79126,11.2,24.3,64.5,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,46.87381,22.4,27.6,50,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,51.06905,13.8,25.2,61,Total Population by Administrative Units,7,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,49.05238,21,22.9,56.1,Total Population by Administrative Units,10,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,49.58333,18.6,21.4,60,Total Population by Administrative Units,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,55.69388,3.6,15.8,80.6,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,53.05714,8.1,18.6,73.3,Total Population by Administrative Units,12,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,52.59286,11.4,14.3,74.3,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,58.73333,1.4,12.4,86.2,Total Population by Administrative Units,7,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Sogd,,54.96429,4.8,23.8,71.4,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,46.55,29.3,22.1,48.6,Total Population by Administrative Units,11,2008,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,51.12143,11.4,30.7,57.9,Total Population by Administrative Units,1,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,50.51429,18.6,22.9,58.5,Total Population by Administrative Units,5,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,50.94286,24.3,16.4,59.3,Total Population by Administrative Units,7,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,42.38571,14.3,31.4,54.3,Total Population by Administrative Units,10,2009,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,42.76812,23.6,35.7,40.7,Total Population by Administrative Units,2,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,47.725,37,20.3,42.7,Total Population by Administrative Units,8,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,50.20714,9.3,38.6,52.1,Total Population by Administrative Units,12,2010,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,48.53571,16.4,24.3,59.3,Total Population by Administrative Units,3,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,48.53571,22.9,15.7,61.4,Total Population by Administrative Units,7,2011,Raised Threshold: 28/42,,,FSMS,Monitoring
+Tajikistan,Tadzhikistan Territories,,45.73929,20.7,37.1,42.2,Total Population by Administrative Units,3,2012,Raised Threshold: 28/42,,,FSMS,Monitoring
+United Republic of Tanzania,Arusha,,,6.504065041,8.130081301,85.36585366,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Dar es salaam,,,8.385093168,6.832298137,84.7826087,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Dodoma,,,7.272727273,15.45454545,77.27272727,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Iringa,,,3.546099291,20.56737589,75.88652482,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Kagera,,,1.242236025,8.695652174,90.0621118,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Kaskazini Pemba,,,2.222222222,0,97.77777778,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Kaskazini Unguja,,,5.194805195,12.98701299,81.81818182,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Kigoma,,,3.787878788,16.66666667,79.54545455,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Kilimanjaro,,,1.754385965,7.01754386,91.22807018,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Kusini Pemba,,,3.06122449,3.06122449,93.87755102,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Kusini Unguja,,,8.510638298,2.127659574,89.36170213,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Lindi,,,1.639344262,24.04371585,74.31693989,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Manyara,,,4.819277108,9.638554217,85.54216867,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Mara,,,3.125,15.625,81.25,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Mbeya,,,4.494382022,21.91011236,73.59550562,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Mjini Magharibi,,,4.464285714,0.446428571,95.08928571,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Morogoro,,,1.459854015,11.67883212,86.86131387,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Mtwara,,,6.097560976,21.13821138,72.76422764,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Mwanza,,,1.648351648,13.18681319,85.16483516,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Pwani,,,3.448275862,9.195402299,87.35632184,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Rukwa,,,1.98019802,13.86138614,84.15841584,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Ruvuma,,,3.067484663,23.92638037,73.00613497,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Shinyanga,,,5.583756345,17.25888325,77.15736041,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Singida,,,1.470588235,20.58823529,77.94117647,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Tabora,,,0.680272109,10.88435374,88.43537415,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,Tanga,,,0.8,15.2,84,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+United Republic of Tanzania,,,,4.28462127,12.64983423,83.0655445,Total Population by Administrative Units,9,2011,Standard Threshold: 21/35,,,"WFP VAM Comprehensive Food Security and Vulnerability Analysis (CFSVA), 2012",Baseline
+Yemen,$Raymah,,,31.10539846,19.53727506,49.35732648,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Abyan,,,19.94764467,29.73442495,50.31793039,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Aden,,,5.721393035,17.66169154,76.61691542,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Al Bayda,,,60.97049199,15.54905166,23.48045635,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Al Dhale'e,,,29.4186142,27.22336782,43.35801798,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Al Hudaydah,,,15.92321395,17.40742877,66.66935729,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Al Maharah,,,1.677216168,12.11126261,86.21152122,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Al Mahwit,,,12.78797971,17.21054089,70.0014794,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Amran,,,25.61389893,20.33484718,54.05125389,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Dhamar,,,24.14539133,21.95014025,53.90446842,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Hadramaut,,,2.863914574,15.16984486,81.96624057,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Hajjah,,,30.69530267,22.6117066,46.69299073,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Ibb,,,27.12004407,27.42966669,45.45028924,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Lahj,,,23.49465703,34.45650192,42.04884105,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Marib,,,52.68667688,23.08587129,24.22745183,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Sana'a,,,45.37666097,23.68621085,30.93712818,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Shabwah,,,10.28227603,27.54961689,62.16810709,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,Taizz,,,22.3976249,25.40414045,52.19823465,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,,,,22.16417441,22.32364993,55.51217565,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline
+Yemen,$Amanat Al Asimah,,,7.620283788,19.93872631,72.4409899,Total Population by Administrative Units,12,2011,Raised Threshold: 28/42,,,"WFP VAM The State of Food Security and Nutrition in Yemen - Comprehensive Food Security Survey (CFSVA), 2012",Baseline

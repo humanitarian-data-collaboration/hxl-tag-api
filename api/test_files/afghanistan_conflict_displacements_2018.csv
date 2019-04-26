@@ -1,0 +1,1415 @@
+DISP_DATE,ORIG_PROV_CODE,ORIG_PROV_NAME,ORIG_DIST_CODE,ORIG_DIST_NAME,DISP_PROV_CODE,DISP_PROV_NAME,DISP_DIST_CODE,DISP_DIST_NAME,DISP_IND,DISP_FAM,DISP_ADULT_MALE,DISP_ADULT_FEMALE,DISP_CHILDREN_U18
+#date+occurred,#admin1+code+x_origin,#admin1+name+x_origin,#admin2+code+x_origin,#admin2+name+x_origin,#admin1+code+x_destination,#admin1+name+x_destination,#admin2+code+x_destination,#admin2+name+x_destination,#affected+displaced,#affected+dispalced+families,#affected+displaced+m+adults,#affected+displaced+f+adults,#affected+dispalced+children
+01-01-18,26,Khost,2603,Musakhel,5,Logar,501,Pul-e-Alam,7,1,,,
+01-01-18,22,Daykundi,2205,Gizab / Patoo,22,Daykundi,2201,Nili,11,1,2,1,8
+01-01-18,22,Daykundi,2205,Gizab / Patoo,22,Daykundi,2201,Nili,197,38,,,
+01-01-18,28,Faryab,2805,Almar,28,Faryab,2805,Almar,1519,217,,,
+01-01-18,2,Kapisa,205,Tagab,3,Parwan,304,Bagram,35,5,,,
+01-01-18,2,Kapisa,205,Tagab,2,Kapisa,205,Tagab,1281,183,,,
+01-01-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,231,33,40,46,150
+02-01-18,21,Ghor,2103,DoLayna,34,Nimroz,3401,Zaranj,18,3,3,4,11
+02-01-18,32,Hilmand,3201,Lashkargah,34,Nimroz,3401,Zaranj,22,3,3,4,15
+02-01-18,30,Hirat,3015,Shindand,34,Nimroz,3401,Zaranj,4,1,0,1,3
+02-01-18,5,Logar,504,Barakibarak,5,Logar,501,Pul-e-Alam,84,12,,,
+02-01-18,19,Samangan,1906,Khuram Wa Sarbagh,19,Samangan,1901,Aybak,56,8,,,
+02-01-18,6,Nangarhar,604,Khogyani,7,Laghman,701,Mehtarlam / Bad Pash,14,2,2,2,10
+02-01-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,84,12,14,13,57
+02-01-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,140,20,22,23,95
+02-01-18,25,Paktika,2510,Urgun,25,Paktika,2510,Urgun,910,130,,,
+02-01-18,7,Laghman,701,Mehtarlam / Bad Pash,7,Laghman,701,Mehtarlam / Bad Pash,12,2,2,2,8
+02-01-18,31,Farah,3103,Balabuluk,34,Nimroz,3401,Zaranj,30,4,4,6,20
+03-01-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,17,4,,,
+03-01-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,13,2,,,
+03-01-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,2,1,,,
+03-01-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,42,8,,,
+03-01-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,7,1,,,
+03-01-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,70,14,,,
+03-01-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,22,3,,,
+03-01-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,16,3,,,
+03-01-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,8,2,,,
+03-01-18,21,Ghor,2109,Tolak,21,Ghor,2101,Chaghcharan,6,1,,,
+03-01-18,5,Logar,505,Charkh,5,Logar,503,Mohammadagha,28,4,,,
+03-01-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,114,19,,,
+03-01-18,19,Samangan,1901,Aybak,19,Samangan,1901,Aybak,623,89,,,
+03-01-18,2,Kapisa,206,Alasay,3,Parwan,301,Charikar,210,30,,,
+04-01-18,12,Paktya,1202,Sayedkaram / Mirzaka,5,Logar,501,Pul-e-Alam,7,1,,,
+05-01-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,120,20,,,
+06-01-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,72,12,,,
+06-01-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,90,15,,,
+07-01-18,15,Badakhshan,1505,Kohestan,15,Badakhshan,1501,Fayzabad,847,121,,,
+08-01-18,13,Kunar,1308,Chawkay,13,Kunar,1309,Khaskunar,175,25,45,52,78
+08-01-18,13,Kunar,1308,Chawkay,13,Kunar,1308,Chawkay,3452,551,2255,610,592
+08-01-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,121,22,22,23,76
+08-01-18,11,Ghazni,1110,Qarabagh,11,Ghazni,1101,Ghazni,98,14,12,14,72
+10-01-18,31,Farah,3101,Farah,31,Farah,3101,Farah,105,15,,,
+10-01-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,357,51,,,
+10-01-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,158,27,,,
+10-01-18,4,Wardak,407,Saydabad,4,Wardak,407,Saydabad,560,80,,,
+10-01-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,49,7,,,
+10-01-18,25,Paktika,2512,Janikhel,25,Paktika,2510,Urgun,735,105,,,
+10-01-18,31,Farah,3103,Balabuluk,31,Farah,3103,Balabuluk,109,16,,,
+10-01-18,7,Laghman,705,Dawlatshah,3,Parwan,301,Charikar,21,3,,,
+10-01-18,11,Ghazni,1104,Waghaz,11,Ghazni,1101,Ghazni,56,8,8,8,40
+10-01-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,77,14,14,15,48
+10-01-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,420,60,,,
+10-01-18,20,Sar-e-Pul,2007,Sancharak,20,Sar-e-Pul,2001,Sar-e-Pul,413,59,,,
+10-01-18,6,Nangarhar,604,Khogyani,1,Kabul,101,Kabul,105,15,20,35,50
+10-01-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,66,12,12,12,42
+11-01-18,28,Faryab,2809,Bilcheragh,27,Jawzjan,2701,Shiberghan,64,8,,,
+11-01-18,28,Faryab,2804,Shirintagab,27,Jawzjan,2701,Shiberghan,14,2,,,
+11-01-18,20,Sar-e-Pul,2002,Sayad,27,Jawzjan,2701,Shiberghan,133,19,,,
+11-01-18,28,Faryab,2806,Qaysar,27,Jawzjan,2701,Shiberghan,14,2,,,
+11-01-18,27,Jawzjan,2704,Qushtepa,27,Jawzjan,2701,Shiberghan,238,34,,,
+11-01-18,28,Faryab,2802,Khwajasabzposh,27,Jawzjan,2701,Shiberghan,35,5,,,
+11-01-18,2,Kapisa,202,Nejrab,2,Kapisa,202,Nejrab,105,15,,,
+11-01-18,6,Nangarhar,610,Hesarak,6,Nangarhar,603,Surkhrod,182,26,35,35,112
+11-01-18,27,Jawzjan,2711,Darzab,27,Jawzjan,2701,Shiberghan,84,12,,,
+12-01-18,11,Ghazni,1105,Andar,1,Kabul,101,Kabul,70,10,12,27,31
+12-01-18,13,Kunar,1312,Ghaziabad,6,Nangarhar,602,Behsud,56,8,12,15,29
+12-01-18,20,Sar-e-Pul,2006,Balkhab,1,Kabul,101,Kabul,70,10,15,25,30
+12-01-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,12,2,,,
+12-01-18,4,Wardak,403,Nerkh,4,Wardak,401,Maydanshahr,511,73,,,
+12-01-18,7,Laghman,704,Alingar,2,Kapisa,204,Hisa-e-Duwum-e-Kohestan,14,2,,,
+13-01-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,6,1,,,
+13-01-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,130,23,,,
+13-01-18,6,Nangarhar,606,Rodat,1,Kabul,101,Kabul,84,12,15,20,49
+13-01-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,35,5,7,9,19
+13-01-18,9,Baghlan,904,Doshi,2,Kapisa,201,Mahmud-e-Raqi,70,10,,,
+14-01-18,4,Wardak,409,Jaghatu,1,Kabul,101,Kabul,140,20,35,54,51
+14-01-18,9,Baghlan,901,Pul-e-Khumri,9,Baghlan,901,Pul-e-Khumri,2233,319,,,
+14-01-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1301,Asadabad,77,13,12,14,51
+14-01-18,23,Uruzgan,2305,Khasuruzgan,11,Ghazni,1101,Ghazni,84,12,10,12,62
+14-01-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,603,Surkhrod,42,6,6,6,30
+15-01-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,21,7,,,
+15-01-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,77,14,,,
+15-01-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,20,4,,,
+15-01-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,10,2,,,
+15-01-18,21,Ghor,2109,Tolak,21,Ghor,2101,Chaghcharan,8,2,,,
+15-01-18,17,Kunduz,1703,Qala-e-Zal,17,Kunduz,1703,Qala-e-Zal,2674,382,,,
+15-01-18,7,Laghman,705,Dawlatshah,8,Panjsher,801,Bazarak,21,3,,,
+15-01-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,22,4,,,
+15-01-18,17,Kunduz,1704,Chardarah,17,Kunduz,1701,Kunduz,77,11,,,
+15-01-18,17,Kunduz,1702,Emamsaheb,17,Kunduz,1702,Emamsaheb,4032,576,,,
+15-01-18,17,Kunduz,1704,Chardarah,17,Kunduz,1701,Kunduz,5698,814,,,
+15-01-18,17,Kunduz,1704,Chardarah,17,Kunduz,1704,Chardarah,1085,155,,,
+15-01-18,19,Samangan,1906,Khuram Wa Sarbagh,2,Kapisa,207,Hisa-e-Awal-e-Kohestan,49,7,,,
+15-01-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,21,3,,,
+15-01-18,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah,26,5,,,
+15-01-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,14,2,,,
+15-01-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,35,5,,,
+15-01-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,144,24,,,
+16-01-18,21,Ghor,2101,Chaghcharan,30,Hirat,3001,Hirat,14,2,,,
+16-01-18,6,Nangarhar,613,Dehbala,6,Nangarhar,601,Jalalabad,14,2,3,3,8
+16-01-18,31,Farah,3101,Farah,31,Farah,3101,Farah,138,23,,,
+16-01-18,13,Kunar,1308,Chawkay,30,Hirat,3001,Hirat,14,2,,,
+16-01-18,29,Badghis,2906,Balamurghab,30,Hirat,3001,Hirat,14,2,,,
+17-01-18,7,Laghman,702,Alishang,3,Parwan,301,Charikar,14,2,,,
+17-01-18,2,Kapisa,205,Tagab,1,Kabul,101,Kabul,140,20,24,39,77
+18-01-18,17,Kunduz,1706,Khanabad,17,Kunduz,1705,Aliabad,49,7,,,
+19-01-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,52,8,,,
+19-01-18,6,Nangarhar,617,Achin,6,Nangarhar,606,Rodat,7,1,2,1,4
+19-01-18,9,Baghlan,902,Baghlan-e-Jadid,1,Kabul,101,Kabul,84,12,22,30,32
+20-01-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,56,8,8,8,40
+20-01-18,28,Faryab,2802,Khwajasabzposh,18,Balkh,1802,Nahr-e-Shahi,109,15,,,
+21-01-18,4,Wardak,406,Chak,4,Wardak,401,Maydanshahr,105,15,,,
+21-01-18,18,Balkh,1812,Charbulak,18,Balkh,1802,Nahr-e-Shahi,217,31,,,
+21-01-18,3,Parwan,303,Shinwari,3,Parwan,301,Charikar,21,3,,,
+21-01-18,7,Laghman,702,Alishang,6,Nangarhar,603,Surkhrod,49,7,7,7,35
+21-01-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,28,4,5,7,16
+22-01-18,2,Kapisa,205,Tagab,2,Kapisa,201,Mahmud-e-Raqi,105,15,,,
+24-01-18,2,Kapisa,206,Alasay,2,Kapisa,201,Mahmud-e-Raqi,35,5,,,
+25-01-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,44,9,,,
+25-01-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,20,3,,,
+25-01-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,60,12,,,
+25-01-18,29,Badghis,2904,Qadis,30,Hirat,3001,Hirat,23,5,,,
+25-01-18,29,Badghis,2906,Balamurghab,30,Hirat,3001,Hirat,55,7,,,
+25-01-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,115,23,,,
+26-01-18,4,Wardak,409,Jaghatu,1,Kabul,101,Kabul,91,13,16,28,59
+26-01-18,6,Nangarhar,613,Dehbala,6,Nangarhar,603,Surkhrod,14,2,2,2,
+27-01-18,13,Kunar,1308,Chawkay,6,Nangarhar,602,Behsud,35,5,7,8,20
+27-01-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,184,35,,,
+27-01-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,28,4,6,8,14
+27-01-18,7,Laghman,704,Alingar,6,Nangarhar,602,Behsud,14,2,3,4,7
+27-01-18,2,Kapisa,202,Nejrab,2,Kapisa,201,Mahmud-e-Raqi,21,3,,,
+28-01-18,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah,21,3,,,
+28-01-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,119,17,,,
+28-01-18,31,Farah,3101,Farah,31,Farah,3101,Farah,490,70,,,
+28-01-18,28,Faryab,2805,Almar,30,Hirat,3002,Injil,12,2,,,
+28-01-18,31,Farah,3105,Pushtrod,30,Hirat,3002,Injil,33,6,,,
+28-01-18,22,Daykundi,2208,Kajran,30,Hirat,3005,Guzara,10,1,,,
+28-01-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,15,2,,,
+28-01-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,25,3,,,
+28-01-18,23,Uruzgan,2301,Tirinkot,23,Uruzgan,2301,Tirinkot,705,95,126,137,442
+28-01-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,28,4,,,
+28-01-18,21,Ghor,2110,Saghar,21,Ghor,2101,Chaghcharan,28,4,,,
+28-01-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,28,4,,,
+28-01-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,17,4,,,
+28-01-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,143,25,,,
+28-01-18,32,Hilmand,3202,Nahr-e-Saraj,30,Hirat,3001,Hirat,10,2,,,
+28-01-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,98,18,,,
+28-01-18,29,Badghis,2905,Jawand,30,Hirat,3001,Hirat,43,5,,,
+28-01-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,36,5,,,
+28-01-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,210,30,,,
+28-01-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,21,3,,,
+28-01-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,168,24,,,
+28-01-18,30,Hirat,3015,Shindand,30,Hirat,3001,Hirat,230,40,,,
+28-01-18,21,Ghor,2103,DoLayna,30,Hirat,3002,Injil,44,5,,,
+29-01-18,7,Laghman,704,Alingar,6,Nangarhar,603,Surkhrod,70,10,10,10,50
+29-01-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,603,Surkhrod,70,10,10,10,50
+30-01-18,4,Wardak,409,Jaghatu,4,Wardak,401,Maydanshahr,70,10,,,
+30-01-18,14,Nuristan,1402,Mandol,8,Panjsher,806,Onaba (Anawa),28,4,,,
+01-02-18,2,Kapisa,205,Tagab,1,Kabul,101,Kabul,140,20,30,50,50
+01-02-18,28,Faryab,2802,Khwajasabzposh,18,Balkh,1802,Nahr-e-Shahi,539,77,,,
+01-02-18,16,Takhar,1617,Darqad,16,Takhar,1601,Taloqan,602,86,,,
+01-02-18,2,Kapisa,206,Alasay,1,Kabul,101,Kabul,217,31,30,65,122
+01-02-18,16,Takhar,1617,Darqad,16,Takhar,1617,Darqad,4270,610,,,
+01-02-18,16,Takhar,1617,Darqad,16,Takhar,1612,Khwajabahawuddin,490,70,,,
+02-02-18,23,Uruzgan,2305,Khasuruzgan,23,Uruzgan,2301,Tirinkot,160,18,22,28,110
+04-02-18,25,Paktika,2510,Urgun,26,Khost,2601,Khost (Matun),84,12,12,12,60
+04-02-18,12,Paktya,1202,Sayedkaram / Mirzaka,26,Khost,2601,Khost (Matun),35,5,5,5,25
+05-02-18,9,Baghlan,903,Dahana-e-Ghori,3,Parwan,304,Bagram,14,2,,,
+05-02-18,26,Khost,2608,Terezayi,26,Khost,2601,Khost (Matun),35,5,5,5,25
+05-02-18,3,Parwan,303,Shinwari,2,Kapisa,207,Hisa-e-Awal-e-Kohestan,28,4,,,
+05-02-18,5,Logar,505,Charkh,26,Khost,2601,Khost (Matun),70,10,10,10,50
+06-02-18,22,Daykundi,2205,Gizab / Patoo,22,Daykundi,2201,Nili,3,1,1,1,3
+06-02-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,33,6,,,
+08-02-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,105,19,,,
+09-02-18,23,Uruzgan,2302,Chora / Chinarto,23,Uruzgan,2301,Tirinkot,110,15,17,19,74
+10-02-18,13,Kunar,1305,Marawara,13,Kunar,1305,Marawara,6,1,1,1,4
+10-02-18,13,Kunar,1312,Ghaziabad,13,Kunar,1306,Shigal Wa Sheltan,35,5,5,8,22
+10-02-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1306,Shigal Wa Sheltan,112,16,19,23,70
+11-02-18,28,Faryab,2806,Qaysar,28,Faryab,2801,Maymana,357,51,,,
+11-02-18,28,Faryab,2805,Almar,28,Faryab,2801,Maymana,686,98,,,
+11-02-18,13,Kunar,1305,Marawara,13,Kunar,1305,Marawara,18,3,4,4,10
+11-02-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,88,16,,,
+11-02-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2801,Maymana,553,79,,,
+12-02-18,28,Faryab,2809,Bilcheragh,27,Jawzjan,2701,Shiberghan,168,24,,,
+12-02-18,13,Kunar,1302,Watapur,13,Kunar,1302,Watapur,63,9,15,18,30
+12-02-18,27,Jawzjan,2711,Darzab,27,Jawzjan,2701,Shiberghan,252,36,,,
+12-02-18,27,Jawzjan,2704,Qushtepa,27,Jawzjan,2701,Shiberghan,259,37,,,
+12-02-18,15,Badakhshan,1520,Yamgan,8,Panjsher,805,Khenj (Hes-e-Awal),35,5,,,
+12-02-18,28,Faryab,2804,Shirintagab,27,Jawzjan,2701,Shiberghan,140,20,,,
+13-02-18,14,Nuristan,1402,Mandol,2,Kapisa,207,Hisa-e-Awal-e-Kohestan,7,1,,,
+13-02-18,13,Kunar,1313,Chapadara,13,Kunar,1307,Dara-e-Pech,91,13,27,25,39
+14-02-18,25,Paktika,2516,Gyan,25,Paktika,2501,Sharan,685,98,,,
+14-02-18,13,Kunar,1310,Dangam,13,Kunar,1311,Barkunar,21,3,3,3,15
+15-02-18,4,Wardak,402,Jalrez,4,Wardak,401,Maydanshahr,28,4,,,
+15-02-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,10,2,,,
+15-02-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,16,3,,,
+15-02-18,29,Badghis,2907,Ghormach,34,Nimroz,3401,Zaranj,48,7,8,7,33
+15-02-18,31,Farah,3107,Shibkoh,31,Farah,3101,Farah,9,1,,,
+15-02-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,152,26,,,
+15-02-18,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah,11,2,,,
+15-02-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,6,1,,,
+15-02-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,193,33,,,
+15-02-18,31,Farah,3101,Farah,31,Farah,3101,Farah,179,27,,,
+15-02-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,235,43,,,
+15-02-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,138,27,,,
+15-02-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,55,9,,,
+15-02-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,35,5,,,
+15-02-18,29,Badghis,2907,Ghormach,29,Badghis,2901,Qala-e-Naw,9,3,,,
+15-02-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,40,7,,,
+15-02-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,17,3,,,
+15-02-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,185,30,,,
+15-02-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,21,3,,,
+16-02-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,31,8,,,
+17-02-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,560,80,103,189,268
+17-02-18,7,Laghman,704,Alingar,7,Laghman,704,Alingar,2527,361,743,755,1022
+17-02-18,9,Baghlan,903,Dahana-e-Ghori,1,Kabul,107,Bagrami,49,7,10,18,21
+17-02-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,25,4,,,
+18-02-18,21,Ghor,2104,Dawlatyar,21,Ghor,2104,Dawlatyar,50,7,,,
+18-02-18,21,Ghor,2107,Pasaband,21,Ghor,2104,Dawlatyar,12,3,,,
+18-02-18,9,Baghlan,902,Baghlan-e-Jadid,1,Kabul,102,Dehsabz,70,10,15,20,35
+18-02-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,32,5,,,
+18-02-18,14,Nuristan,1402,Mandol,14,Nuristan,1401,Poruns,19,3,3,3,13
+20-02-18,4,Wardak,403,Nerkh,1,Kabul,101,Kabul,133,19,33,40,60
+20-02-18,28,Faryab,2804,Shirintagab,18,Balkh,1802,Nahr-e-Shahi,686,98,,,
+20-02-18,25,Paktika,2518,Dila,25,Paktika,2501,Sharan,539,77,,,
+20-02-18,19,Samangan,1901,Aybak,19,Samangan,1901,Aybak,378,54,,,
+20-02-18,32,Hilmand,3203,Nad-e-Ali / Marja,32,Hilmand,3203,Nad-e-Ali / Marja,885,111,179,230,476
+22-02-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2811,Andkhoy,56,8,,,
+22-02-18,28,Faryab,2809,Bilcheragh,28,Faryab,2811,Andkhoy,56,8,,,
+22-02-18,13,Kunar,1313,Chapadara,13,Kunar,1313,Chapadara,10,2,2,2,6
+22-02-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1307,Dara-e-Pech,12,2,2,2,8
+22-02-18,28,Faryab,2804,Shirintagab,28,Faryab,2801,Maymana,266,38,,,
+22-02-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,658,94,,,
+22-02-18,28,Faryab,2804,Shirintagab,28,Faryab,2811,Andkhoy,749,107,,,
+22-02-18,28,Faryab,2810,Dawlatabad,28,Faryab,2811,Andkhoy,196,28,,,
+22-02-18,14,Nuristan,1404,Nurgeram,14,Nuristan,1404,Nurgeram,16,2,2,2,12
+22-02-18,14,Nuristan,1404,Nurgeram,14,Nuristan,1405,Wama,37,6,6,6,25
+22-02-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,23,5,,,
+22-02-18,14,Nuristan,1406,Waygal,14,Nuristan,1401,Poruns,55,9,7,8,40
+22-02-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,32,7,,,
+23-02-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,25,4,,,
+25-02-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2801,Maymana,322,46,,,
+25-02-18,28,Faryab,2805,Almar,28,Faryab,2801,Maymana,504,72,,,
+25-02-18,28,Faryab,2804,Shirintagab,28,Faryab,2801,Maymana,329,47,,,
+25-02-18,28,Faryab,2807,Kohestan,28,Faryab,2801,Maymana,448,64,,,
+25-02-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,1169,167,,,
+25-02-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,1806,258,,,
+28-02-18,5,Logar,505,Charkh,1,Kabul,101,Kabul,70,10,15,25,30
+01-03-18,16,Takhar,1617,Darqad,16,Takhar,1612,Khwajabahawuddin,1582,226,,,
+01-03-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,140,20,30,40,70
+01-03-18,32,Hilmand,3210,Kajaki,33,Kandahar,3301,Kandahar / Dand,462,68,115,103,244
+01-03-18,9,Baghlan,901,Pul-e-Khumri,9,Baghlan,901,Pul-e-Khumri,945,135,,,
+02-03-18,9,Baghlan,902,Baghlan-e-Jadid,18,Balkh,1802,Nahr-e-Shahi,105,15,,,
+02-03-18,28,Faryab,2803,Pashtunkot,18,Balkh,1802,Nahr-e-Shahi,196,28,,,
+02-03-18,28,Faryab,2809,Bilcheragh,18,Balkh,1802,Nahr-e-Shahi,140,20,,,
+02-03-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,42,6,11,16,15
+02-03-18,20,Sar-e-Pul,2002,Sayad,18,Balkh,1802,Nahr-e-Shahi,91,13,,,
+02-03-18,27,Jawzjan,2708,Mardyan,18,Balkh,1802,Nahr-e-Shahi,182,26,,,
+02-03-18,7,Laghman,701,Mehtarlam / Bad Pash,7,Laghman,701,Mehtarlam / Bad Pash,21,3,5,7,9
+03-03-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,79,12,10,12,57
+04-03-18,25,Paktika,2510,Urgun,26,Khost,2601,Khost (Matun),70,10,10,10,50
+04-03-18,21,Ghor,2109,Tolak,21,Ghor,2101,Chaghcharan,31,5,,,
+04-03-18,26,Khost,2612,Bak,26,Khost,2601,Khost (Matun),28,4,4,4,20
+04-03-18,7,Laghman,701,Mehtarlam / Bad Pash,7,Laghman,701,Mehtarlam / Bad Pash,75,10,10,11,54
+05-03-18,5,Logar,505,Charkh,26,Khost,2601,Khost (Matun),35,5,5,5,25
+06-03-18,12,Paktya,1202,Sayedkaram / Mirzaka,26,Khost,2601,Khost (Matun),21,3,3,3,15
+06-03-18,6,Nangarhar,614,Kot,7,Laghman,701,Mehtarlam / Bad Pash,46,6,9,9,28
+06-03-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1306,Shigal Wa Sheltan,11,2,2,2,7
+06-03-18,26,Khost,2611,Spera,26,Khost,2601,Khost (Matun),28,4,4,4,20
+06-03-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,293,48,,,
+06-03-18,26,Khost,2608,Terezayi,26,Khost,2601,Khost (Matun),14,2,2,2,10
+07-03-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,60,10,,,
+07-03-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,30,5,,,
+08-03-18,13,Kunar,1310,Dangam,13,Kunar,1308,Chawkay,18,3,3,3,12
+08-03-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,157,26,,,
+08-03-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,32,6,,,
+08-03-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,25,4,,,
+09-03-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,5,1,,,
+10-03-18,17,Kunduz,1707,Dasht-e-Archi,1,Kabul,101,Kabul,70,10,12,18,40
+10-03-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1301,Asadabad,23,4,4,4,15
+10-03-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,29,5,5,5,19
+10-03-18,25,Paktika,2511,Naka,25,Paktika,2501,Sharan,210,30,28,30,152
+10-03-18,31,Farah,3102,Bakwa,31,Farah,3101,Farah,4,1,,,
+11-03-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,10,2,,,
+11-03-18,29,Badghis,2905,Jawand,30,Hirat,3001,Hirat,21,4,,,
+11-03-18,30,Hirat,3003,Kushk,29,Badghis,2901,Qala-e-Naw,6,1,,,
+12-03-18,11,Ghazni,1105,Andar,11,Ghazni,1101,Ghazni,105,15,15,15,75
+12-03-18,25,Paktika,2510,Urgun,25,Paktika,2501,Sharan,301,43,40,43,218
+12-03-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,4,1,,,
+12-03-18,13,Kunar,1308,Chawkay,13,Kunar,1308,Chawkay,29,8,6,9,39
+12-03-18,25,Paktika,2510,Urgun,25,Paktika,2510,Urgun,357,51,45,50,262
+12-03-18,12,Paktya,1208,Alikhel (Jaji),12,Paktya,1201,Gardez,49,7,7,7,35
+12-03-18,25,Paktika,2516,Gyan,26,Khost,2601,Khost (Matun),21,3,3,3,15
+12-03-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,11,2,,,
+12-03-18,29,Badghis,2907,Ghormach,29,Badghis,2901,Qala-e-Naw,6,1,,,
+12-03-18,22,Daykundi,2205,Gizab / Patoo,30,Hirat,3001,Hirat,21,3,,,
+13-03-18,28,Faryab,2806,Qaysar,30,Hirat,3001,Hirat,18,2,,,
+13-03-18,32,Hilmand,3201,Lashkargah,30,Hirat,3001,Hirat,14,2,,,
+13-03-18,31,Farah,3101,Farah,31,Farah,3101,Farah,166,25,,,
+13-03-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,350,50,,,
+13-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,207,32,,,
+13-03-18,30,Hirat,3015,Shindand,30,Hirat,3001,Hirat,98,14,,,
+13-03-18,21,Ghor,2107,Pasaband,30,Hirat,3001,Hirat,18,2,,,
+13-03-18,20,Sar-e-Pul,2007,Sancharak,20,Sar-e-Pul,2001,Sar-e-Pul,315,45,,,
+13-03-18,30,Hirat,3003,Kushk,30,Hirat,3001,Hirat,13,2,,,
+13-03-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,30,5,,,
+13-03-18,11,Ghazni,1104,Waghaz,11,Ghazni,1101,Ghazni,35,5,5,5,25
+13-03-18,9,Baghlan,903,Dahana-e-Ghori,26,Khost,2601,Khost (Matun),14,2,2,2,10
+13-03-18,21,Ghor,2101,Chaghcharan,30,Hirat,3001,Hirat,35,5,,,
+14-03-18,12,Paktya,1211,Dand Wa Patan,12,Paktya,1201,Gardez,35,5,5,5,25
+14-03-18,11,Ghazni,1110,Qarabagh,11,Ghazni,1101,Ghazni,70,10,10,10,50
+14-03-18,23,Uruzgan,2305,Khasuruzgan,11,Ghazni,1101,Ghazni,42,6,6,6,30
+14-03-18,9,Baghlan,904,Doshi,8,Panjsher,803,Rukha,21,3,,,
+14-03-18,18,Balkh,1812,Charbulak,18,Balkh,1802,Nahr-e-Shahi,28,4,,,
+14-03-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,18,3,,,
+14-03-18,6,Nangarhar,621,Nazyan,1,Kabul,101,Kabul,77,11,13,30,34
+15-03-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,18,3,,,
+15-03-18,29,Badghis,2906,Balamurghab,30,Hirat,3001,Hirat,42,6,,,
+15-03-18,31,Farah,3101,Farah,31,Farah,3101,Farah,228,40,,,
+15-03-18,31,Farah,3102,Bakwa,31,Farah,3101,Farah,18,3,,,
+15-03-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,42,7,,,
+15-03-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,95,15,,,
+15-03-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,22,4,,,
+15-03-18,29,Badghis,2904,Qadis,29,Badghis,2904,Qadis,995,179,,,
+16-03-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,66,11,,,
+16-03-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,18,3,,,
+16-03-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,24,4,,,
+16-03-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,24,4,,,
+16-03-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,30,5,,,
+16-03-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,18,3,,,
+17-03-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,256,44,,,
+17-03-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,15,3,,,
+18-03-18,31,Farah,3101,Farah,31,Farah,3101,Farah,215,35,,,
+18-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,2149,307,,,
+18-03-18,12,Paktya,1207,Lija Ahmad Khel / Laja Mangel,1,Kabul,101,Kabul,28,4,5,10,13
+18-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,2205,315,,,
+18-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,1911,273,,,
+18-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,2310,330,,,
+18-03-18,4,Wardak,407,Saydabad,11,Ghazni,1101,Ghazni,42,6,6,6,30
+18-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,735,105,,,
+19-03-18,13,Kunar,1310,Dangam,13,Kunar,1310,Dangam,2142,306,478,578,1052
+19-03-18,13,Kunar,1310,Dangam,13,Kunar,1306,Shigal Wa Sheltan,21,3,4,6,11
+19-03-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,35,5,,,
+19-03-18,13,Kunar,1310,Dangam,13,Kunar,1310,Dangam,294,42,47,67,180
+19-03-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,38,6,,,
+19-03-18,13,Kunar,1310,Dangam,13,Kunar,1311,Barkunar,364,52,37,57,270
+19-03-18,29,Badghis,2905,Jawand,30,Hirat,3001,Hirat,26,4,,,
+20-03-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,252,42,,,
+20-03-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,22,3,,,
+20-03-18,31,Farah,3102,Bakwa,31,Farah,3101,Farah,22,3,,,
+20-03-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,35,5,,,
+20-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,100,16,,,
+20-03-18,31,Farah,3101,Farah,31,Farah,3101,Farah,211,35,,,
+20-03-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,258,47,,,
+20-03-18,2,Kapisa,205,Tagab,1,Kabul,101,Kabul,49,7,10,19,20
+20-03-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,10,1,,,
+20-03-18,20,Sar-e-Pul,2001,Sar-e-Pul,18,Balkh,1802,Nahr-e-Shahi,224,32,,,
+21-03-18,11,Ghazni,1106,Dehyak,34,Nimroz,3401,Zaranj,11,1,2,3,6
+21-03-18,21,Ghor,2106,Taywarah,34,Nimroz,3401,Zaranj,3,1,1,1,1
+21-03-18,31,Farah,3104,Khak-e-Safed,34,Nimroz,3401,Zaranj,7,2,1,2,4
+21-03-18,6,Nangarhar,613,Dehbala,6,Nangarhar,605,Chaparhar,34,5,5,6,24
+21-03-18,34,Nimroz,3405,Khashrod / Dularam,34,Nimroz,3401,Zaranj,11,1,3,3,5
+21-03-18,29,Badghis,2904,Qadis,34,Nimroz,3401,Zaranj,20,3,3,3,14
+21-03-18,21,Ghor,2109,Tolak,34,Nimroz,3401,Zaranj,8,1,1,1,6
+21-03-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,15,2,,,
+21-03-18,31,Farah,3109,Gulestan,34,Nimroz,3401,Zaranj,9,1,1,1,7
+21-03-18,31,Farah,3111,Anardara,34,Nimroz,3401,Zaranj,27,6,4,7,16
+21-03-18,29,Badghis,2902,Muqur,30,Hirat,3001,Hirat,6,1,,,
+21-03-18,31,Farah,3103,Balabuluk,34,Nimroz,3401,Zaranj,10,1,1,1,8
+22-03-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,5,1,,,
+22-03-18,9,Baghlan,902,Baghlan-e-Jadid,18,Balkh,1802,Nahr-e-Shahi,42,6,,,
+22-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,91,15,,,
+22-03-18,6,Nangarhar,613,Dehbala,6,Nangarhar,606,Rodat,7,1,1,2,4
+23-03-18,17,Kunduz,1702,Emamsaheb,18,Balkh,1802,Nahr-e-Shahi,21,3,,,
+23-03-18,6,Nangarhar,604,Khogyani,6,Nangarhar,601,Jalalabad,49,7,0,0,0
+23-03-18,30,Hirat,3015,Shindand,30,Hirat,3001,Hirat,18,3,,,
+24-03-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,13,2,3,4,8
+24-03-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,28,4,6,5,17
+24-03-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,15,2,3,6,6
+24-03-18,13,Kunar,1312,Ghaziabad,6,Nangarhar,602,Behsud,49,7,13,12,24
+24-03-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1307,Dara-e-Pech,10,1,2,1,7
+25-03-18,15,Badakhshan,1521,Jorm,15,Badakhshan,1521,Jorm,2814,402,,,
+25-03-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,7,1,1,1,5
+25-03-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,49,7,11,13,25
+25-03-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,138,25,,,
+25-03-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,7,1,1,1,5
+26-03-18,13,Kunar,1310,Dangam,6,Nangarhar,608,Kuzkunar,21,3,3,6,12
+26-03-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,7,1,1,1,5
+26-03-18,13,Kunar,1310,Dangam,6,Nangarhar,602,Behsud,70,10,13,17,40
+26-03-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,210,30,44,69,97
+27-03-18,27,Jawzjan,2708,Mardyan,18,Balkh,1802,Nahr-e-Shahi,294,42,,,
+28-03-18,28,Faryab,2804,Shirintagab,18,Balkh,1802,Nahr-e-Shahi,469,67,,,
+28-03-18,29,Badghis,2904,Qadis,30,Hirat,3001,Hirat,14,2,,,
+28-03-18,29,Badghis,2906,Balamurghab,30,Hirat,3001,Hirat,28,4,,,
+28-03-18,2,Kapisa,202,Nejrab,1,Kabul,101,Kabul,35,5,8,12,15
+28-03-18,31,Farah,3101,Farah,31,Farah,3101,Farah,234,35,,,
+29-03-18,19,Samangan,1901,Aybak,18,Balkh,1802,Nahr-e-Shahi,21,3,,,
+29-03-18,27,Jawzjan,2711,Darzab,27,Jawzjan,2701,Shiberghan,294,42,,,
+29-03-18,28,Faryab,2809,Bilcheragh,27,Jawzjan,2701,Shiberghan,98,14,,,
+30-03-18,12,Paktya,1211,Dand Wa Patan,30,Hirat,3001,Hirat,7,3,,,
+30-03-18,14,Nuristan,1402,Mandol,14,Nuristan,1401,Poruns,24,4,3,4,17
+30-03-18,12,Paktya,1209,Janikhel,1,Kabul,101,Kabul,35,5,5,10,20
+30-03-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,162,26,,,
+30-03-18,32,Hilmand,3202,Nahr-e-Saraj,32,Hilmand,3202,Nahr-e-Saraj,2422,354,388,430,1604
+30-03-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,6,1,,,
+31-03-18,31,Farah,3103,Balabuluk,30,Hirat,3001,Hirat,12,2,,,
+31-03-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,224,32,36,65,123
+31-03-18,22,Daykundi,2204,Kiti,22,Daykundi,2201,Nili,213,41,,,
+01-04-18,21,Ghor,2103,DoLayna,30,Hirat,3001,Hirat,16,3,,,
+01-04-18,17,Kunduz,1707,Dasht-e-Archi,1,Kabul,101,Kabul,14,2,2,5,7
+01-04-18,17,Kunduz,1707,Dasht-e-Archi,1,Kabul,101,Kabul,49,7,8,12,29
+01-04-18,23,Uruzgan,2305,Khasuruzgan,23,Uruzgan,2301,Tirinkot,1176,116,,,
+01-04-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,60,11,,,
+01-04-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,9,2,2,1,6
+01-04-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,56,8,8,8,40
+02-04-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,603,Surkhrod,21,3,3,3,15
+02-04-18,31,Farah,3101,Farah,31,Farah,3101,Farah,302,48,,,
+02-04-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,7,1,2,3,2
+02-04-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,12,2,,,
+02-04-18,17,Kunduz,1706,Khanabad,17,Kunduz,1701,Kunduz,259,37,,,
+02-04-18,13,Kunar,1310,Dangam,6,Nangarhar,602,Behsud,14,2,2,2,10
+02-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,604,Khogyani,28,4,4,4,20
+02-04-18,31,Farah,3102,Bakwa,31,Farah,3101,Farah,34,4,,,
+02-04-18,26,Khost,2602,Sabari,26,Khost,2601,Khost (Matun),77,11,11,11,55
+02-04-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,70,10,12,20,38
+02-04-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,245,35,,,
+03-04-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,215,38,,,
+03-04-18,5,Logar,507,Azra,1,Kabul,101,Kabul,14,2,3,6,5
+03-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,126,18,18,18,90
+03-04-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,35,5,5,5,25
+04-04-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,144,27,,,
+04-04-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,17,2,,,
+04-04-18,32,Hilmand,3203,Nad-e-Ali / Marja,10,Bamyan,1001,Bamyan,9,2,3,3,3
+04-04-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,165,30,,,
+05-04-18,31,Farah,3109,Gulestan,33,Kandahar,3301,Kandahar / Dand,11,1,2,3,6
+05-04-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,121,20,,,
+05-04-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,132,24,,,
+05-04-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,44,8,,,
+05-04-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,42,6,8,12,22
+05-04-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,35,5,,,
+05-04-18,29,Badghis,2906,Balamurghab,1,Kabul,101,Kabul,35,5,6,10,19
+06-04-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,603,Surkhrod,21,3,3,3,15
+06-04-18,6,Nangarhar,611,Sherzad,6,Nangarhar,601,Jalalabad,14,2,2,2,10
+06-04-18,6,Nangarhar,614,Kot,6,Nangarhar,603,Surkhrod,28,4,4,4,20
+06-04-18,13,Kunar,1310,Dangam,13,Kunar,1310,Dangam,434,62,87,89,258
+06-04-18,13,Kunar,1310,Dangam,13,Kunar,1310,Dangam,1694,242,323,421,950
+06-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,105,15,15,15,75
+06-04-18,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah,12,2,,,
+07-04-18,32,Hilmand,3203,Nad-e-Ali / Marja,33,Kandahar,3301,Kandahar / Dand,10,1,2,2,6
+07-04-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,602,Behsud,49,7,7,7,35
+07-04-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,35,5,5,5,25
+08-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,42,6,3,3,36
+08-04-18,6,Nangarhar,611,Sherzad,6,Nangarhar,603,Surkhrod,49,7,7,7,35
+08-04-18,6,Nangarhar,614,Kot,6,Nangarhar,602,Behsud,7,1,1,1,5
+09-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,602,Behsud,21,3,6,6,9
+09-04-18,22,Daykundi,2205,Gizab / Patoo,22,Daykundi,2201,Nili,3,1,1,1,1
+09-04-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,9,2,,,
+10-04-18,4,Wardak,403,Nerkh,1,Kabul,101,Kabul,70,10,,,
+10-04-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,150,25,,,
+10-04-18,32,Hilmand,3201,Lashkargah,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+10-04-18,2,Kapisa,202,Nejrab,2,Kapisa,202,Nejrab,1246,178,,,
+10-04-18,29,Badghis,2906,Balamurghab,30,Hirat,3001,Hirat,10,2,,,
+10-04-18,27,Jawzjan,2705,Fayzabad,18,Balkh,1802,Nahr-e-Shahi,84,12,,,
+10-04-18,2,Kapisa,202,Nejrab,2,Kapisa,201,Mahmud-e-Raqi,84,12,,,
+10-04-18,29,Badghis,2904,Qadis,30,Hirat,3001,Hirat,40,8,,,
+10-04-18,28,Faryab,2804,Shirintagab,18,Balkh,1802,Nahr-e-Shahi,182,26,,,
+10-04-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,94,17,,,
+10-04-18,28,Faryab,2810,Dawlatabad,18,Balkh,1802,Nahr-e-Shahi,147,21,,,
+10-04-18,28,Faryab,2808,Garziwan,18,Balkh,1802,Nahr-e-Shahi,98,14,,,
+10-04-18,28,Faryab,2803,Pashtunkot,18,Balkh,1802,Nahr-e-Shahi,63,9,,,
+10-04-18,20,Sar-e-Pul,2002,Sayad,18,Balkh,1802,Nahr-e-Shahi,49,7,,,
+10-04-18,18,Balkh,1812,Charbulak,18,Balkh,1802,Nahr-e-Shahi,308,44,,,
+10-04-18,9,Baghlan,901,Pul-e-Khumri,18,Balkh,1802,Nahr-e-Shahi,42,6,,,
+10-04-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,63,9,,,
+10-04-18,27,Jawzjan,2708,Mardyan,18,Balkh,1802,Nahr-e-Shahi,63,9,,,
+12-04-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,70,10,10,20,40
+12-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,601,Jalalabad,21,3,3,3,15
+12-04-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,348,58,,,
+13-04-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,408,68,,,
+15-04-18,28,Faryab,2804,Shirintagab,28,Faryab,2801,Maymana,56,8,,,
+15-04-18,31,Farah,3106,Qala-e-Kah,34,Nimroz,3401,Zaranj,15,4,5,4,6
+15-04-18,31,Farah,3103,Balabuluk,34,Nimroz,3401,Zaranj,65,10,15,20,30
+15-04-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,420,70,,,
+15-04-18,31,Farah,3101,Farah,34,Nimroz,3401,Zaranj,69,12,18,18,33
+15-04-18,28,Faryab,2805,Almar,28,Faryab,2801,Maymana,119,17,,,
+15-04-18,21,Ghor,2101,Chaghcharan,30,Hirat,3001,Hirat,10,2,,,
+15-04-18,33,Kandahar,3315,Ghorak,33,Kandahar,3301,Kandahar / Dand,56,9,13,15,28
+15-04-18,28,Faryab,2806,Qaysar,28,Faryab,2801,Maymana,154,22,,,
+16-04-18,26,Khost,2613,Jajimaydan,26,Khost,2601,Khost (Matun),2100,300,280,300,1520
+16-04-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,22,4,,,
+17-04-18,33,Kandahar,3307,Khakrez,33,Kandahar,3301,Kandahar / Dand,8,1,1,2,5
+17-04-18,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah,8,1,,,
+17-04-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,125,19,,,
+18-04-18,30,Hirat,3015,Shindand,30,Hirat,3001,Hirat,15,3,,,
+18-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,601,Jalalabad,70,10,10,10,50
+18-04-18,23,Uruzgan,2301,Tirinkot,33,Kandahar,3301,Kandahar / Dand,13,2,4,3,6
+18-04-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,132,22,,,
+20-04-18,7,Laghman,704,Alingar,7,Laghman,703,Qarghayi,70,10,10,13,47
+20-04-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,93,17,,,
+20-04-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,49,7,10,13,26
+20-04-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,14,3,,,
+20-04-18,20,Sar-e-Pul,2001,Sar-e-Pul,6,Nangarhar,601,Jalalabad,14,2,2,2,10
+20-04-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,490,70,75,80,335
+20-04-18,32,Hilmand,3203,Nad-e-Ali / Marja,34,Nimroz,3401,Zaranj,6,1,1,1,4
+20-04-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,7,1,1,1,5
+21-04-18,6,Nangarhar,610,Hesarak,6,Nangarhar,603,Surkhrod,28,4,4,4,20
+21-04-18,6,Nangarhar,611,Sherzad,6,Nangarhar,603,Surkhrod,42,6,6,6,30
+21-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,175,25,25,25,125
+21-04-18,6,Nangarhar,615,Batikot,6,Nangarhar,603,Surkhrod,35,5,5,5,25
+22-04-18,17,Kunduz,1706,Khanabad,17,Kunduz,1701,Kunduz,189,27,,,
+22-04-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,605,Chaparhar,49,7,7,7,35
+22-04-18,17,Kunduz,1706,Khanabad,17,Kunduz,1701,Kunduz,637,91,,,
+23-04-18,7,Laghman,704,Alingar,14,Nuristan,1405,Wama,21,4,4,5,12
+23-04-18,33,Kandahar,3308,Maywand,33,Kandahar,3301,Kandahar / Dand,6,1,1,1,4
+23-04-18,13,Kunar,1314,Nurgal,6,Nangarhar,601,Jalalabad,28,4,4,4,20
+23-04-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,448,64,,,
+24-04-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,28,4,4,4,20
+24-04-18,2,Kapisa,206,Alasay,2,Kapisa,207,Hisa-e-Awal-e-Kohestan,35,5,,,
+24-04-18,4,Wardak,403,Nerkh,1,Kabul,101,Kabul,49,7,,,
+24-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,602,Behsud,28,4,4,4,20
+24-04-18,10,Bamyan,1007,Waras,10,Bamyan,1001,Bamyan,8,1,3,1,4
+25-04-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,1855,265,,,
+25-04-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2801,Maymana,441,63,,,
+25-04-18,28,Faryab,2804,Shirintagab,28,Faryab,2804,Shirintagab,1078,154,,,
+25-04-18,21,Ghor,2101,Chaghcharan,34,Nimroz,3401,Zaranj,8,1,2,2,4
+25-04-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,603,Surkhrod,14,2,2,2,10
+25-04-18,28,Faryab,2809,Bilcheragh,28,Faryab,2801,Maymana,49,7,,,
+25-04-18,28,Faryab,2803,Pashtunkot,28,Faryab,2803,Pashtunkot,5922,846,,,
+25-04-18,28,Faryab,2804,Shirintagab,28,Faryab,2811,Andkhoy,210,30,,,
+25-04-18,29,Badghis,2906,Balamurghab,34,Nimroz,3401,Zaranj,70,12,15,18,37
+25-04-18,28,Faryab,2808,Garziwan,28,Faryab,2801,Maymana,189,27,,,
+25-04-18,28,Faryab,2806,Qaysar,28,Faryab,2801,Maymana,49,7,,,
+25-04-18,28,Faryab,2810,Dawlatabad,28,Faryab,2811,Andkhoy,1176,168,,,
+25-04-18,28,Faryab,2805,Almar,28,Faryab,2801,Maymana,147,21,,,
+25-04-18,2,Kapisa,205,Tagab,2,Kapisa,201,Mahmud-e-Raqi,105,15,,,
+25-04-18,30,Hirat,3015,Shindand,34,Nimroz,3401,Zaranj,16,3,3,4,9
+25-04-18,34,Nimroz,3405,Khashrod / Dularam,34,Nimroz,3401,Zaranj,26,4,6,7,13
+25-04-18,28,Faryab,2807,Kohestan,28,Faryab,2801,Maymana,343,49,,,
+25-04-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,364,52,,,
+26-04-18,17,Kunduz,1703,Qala-e-Zal,17,Kunduz,1701,Kunduz,861,123,,,
+26-04-18,17,Kunduz,1707,Dasht-e-Archi,1,Kabul,101,Kabul,21,3,5,8,8
+26-04-18,17,Kunduz,1703,Qala-e-Zal,17,Kunduz,1701,Kunduz,2597,371,,,
+26-04-18,12,Paktya,1207,Lija Ahmad Khel / Laja Mangel,1,Kabul,101,Kabul,14,2,2,2,10
+26-04-18,6,Nangarhar,604,Khogyani,6,Nangarhar,604,Khogyani,35,5,5,5,25
+27-04-18,6,Nangarhar,613,Dehbala,6,Nangarhar,601,Jalalabad,7,1,1,1,5
+27-04-18,20,Sar-e-Pul,2001,Sar-e-Pul,20,Sar-e-Pul,2001,Sar-e-Pul,224,32,,,
+27-04-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,11,2,,,
+28-04-18,15,Badakhshan,1509,Teshkan,15,Badakhshan,1518,Keshem,1365,195,,,
+28-04-18,15,Badakhshan,1509,Teshkan,15,Badakhshan,1509,Teshkan,3269,467,,,
+28-04-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,33,6,,,
+28-04-18,17,Kunduz,1703,Qala-e-Zal,17,Kunduz,1701,Kunduz,231,33,,,
+28-04-18,15,Badakhshan,1509,Teshkan,15,Badakhshan,1510,Darayem,1232,176,,,
+29-04-18,28,Faryab,2805,Almar,28,Faryab,2801,Maymana,3647,521,,,
+30-04-18,30,Hirat,3012,Obe,29,Badghis,2901,Qala-e-Naw,6,1,,,
+30-04-18,14,Nuristan,1406,Waygal,14,Nuristan,1401,Poruns,93,17,17,17,59
+30-04-18,14,Nuristan,1407,Kamdesh,14,Nuristan,1401,Poruns,109,16,16,16,77
+30-04-18,14,Nuristan,1408,Barg-e-Matal,14,Nuristan,1401,Poruns,81,15,17,14,50
+01-05-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,603,Surkhrod,21,3,3,3,15
+01-05-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,70,10,,,
+01-05-18,6,Nangarhar,617,Achin,6,Nangarhar,603,Surkhrod,21,3,3,3,15
+01-05-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,14,2,2,2,10
+01-05-18,7,Laghman,704,Alingar,7,Laghman,702,Alishang,3500,500,,,
+01-05-18,26,Khost,2602,Sabari,26,Khost,2601,Khost (Matun),126,18,18,18,90
+02-05-18,6,Nangarhar,610,Hesarak,6,Nangarhar,604,Khogyani,28,4,7,7,14
+02-05-18,6,Nangarhar,604,Khogyani,6,Nangarhar,604,Khogyani,42,6,4,4,34
+02-05-18,7,Laghman,702,Alishang,6,Nangarhar,601,Jalalabad,35,5,5,5,20
+02-05-18,29,Badghis,2904,Qadis,30,Hirat,3001,Hirat,35,6,,,
+03-05-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,70,10,2,2,66
+03-05-18,6,Nangarhar,611,Sherzad,6,Nangarhar,603,Surkhrod,28,4,2,2,24
+03-05-18,9,Baghlan,901,Pul-e-Khumri,9,Baghlan,901,Pul-e-Khumri,560,80,,,
+03-05-18,26,Khost,2603,Musakhel,26,Khost,2601,Khost (Matun),42,6,6,6,30
+03-05-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,603,Surkhrod,49,7,10,10,29
+03-05-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,112,16,,,
+04-05-18,6,Nangarhar,619,Muhmand Dara,6,Nangarhar,602,Behsud,7,1,1,1,5
+04-05-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,17,3,,,
+04-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,7,1,1,1,5
+04-05-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,14,2,2,2,10
+04-05-18,6,Nangarhar,606,Rodat,6,Nangarhar,602,Behsud,14,2,1,1,12
+04-05-18,6,Nangarhar,615,Batikot,6,Nangarhar,602,Behsud,14,2,2,2,10
+05-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,613,Dehbala,771,95,,,
+05-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,613,Dehbala,726,101,,,
+05-05-18,29,Badghis,2905,Jawand,30,Hirat,3001,Hirat,75,13,,,
+05-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,613,Dehbala,1015,145,123,234,658
+05-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,615,Batikot,392,56,73,80,243
+05-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,606,Rodat,7,1,2,3,2
+05-05-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,605,Chaparhar,14,2,2,2,10
+05-05-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,21,4,,,
+05-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,612,Pachieragam,350,50,57,67,156
+05-05-18,13,Kunar,1312,Ghaziabad,14,Nuristan,1405,Wama,29,6,6,6,17
+05-05-18,6,Nangarhar,604,Khogyani,1,Kabul,101,Kabul,140,20,30,40,70
+06-05-18,13,Kunar,1306,Shigal Wa Sheltan,2,Kapisa,201,Mahmud-e-Raqi,21,3,,,
+06-05-18,28,Faryab,2810,Dawlatabad,28,Faryab,2811,Andkhoy,231,33,,,
+06-05-18,28,Faryab,2809,Bilcheragh,28,Faryab,2811,Andkhoy,105,15,,,
+06-05-18,6,Nangarhar,615,Batikot,6,Nangarhar,603,Surkhrod,14,2,2,2,10
+06-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,603,Surkhrod,175,25,25,25,125
+06-05-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,224,32,32,32,160
+07-05-18,28,Faryab,2804,Shirintagab,28,Faryab,2811,Andkhoy,658,94,,,
+07-05-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2811,Andkhoy,70,10,,,
+08-05-18,13,Kunar,1311,Barkunar,14,Nuristan,1405,Wama,14,2,4,2,8
+08-05-18,31,Farah,3101,Farah,31,Farah,3101,Farah,154,26,,,
+08-05-18,9,Baghlan,906,Tala Wa barfak,9,Baghlan,901,Pul-e-Khumri,126,18,,,
+08-05-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,8,1,,,
+09-05-18,9,Baghlan,906,Tala Wa barfak,10,Bamyan,1006,Kahmard,368,56,183,59,75
+09-05-18,13,Kunar,1314,Nurgal,13,Kunar,1314,Nurgal,294,42,128,36,33
+09-05-18,9,Baghlan,906,Tala Wa barfak,10,Bamyan,1002,Sayghan,89,30,,,
+10-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,42,6,9,11,22
+10-05-18,13,Kunar,1313,Chapadara,14,Nuristan,1405,Wama,14,3,2,3,9
+10-05-18,19,Samangan,1907,Ruy-e-Duab,1,Kabul,101,Kabul,28,4,,,
+10-05-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,88,13,,,
+10-05-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,192,35,,,
+10-05-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,21,3,,,
+10-05-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,38,6,,,
+10-05-18,13,Kunar,1314,Nurgal,13,Kunar,1314,Nurgal,197,25,0,0,0
+11-05-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,10,2,,,
+11-05-18,28,Faryab,2810,Dawlatabad,27,Jawzjan,2701,Shiberghan,1092,156,,,
+11-05-18,13,Kunar,1314,Nurgal,14,Nuristan,1405,Wama,35,4,6,5,24
+11-05-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,740,125,,,
+11-05-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,291,42,,,
+11-05-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,480,80,,,
+11-05-18,9,Baghlan,906,Tala Wa barfak,1,Kabul,101,Kabul,98,14,,,
+11-05-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,482,74,,,
+11-05-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,546,91,,,
+11-05-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,324,59,,,
+11-05-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,138,23,,,
+11-05-18,6,Nangarhar,604,Khogyani,1,Kabul,101,Kabul,35,5,,,
+11-05-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,84,11,,,
+11-05-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,96,16,,,
+12-05-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,30,6,6,6,18
+12-05-18,14,Nuristan,1405,Wama,14,Nuristan,1405,Wama,10,2,2,2,6
+12-05-18,14,Nuristan,1406,Waygal,14,Nuristan,1405,Wama,6,2,2,2,2
+12-05-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,5,1,,,
+13-05-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,16,3,,,
+14-05-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,23,4,,,
+15-05-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,60,11,,,
+15-05-18,7,Laghman,702,Alishang,1,Kabul,101,Kabul,21,3,,,
+15-05-18,24,Zabul,2408,Daychopan,24,Zabul,2401,Qalat,182,26,55,50,77
+15-05-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,216,38,,,
+15-05-18,13,Kunar,1302,Watapur,13,Kunar,1304,Sarkani,7,1,1,1,5
+15-05-18,24,Zabul,2408,Daychopan,24,Zabul,2401,Qalat,118,13,15,23,80
+16-05-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,78,14,,,
+17-05-18,13,Kunar,1314,Nurgal,6,Nangarhar,602,Behsud,90,15,,,
+17-05-18,13,Kunar,1314,Nurgal,6,Nangarhar,608,Kuzkunar,90,14,,,
+18-05-18,32,Hilmand,3203,Nad-e-Ali / Marja,32,Hilmand,3201,Lashkargah,336,48,46,50,240
+18-05-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,65,11,,,
+19-05-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,76,12,,,
+19-05-18,31,Farah,3101,Farah,30,Hirat,3001,Hirat,413,59,,,
+20-05-18,15,Badakhshan,1509,Teshkan,15,Badakhshan,1518,Keshem,77,11,,,
+20-05-18,16,Takhar,1613,Dasht-e-Qala,16,Takhar,1609,Rostaq,588,84,,,
+20-05-18,16,Takhar,1607,Farkhar,16,Takhar,1601,Taloqan,224,32,,,
+20-05-18,16,Takhar,1613,Dasht-e-Qala,16,Takhar,1613,Dasht-e-Qala,630,90,,,
+20-05-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,186,26,,,
+20-05-18,16,Takhar,1613,Dasht-e-Qala,16,Takhar,1601,Taloqan,756,108,,,
+20-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,613,Dehbala,181,29,,,
+20-05-18,2,Kapisa,205,Tagab,3,Parwan,302,Jabalussaraj,154,22,,,
+20-05-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,6,1,,,
+20-05-18,28,Faryab,2812,Qaramqol,28,Faryab,2811,Andkhoy,434,62,,,
+20-05-18,15,Badakhshan,1505,Kohestan,15,Badakhshan,1501,Fayzabad,343,49,,,
+20-05-18,28,Faryab,2810,Dawlatabad,28,Faryab,2811,Andkhoy,77,11,,,
+20-05-18,6,Nangarhar,615,Batikot,6,Nangarhar,601,Jalalabad,196,28,28,28,140
+20-05-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2801,Maymana,1337,191,,,
+20-05-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,10,2,,,
+20-05-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,14,2,4,6,4
+21-05-18,13,Kunar,1313,Chapadara,14,Nuristan,1401,Poruns,5,1,1,1,3
+24-05-18,31,Farah,3101,Farah,31,Farah,3101,Farah,187,29,,,
+25-05-18,29,Badghis,2906,Balamurghab,30,Hirat,3001,Hirat,94,17,,,
+26-05-18,28,Faryab,2804,Shirintagab,18,Balkh,1802,Nahr-e-Shahi,749,107,,,
+27-05-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,266,38,,,
+27-05-18,17,Kunduz,1706,Khanabad,17,Kunduz,1706,Khanabad,2373,339,,,
+27-05-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,252,36,,,
+28-05-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,264,48,,,
+29-05-18,23,Uruzgan,2304,Dehrawud,33,Kandahar,3301,Kandahar / Dand,96,11,10,18,68
+29-05-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,10,2,,,
+30-05-18,2,Kapisa,206,Alasay,3,Parwan,301,Charikar,126,18,,,
+30-05-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,6,1,,,
+30-05-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,70,10,,,
+31-05-18,29,Badghis,2907,Ghormach,29,Badghis,2901,Qala-e-Naw,12,2,,,
+01-06-18,32,Hilmand,3201,Lashkargah,24,Zabul,2401,Qalat,42,6,12,13,17
+01-06-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,67,10,,,
+01-06-18,6,Nangarhar,615,Batikot,6,Nangarhar,601,Jalalabad,21,3,3,3,15
+01-06-18,6,Nangarhar,615,Batikot,6,Nangarhar,603,Surkhrod,14,2,2,2,10
+01-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,613,Dehbala,1015,145,147,177,691
+01-06-18,13,Kunar,1306,Shigal Wa Sheltan,3,Parwan,304,Bagram,140,20,,,
+01-06-18,23,Uruzgan,2302,Chora / Chinarto,24,Zabul,2401,Qalat,119,17,41,33,45
+01-06-18,23,Uruzgan,2305,Khasuruzgan,23,Uruzgan,2301,Tirinkot,18,3,4,8,6
+01-06-18,23,Uruzgan,2305,Khasuruzgan,23,Uruzgan,2301,Tirinkot,49,6,14,13,22
+01-06-18,23,Uruzgan,2302,Chora / Chinarto,23,Uruzgan,2301,Tirinkot,389,53,110,117,162
+01-06-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,104,14,,,
+01-06-18,31,Farah,3101,Farah,31,Farah,3101,Farah,330,52,,,
+01-06-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,5,1,,,
+01-06-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,22,3,,,
+02-06-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,16,2,2,3,11
+02-06-18,6,Nangarhar,615,Batikot,6,Nangarhar,606,Rodat,35,5,5,5,25
+02-06-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,70,10,10,10,50
+02-06-18,32,Hilmand,3210,Kajaki,33,Kandahar,3301,Kandahar / Dand,6,1,0,1,5
+02-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,49,7,7,7,35
+02-06-18,6,Nangarhar,611,Sherzad,6,Nangarhar,603,Surkhrod,14,2,3,3,15
+03-06-18,12,Paktya,1209,Janikhel,12,Paktya,1201,Gardez,140,20,20,20,100
+04-06-18,12,Paktya,1208,Alikhel (Jaji),12,Paktya,1201,Gardez,105,15,15,15,75
+04-06-18,7,Laghman,701,Mehtarlam / Bad Pash,7,Laghman,701,Mehtarlam / Bad Pash,175,25,25,25,125
+04-06-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,602,Behsud,30,5,5,5,25
+04-06-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,315,45,45,45,225
+05-06-18,24,Zabul,2411,Nawbahar,24,Zabul,2401,Qalat,13,1,3,4,6
+05-06-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,601,Jalalabad,35,5,5,5,25
+05-06-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,601,Jalalabad,1182,220,242,241,699
+05-06-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,606,Rodat,28,4,4,4,20
+05-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,605,Chaparhar,49,7,7,7,35
+05-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,606,Rodat,14,2,2,2,10
+05-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,606,Rodat,21,3,3,3,15
+05-06-18,32,Hilmand,3204,Nawa-e-Barakzaiy,33,Kandahar,3301,Kandahar / Dand,11,2,1,2,8
+05-06-18,2,Kapisa,205,Tagab,1,Kabul,101,Kabul,56,8,,,
+05-06-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,7,1,,,
+05-06-18,9,Baghlan,904,Doshi,1,Kabul,101,Kabul,35,5,,,
+06-06-18,24,Zabul,2401,Qalat,33,Kandahar,3301,Kandahar / Dand,5,1,0,1,4
+06-06-18,24,Zabul,2402,Arghandab,24,Zabul,2401,Qalat,52,8,10,10,32
+06-06-18,17,Kunduz,1707,Dasht-e-Archi,1,Kabul,101,Kabul,105,15,,,
+06-06-18,24,Zabul,2403,Mizan,24,Zabul,2401,Qalat,32,3,6,4,22
+06-06-18,23,Uruzgan,2302,Chora / Chinarto,24,Zabul,2401,Qalat,8,1,2,2,4
+06-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,35,5,5,5,25
+07-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,601,Jalalabad,35,5,5,5,25
+07-06-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,601,Jalalabad,105,15,15,15,75
+07-06-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,603,Surkhrod,28,4,4,4,20
+07-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,603,Surkhrod,21,3,3,3,15
+07-06-18,17,Kunduz,1704,Chardarah,1,Kabul,101,Kabul,14,2,,,
+08-06-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,159,26,,,
+09-06-18,31,Farah,3109,Gulestan,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+09-06-18,23,Uruzgan,2303,Shahid-e-Hassas,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+10-06-18,12,Paktya,1204,Zurmat,12,Paktya,1201,Gardez,91,13,13,13,65
+10-06-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,28,4,,,
+10-06-18,6,Nangarhar,605,Chaparhar,4,Wardak,401,Maydanshahr,49,7,,,
+10-06-18,23,Uruzgan,2301,Tirinkot,23,Uruzgan,2301,Tirinkot,538,67,160,146,232
+11-06-18,14,Nuristan,1407,Kamdesh,14,Nuristan,1401,Poruns,19,5,3,6,10
+11-06-18,28,Faryab,2810,Dawlatabad,18,Balkh,1802,Nahr-e-Shahi,392,56,,,
+11-06-18,31,Farah,3101,Farah,33,Kandahar,3301,Kandahar / Dand,8,1,1,2,5
+11-06-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,63,9,,,
+11-06-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,56,8,,,
+11-06-18,3,Parwan,307,Ghorband,3,Parwan,301,Charikar,35,5,,,
+11-06-18,9,Baghlan,904,Doshi,8,Panjsher,801,Bazarak,42,6,,,
+12-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,606,Rodat,21,3,6,5,10
+13-06-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,35,5,7,8,20
+14-06-18,4,Wardak,402,Jalrez,4,Wardak,401,Maydanshahr,42,6,,,
+14-06-18,15,Badakhshan,1506,Raghestan,15,Badakhshan,1506,Raghestan,581,83,,,
+14-06-18,15,Badakhshan,1505,Kohestan,15,Badakhshan,1505,Kohestan,105,15,,,
+14-06-18,15,Badakhshan,1522,Warduj,15,Badakhshan,1512,Baharak,1050,150,,,
+14-06-18,15,Badakhshan,1505,Kohestan,15,Badakhshan,1501,Fayzabad,252,36,,,
+15-06-18,19,Samangan,1907,Ruy-e-Duab,1,Kabul,101,Kabul,28,4,,,
+15-06-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,70,10,,,
+15-06-18,33,Kandahar,3316,Maruf,33,Kandahar,3301,Kandahar / Dand,6,1,2,2,2
+15-06-18,33,Kandahar,3308,Maywand,33,Kandahar,3301,Kandahar / Dand,8,1,0,1,7
+15-06-18,33,Kandahar,3306,Shahwalikot,33,Kandahar,3301,Kandahar / Dand,12,1,3,2,7
+15-06-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,28,4,,,
+15-06-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,70,10,,,
+15-06-18,33,Kandahar,3307,Khakrez,33,Kandahar,3301,Kandahar / Dand,99,16,12,17,70
+15-06-18,17,Kunduz,1707,Dasht-e-Archi,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+15-06-18,23,Uruzgan,2301,Tirinkot,33,Kandahar,3301,Kandahar / Dand,53,6,6,7,40
+15-06-18,7,Laghman,704,Alingar,14,Nuristan,1405,Wama,26,7,6,7,13
+15-06-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,20,3,,,
+15-06-18,14,Nuristan,1405,Wama,14,Nuristan,1405,Wama,22,4,4,4,14
+16-06-18,28,Faryab,2806,Qaysar,33,Kandahar,3301,Kandahar / Dand,11,1,1,1,9
+17-06-18,32,Hilmand,3206,Musaqalah,33,Kandahar,3301,Kandahar / Dand,11,2,1,2,8
+18-06-18,23,Uruzgan,2301,Tirinkot,33,Kandahar,3301,Kandahar / Dand,7,1,0,1,6
+18-06-18,23,Uruzgan,2304,Dehrawud,33,Kandahar,3301,Kandahar / Dand,8,1,1,1,6
+18-06-18,24,Zabul,2407,Kakar,24,Zabul,2401,Qalat,4,1,1,1,2
+18-06-18,5,Logar,503,Mohammadagha,1,Kabul,101,Kabul,35,5,,,
+18-06-18,31,Farah,3110,Purchaman,33,Kandahar,3301,Kandahar / Dand,17,3,2,3,12
+19-06-18,15,Badakhshan,1526,Koran Wa Monjan,14,Nuristan,1401,Poruns,8,1,2,1,5
+19-06-18,14,Nuristan,1407,Kamdesh,14,Nuristan,1401,Poruns,20,3,2,3,15
+19-06-18,7,Laghman,705,Dawlatshah,14,Nuristan,1401,Poruns,6,1,1,1,4
+19-06-18,14,Nuristan,1406,Waygal,14,Nuristan,1401,Poruns,16,2,2,2,12
+19-06-18,14,Nuristan,1408,Barg-e-Matal,14,Nuristan,1401,Poruns,22,8,7,7,8
+19-06-18,14,Nuristan,1404,Nurgeram,14,Nuristan,1401,Poruns,8,2,2,2,4
+19-06-18,6,Nangarhar,611,Sherzad,6,Nangarhar,603,Surkhrod,6,1,1,1,4
+19-06-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1301,Asadabad,28,5,5,5,18
+20-06-18,21,Ghor,2105,Shahrak,21,Ghor,2105,Shahrak,330,55,,,
+20-06-18,33,Kandahar,3314,Nesh,33,Kandahar,3301,Kandahar / Dand,49,6,8,8,33
+20-06-18,9,Baghlan,904,Doshi,1,Kabul,101,Kabul,49,7,,,
+20-06-18,4,Wardak,403,Nerkh,4,Wardak,401,Maydanshahr,28,4,,,
+20-06-18,7,Laghman,705,Dawlatshah,8,Panjsher,805,Khenj (Hes-e-Awal),28,4,,,
+20-06-18,32,Hilmand,3206,Musaqalah,33,Kandahar,3301,Kandahar / Dand,12,1,2,1,9
+20-06-18,32,Hilmand,3202,Nahr-e-Saraj,33,Kandahar,3301,Kandahar / Dand,4,1,1,1,2
+20-06-18,32,Hilmand,3204,Nawa-e-Barakzaiy,33,Kandahar,3301,Kandahar / Dand,7,1,0,1,6
+20-06-18,24,Zabul,2406,Shahjoy,24,Zabul,2401,Qalat,14,2,4,4,6
+20-06-18,11,Ghazni,1116,Ajrestan,11,Ghazni,1101,Ghazni,126,18,,,
+20-06-18,24,Zabul,2410,Shomulzay,24,Zabul,2401,Qalat,6,1,0,1,5
+20-06-18,32,Hilmand,3207,Nawzad,33,Kandahar,3301,Kandahar / Dand,5,1,0,1,4
+20-06-18,28,Faryab,2810,Dawlatabad,18,Balkh,1802,Nahr-e-Shahi,1841,263,,,
+20-06-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,84,12,,,
+20-06-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,91,12,,,
+20-06-18,29,Badghis,2903,Abkamari,30,Hirat,3001,Hirat,63,13,,,
+20-06-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,14,2,,,
+20-06-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,18,3,3,3,12
+21-06-18,17,Kunduz,1703,Qala-e-Zal,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+22-06-18,17,Kunduz,1702,Emamsaheb,17,Kunduz,1702,Emamsaheb,231,33,,,
+22-06-18,14,Nuristan,1402,Mandol,8,Panjsher,803,Rukha,14,2,,,
+22-06-18,32,Hilmand,3203,Nad-e-Ali / Marja,33,Kandahar,3301,Kandahar / Dand,41,7,5,8,28
+22-06-18,13,Kunar,1314,Nurgal,6,Nangarhar,609,Dara-e-Nur,133,19,27,35,71
+23-06-18,13,Kunar,1311,Barkunar,6,Nangarhar,602,Behsud,24,4,4,4,16
+24-06-18,33,Kandahar,3306,Shahwalikot,33,Kandahar,3301,Kandahar / Dand,8,1,0,2,6
+24-06-18,23,Uruzgan,2302,Chora / Chinarto,33,Kandahar,3301,Kandahar / Dand,5,1,1,1,3
+25-06-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,18,3,3,3,12
+25-06-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,119,17,,,
+25-06-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,77,11,,,
+25-06-18,19,Samangan,1901,Aybak,19,Samangan,1901,Aybak,1302,186,,,
+25-06-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,21,3,,,
+25-06-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,6,1,,,
+25-06-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,10,2,,,
+25-06-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,330,60,,,
+25-06-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,246,41,,,
+26-06-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,145,21,,,
+26-06-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,560,80,,,
+27-06-18,31,Farah,3101,Farah,31,Farah,3101,Farah,90,14,,,
+28-06-18,19,Samangan,1905,Dara-e Suf-e-Bala,19,Samangan,1905,Dara-e Suf-e-Bala,252,36,,,
+28-06-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,16,3,,,
+29-06-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,33,6,,,
+30-06-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,84,12,,,
+30-06-18,19,Samangan,1901,Aybak,19,Samangan,1901,Aybak,560,80,,,
+01-07-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,13,2,2,2,9
+01-07-18,13,Kunar,1308,Chawkay,13,Kunar,1309,Khaskunar,35,5,6,7,22
+01-07-18,11,Ghazni,1101,Ghazni,22,Daykundi,2209,Miramor,269,48,39,57,173
+01-07-18,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah,22,5,,,
+01-07-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,24,3,4,5,15
+02-07-18,9,Baghlan,902,Baghlan-e-Jadid,26,Khost,2601,Khost (Matun),98,14,14,14,70
+02-07-18,17,Kunduz,1704,Chardarah,17,Kunduz,1701,Kunduz,6412,916,,,
+02-07-18,31,Farah,3107,Shibkoh,31,Farah,3101,Farah,6,1,,,
+02-07-18,16,Takhar,1614,Khwajaghar,16,Takhar,1601,Taloqan,364,52,,,
+02-07-18,6,Nangarhar,613,Dehbala,6,Nangarhar,603,Surkhrod,6,1,1,1,4
+02-07-18,6,Nangarhar,613,Dehbala,6,Nangarhar,602,Behsud,28,4,10,10,50
+02-07-18,6,Nangarhar,604,Khogyani,6,Nangarhar,603,Surkhrod,14,2,11,11,55
+03-07-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,31,5,,,
+03-07-18,31,Farah,3101,Farah,31,Farah,3101,Farah,203,30,,,
+03-07-18,5,Logar,504,Barakibarak,26,Khost,2601,Khost (Matun),140,20,20,20,100
+03-07-18,13,Kunar,1313,Chapadara,13,Kunar,1313,Chapadara,450,69,70,75,305
+04-07-18,23,Uruzgan,2301,Tirinkot,1,Kabul,107,Bagrami,49,7,,,
+05-07-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,119,17,,,
+05-07-18,13,Kunar,1305,Marawara,13,Kunar,1305,Marawara,10,1,1,2,7
+05-07-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,91,13,,,
+05-07-18,11,Ghazni,1105,Andar,26,Khost,2601,Khost (Matun),105,15,15,15,75
+05-07-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,24,6,,,
+05-07-18,29,Badghis,2907,Ghormach,29,Badghis,2904,Qadis,7,1,,,
+07-07-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,30,6,,,
+08-07-18,31,Farah,3103,Balabuluk,29,Badghis,2901,Qala-e-Naw,209,29,,,
+08-07-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,132,22,,,
+08-07-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,102,13,,,
+09-07-18,13,Kunar,1302,Watapur,13,Kunar,1302,Watapur,10,2,2,2,6
+10-07-18,11,Ghazni,1105,Andar,11,Ghazni,1101,Ghazni,350,50,,,
+10-07-18,14,Nuristan,1408,Barg-e-Matal,14,Nuristan,1401,Poruns,4,1,1,1,2
+10-07-18,19,Samangan,1904,Dara-e-Suf-e-Payin,19,Samangan,1901,Aybak,189,27,,,
+10-07-18,19,Samangan,1904,Dara-e-Suf-e-Payin,19,Samangan,1901,Aybak,476,68,,,
+10-07-18,21,Ghor,2106,Taywarah,33,Kandahar,3301,Kandahar / Dand,9,1,1,1,7
+10-07-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,152,22,,,
+10-07-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,248,38,,,
+10-07-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,140,20,,,
+11-07-18,6,Nangarhar,612,Pachieragam,6,Nangarhar,602,Behsud,28,4,4,4,20
+11-07-18,31,Farah,3101,Farah,31,Farah,3101,Farah,100,16,,,
+11-07-18,6,Nangarhar,604,Khogyani,6,Nangarhar,602,Behsud,63,9,7,7,49
+11-07-18,13,Kunar,1315,Nari,6,Nangarhar,602,Behsud,21,3,3,3,15
+11-07-18,6,Nangarhar,603,Surkhrod,6,Nangarhar,602,Behsud,35,5,5,5,25
+12-07-18,6,Nangarhar,610,Hesarak,6,Nangarhar,601,Jalalabad,11,2,1,2,8
+12-07-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,32,5,,,
+13-07-18,13,Kunar,1313,Chapadara,13,Kunar,1313,Chapadara,71,10,11,13,47
+13-07-18,31,Farah,3105,pushtrod,31,Farah,3101,Farah,84,12,,,
+15-07-18,9,Baghlan,903,Dahana-e-Ghori,1,Kabul,101,Kabul,70,10,,,
+15-07-18,26,Khost,2602,Sabari,26,Khost,2601,Khost (Matun),175,25,25,25,125
+15-07-18,16,Takhar,1614,Khwajaghar,16,Takhar,1601,Taloqan,455,65,,,
+15-07-18,32,Hilmand,3205,Sangin,33,Kandahar,3301,Kandahar / Dand,67,11,8,12,47
+15-07-18,6,Nangarhar,615,Batikot,1,Kabul,101,Kabul,77,11,,,
+15-07-18,29,Badghis,2902,Muqur,29,Badghis,2902,Muqur,207,34,,,
+16-07-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,268,39,,,
+16-07-18,11,Ghazni,1106,Dehyak,12,Paktya,1201,Gardez,70,10,10,10,50
+16-07-18,11,Ghazni,1114,Muqur,11,Ghazni,1101,Ghazni,90,30,,,
+16-07-18,12,Paktya,1202,Sayedkaram / Mirzaka,26,Khost,2601,Khost (Matun),105,15,15,15,75
+18-07-18,12,Paktya,1204,Zurmat,12,Paktya,1201,Gardez,105,15,15,15,75
+18-07-18,15,Badakhshan,1527,Zebak,15,Badakhshan,1527,Zebak,49,7,,,
+18-07-18,13,Kunar,1311,Barkunar,13,Kunar,1311,Barkunar,28,4,4,4,20
+18-07-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,132,22,,,
+18-07-18,15,Badakhshan,1504,Arghanjkhwa,15,Badakhshan,1514,Shighnan,273,39,,,
+18-07-18,31,Farah,3101,Farah,31,Farah,3101,Farah,110,17,,,
+18-07-18,6,Nangarhar,605,Chaparhar,12,Paktya,1201,Gardez,28,4,4,4,20
+19-07-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1307,Dara-e-Pech,8,1,1,1,6
+19-07-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,40,5,,,
+19-07-18,20,Sar-e-Pul,2001,Sar-e-Pul,20,Sar-e-Pul,2001,Sar-e-Pul,1113,159,,,
+20-07-18,14,Nuristan,1406,Waygal,13,Kunar,1301,Asadabad,14,2,2,2,10
+20-07-18,31,Farah,,Lash wa Jwain,31,Farah,3101,Farah,8,1,,,
+20-07-18,22,Daykundi,2205,Gizab / Patoo,22,Daykundi,2201,Nili,100,16,,,
+20-07-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,175,25,,,
+21-07-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,13,2,,,
+21-07-18,13,Kunar,1311,Barkunar,13,Kunar,1301,Asadabad,14,2,2,5,7
+22-07-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1301,Asadabad,14,2,2,2,10
+22-07-18,2,Kapisa,205,Tagab,2,Kapisa,205,Tagab,21,3,,,
+22-07-18,2,Kapisa,205,Tagab,2,Kapisa,201,Mahmud-e-Raqi,14,2,,,
+22-07-18,6,Nangarhar,617,Achin,6,Nangarhar,606,Rodat,24,4,4,4,16
+22-07-18,6,Nangarhar,613,Dehbala,6,Nangarhar,606,Rodat,49,7,7,7,35
+22-07-18,24,Zabul,2406,Shahjoy,24,Zabul,2406,Shahjoy,206,28,68,75,63
+22-07-18,2,Kapisa,205,Tagab,2,Kapisa,207,Hisa-e-Awal-e-Kohestan,14,2,,,
+22-07-18,12,Paktya,1206,Zadran,12,Paktya,1201,Gardez,105,15,15,15,75
+22-07-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,40,7,,,
+23-07-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,74,13,,,
+23-07-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,21,3,3,5,13
+23-07-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,35,5,,,
+24-07-18,13,Kunar,1304,Sarkani,13,Kunar,1304,Sarkani,192,34,35,41,116
+24-07-18,31,Farah,3107,Shibkoh,31,Farah,3101,Farah,22,3,,,
+25-07-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,170,32,,,
+25-07-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1301,Asadabad,7,1,1,2,4
+25-07-18,11,Ghazni,1113,Jaghuri,33,Kandahar,3301,Kandahar / Dand,3,1,1,1,1
+25-07-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,132,22,,,
+27-07-18,13,Kunar,1312,Ghaziabad,13,Kunar,1301,Asadabad,7,1,1,3,3
+28-07-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,420,60,,,
+28-07-18,32,Hilmand,3210,Kajaki,32,Hilmand,3201,Lashkargah,8,1,1,1,6
+28-07-18,17,Kunduz,1707,Dasht-e-Archi,13,Kunar,1301,Asadabad,7,1,1,1,5
+28-07-18,13,Kunar,1312,Ghaziabad,13,Kunar,1308,Chawkay,4,1,0,1,3
+28-07-18,13,Kunar,1311,Barkunar,13,Kunar,1311,Barkunar,716,110,153,198,365
+28-07-18,33,Kandahar,3308,Maywand,33,Kandahar,3301,Kandahar / Dand,23,3,2,3,18
+29-07-18,13,Kunar,1302,Watapur,13,Kunar,1302,Watapur,7,1,1,1,5
+30-07-18,32,Hilmand,3202,Nahr-e-Saraj,32,Hilmand,3201,Lashkargah,12,1,1,1,10
+30-07-18,13,Kunar,1313,Chapadara,13,Kunar,1307,Dara-e-Pech,14,2,1,2,11
+30-07-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,140,20,,,
+01-08-18,15,Badakhshan,1521,Jorm,15,Badakhshan,1501,Fayzabad,322,46,,,
+01-08-18,16,Takhar,1614,Khwajaghar,16,Takhar,1601,Taloqan,3402,486,,,
+01-08-18,23,Uruzgan,2303,Shahid-e-Hassas,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+01-08-18,15,Badakhshan,1505,Kohestan,15,Badakhshan,1512,Baharak,714,102,,,
+01-08-18,15,Badakhshan,1519,Tagab,15,Badakhshan,1518,Keshem,42,6,,,
+01-08-18,9,Baghlan,901,Pul-e-Khumri,9,Baghlan,901,Pul-e-Khumri,119,17,,,
+01-08-18,15,Badakhshan,1521,Jorm,15,Badakhshan,1521,Jorm,399,57,,,
+01-08-18,15,Badakhshan,1521,Jorm,15,Badakhshan,1523,Eshkmesh,308,44,,,
+01-08-18,23,Uruzgan,2301,Tirinkot,33,Kandahar,3301,Kandahar / Dand,16,3,3,3,10
+01-08-18,23,Uruzgan,2302,Chora / Chinarto,33,Kandahar,3301,Kandahar / Dand,43,6,9,9,25
+01-08-18,23,Uruzgan,2304,Dehrawud,33,Kandahar,3301,Kandahar / Dand,39,7,8,8,23
+01-08-18,33,Kandahar,3314,Nesh,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+01-08-18,32,Hilmand,3210,Kajaki,33,Kandahar,3301,Kandahar / Dand,36,3,9,11,16
+01-08-18,32,Hilmand,3203,Nad-e-Ali / Marja,33,Kandahar,3301,Kandahar / Dand,16,3,1,3,12
+01-08-18,32,Hilmand,3205,Sangin,33,Kandahar,3301,Kandahar / Dand,15,3,1,5,9
+01-08-18,33,Kandahar,3308,Maywand,33,Kandahar,3301,Kandahar / Dand,10,1,2,1,7
+01-08-18,11,Ghazni,1116,Ajrestan,33,Kandahar,3301,Kandahar / Dand,87,15,15,17,55
+01-08-18,32,Hilmand,3203,Nad-e-Ali / Marja,32,Hilmand,3201,Lashkargah,178,24,38,37,103
+01-08-18,33,Kandahar,3307,Khakrez,33,Kandahar,3301,Kandahar / Dand,8,1,1,1,6
+05-08-18,32,Hilmand,3205,Sangin,33,Kandahar,3301,Kandahar / Dand,96,16,11,19,66
+05-08-18,32,Hilmand,3201,Lashkargah,33,Kandahar,3301,Kandahar / Dand,84,12,9,12,63
+06-08-18,28,Faryab,2806,Qaysar,27,Jawzjan,2701,Shiberghan,658,94,,,
+06-08-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,819,117,,,
+06-08-18,26,Khost,2607,Gurbuz,26,Khost,2601,Khost (Matun),210,30,30,30,150
+06-08-18,17,Kunduz,1704,Chardarah,17,Kunduz,1701,Kunduz,2177,311,,,
+06-08-18,9,Baghlan,904,Doshi,1,Kabul,101,Kabul,70,10,,,
+07-08-18,28,Faryab,2806,Qaysar,28,Faryab,2806,Qaysar,336,48,,,
+07-08-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2801,Maymana,1260,180,,,
+07-08-18,28,Faryab,2807,Kohestan,28,Faryab,2801,Maymana,301,43,,,
+07-08-18,28,Faryab,,,28,Faryab,2801,Maymana,378,54,,,
+07-08-18,28,Faryab,2806,Qaysar,28,Faryab,2801,Maymana,1477,211,,,
+07-08-18,28,Faryab,2808,Garziwan,28,Faryab,2801,Maymana,189,27,,,
+07-08-18,30,Hirat,,,28,Faryab,2805,Almar,7,1,,,
+07-08-18,28,Faryab,2810,Dawlatabad,28,Faryab,2811,Andkhoy,693,99,,,
+07-08-18,28,Faryab,2810,Dawlatabad,28,Faryab,2812,Qaramqol,441,63,,,
+07-08-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,3024,432,,,
+07-08-18,28,Faryab,2810,Dawlatabad,28,Faryab,2801,Maymana,42,6,,,
+07-08-18,28,Faryab,2804,Shirintagab,28,Faryab,2801,Maymana,161,23,,,
+07-08-18,28,Faryab,2804,Shirintagab,28,Faryab,2811,Andkhoy,378,54,,,
+07-08-18,28,Faryab,2809,Bilcheragh,28,Faryab,2801,Maymana,448,64,,,
+07-08-18,28,Faryab,2805,Almar,28,Faryab,2801,Maymana,861,123,,,
+08-08-18,26,Khost,2602,Sabari,26,Khost,2601,Khost (Matun),770,110,110,110,550
+09-08-18,28,Faryab,2806,Qaysar,33,Kandahar,3301,Kandahar / Dand,32,4,4,4,24
+10-08-18,13,Kunar,1314,Nurgal,13,Kunar,1309,Khaskunar,6,1,1,1,4
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,322,46,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1106,158,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,77,11,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,154,22,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,56,8,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,2352,336,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,2247,321,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,98,14,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,91,13,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,763,109,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,84,12,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1218,174,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,259,37,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,4424,632,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,49,7,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,399,57,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,448,64,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,2044,292,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1512,216,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1274,182,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,469,67,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,3920,560,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,959,137,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,147,21,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,476,68,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,567,81,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,2296,328,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,483,69,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1848,264,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1862,266,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1435,205,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,1008,144,,,
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,756,108,,,
+10-08-18,11,Ghazni,1101,Ghazni,33,Kandahar,3301,Kandahar / Dand,12,2,1,2,9
+10-08-18,11,Ghazni,1101,Ghazni,11,Ghazni,1101,Ghazni,77,11,,,
+11-08-18,11,Ghazni,1101,Ghazni,1,Kabul,101,Kabul,476,68,,,
+11-08-18,6,Nangarhar,618,Shinwar,26,Khost,2601,Khost (Matun),28,4,4,4,20
+12-08-18,12,Paktya,1208,Alikhel (Jaji),26,Khost,2601,Khost (Matun),105,15,15,15,75
+12-08-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1304,Sarkani,34,5,7,6,25
+13-08-18,13,Kunar,1311,Barkunar,13,Kunar,1303,Narang,18,2,2,2,14
+13-08-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,30,5,,,
+13-08-18,6,Nangarhar,612,Pachieragam,26,Khost,2601,Khost (Matun),105,15,15,15,75
+14-08-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,50,9,,,
+14-08-18,13,Kunar,1315,Nari,13,Kunar,1305,Marawara,8,1,2,2,4
+15-08-18,23,Uruzgan,2301,Tirinkot,23,Uruzgan,2301,Tirinkot,1570,212,477,420,673
+15-08-18,11,Ghazni,1101,Ghazni,33,Kandahar,3301,Kandahar / Dand,6,1,1,1,4
+15-08-18,29,Badghis,2904,Qadis,30,Hirat,3001,Hirat,84,12,,,
+15-08-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,120,23,,,
+15-08-18,32,Hilmand,3203,Nad-e-Ali / Marja,33,Kandahar,3301,Kandahar / Dand,75,12,7,9,59
+15-08-18,30,Hirat,3015,Shindand,30,Hirat,3001,Hirat,35,5,,,
+15-08-18,4,Wardak,402,Jalrez,1,Kabul,101,Kabul,42,6,,,
+15-08-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,210,30,,,
+17-08-18,19,Samangan,1906,Khuram Wa Sarbagh,1,Kabul,101,Kabul,35,5,,,
+17-08-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,15,2,,,
+18-08-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,97,15,,,
+18-08-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,354,56,,,
+18-08-18,31,Farah,3104,KHak-e-Safed,31,Farah,3101,Farah,36,6,,,
+18-08-18,31,Farah,3101,Farah,31,Farah,3101,Farah,81,15,,,
+18-08-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,5,1,,,
+20-08-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,193,28,,,
+20-08-18,13,Kunar,1310,Dangam,3,Parwan,304,Bagram,175,25,,,
+20-08-18,11,Ghazni,1101,Ghazni,22,Daykundi,2209,Miramor,1610,230,,,
+20-08-18,11,Ghazni,1101,Ghazni,22,Daykundi,2209,Miramor,350,50,,,
+20-08-18,23,Uruzgan,2301,Tirinkot,33,Kandahar,3301,Kandahar / Dand,45,6,8,11,26
+20-08-18,23,Uruzgan,2304,Dehrawud,33,Kandahar,3301,Kandahar / Dand,33,5,4,6,23
+22-08-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,14,2,,,
+22-08-18,28,Faryab,2810,Dawlatabad,27,Jawzjan,2701,Shiberghan,1365,195,,,
+23-08-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,105,15,,,
+23-08-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,14,2,,,
+23-08-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,70,10,,,
+25-08-18,33,Kandahar,3307,Khakrez,33,Kandahar,3301,Kandahar / Dand,98,17,13,19,66
+25-08-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,105,15,,,
+25-08-18,15,Badakhshan,1504,Arghanjkhwa,15,Badakhshan,1501,Fayzabad,147,21,,,
+26-08-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,70,10,,,
+27-08-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,56,8,,,
+27-08-18,16,Takhar,1614,Khwajaghar,16,Takhar,1613,Dasht-e-Qala,273,39,,,
+28-08-18,33,Kandahar,3306,Shahwalikot,33,Kandahar,3301,Kandahar / Dand,74,12,14,14,46
+29-08-18,32,Hilmand,3204,Nawa-e-Barakzaiy,32,Hilmand,3201,Lashkargah,170,24,30,29,111
+29-08-18,32,Hilmand,3201,Lashkargah,32,Hilmand,3201,Lashkargah,140,17,31,33,76
+29-08-18,32,Hilmand,3203,Nad-e-Ali / Marja,32,Hilmand,3201,Lashkargah,817,114,125,145,547
+29-08-18,23,Uruzgan,2303,Shahid-e-Hassas,32,Hilmand,3201,Lashkargah,7,1,1,1,5
+29-08-18,32,Hilmand,3210,Kajaki,32,Hilmand,3201,Lashkargah,7,1,1,1,5
+29-08-18,33,Kandahar,3309,Reg,32,Hilmand,3201,Lashkargah,10,1,1,1,8
+29-08-18,32,Hilmand,3209,Garmser,32,Hilmand,3201,Lashkargah,34,5,5,7,22
+29-08-18,32,Hilmand,3202,Nahr-e-Saraj,32,Hilmand,3201,Lashkargah,18,3,3,4,11
+30-08-18,17,Kunduz,1702,Emamsaheb,17,Kunduz,1701,Kunduz,7189,1027,,,
+01-09-18,2,Kapisa,205,Tagab,3,Parwan,301,Charikar,105,15,,,
+01-09-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,46,9,9,9,28
+02-09-18,32,Hilmand,3203,Nad-e-Ali / Marja,32,Hilmand,3203,Nad-e-Ali / Marja,852,128,119,126,607
+02-09-18,31,Farah,3111,Anardara,31,Farah,3101,Farah,38,6,,,
+03-09-18,4,Wardak,407,Saydabad,4,Wardak,401,Maydanshahr,105,15,,,
+03-09-18,6,Nangarhar,610,Hesarak,6,Nangarhar,604,Khogyani,143,17,23,25,95
+03-09-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,607,Kama,50,6,8,9,33
+03-09-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,225,27,36,39,150
+04-09-18,4,Wardak,403,Nerkh,4,Wardak,401,Maydanshahr,140,20,,,
+05-09-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,245,35,,,
+05-09-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,126,18,,,
+05-09-18,11,Ghazni,1114,Muqur,24,Zabul,2401,Qalat,33,5,13,14,6
+05-09-18,24,Zabul,2411,Nawbahar,24,Zabul,2401,Qalat,81,14,30,39,12
+05-09-18,24,Zabul,2406,Shahjoy,24,Zabul,2401,Qalat,75,10,29,36,10
+05-09-18,24,Zabul,2402,Arghandab,24,Zabul,2401,Qalat,54,7,25,25,4
+05-09-18,9,Baghlan,902,Baghlan-e-Jadid,9,Baghlan,901,Pul-e-Khumri,1799,257,,,
+05-09-18,31,Farah,3111,Anardara,30,Hirat,3001,Hirat,20,4,,,
+05-09-18,28,Faryab,2805,Almar,30,Hirat,3001,Hirat,5,1,,,
+05-09-18,29,Badghis,2901,Qala-e-Naw,30,Hirat,3001,Hirat,30,6,,,
+05-09-18,29,Badghis,2905,Jawand,30,Hirat,3001,Hirat,60,12,,,
+05-09-18,29,Badghis,2904,Qadis,30,Hirat,3001,Hirat,40,8,,,
+05-09-18,26,Khost,2602,Sabari,26,Khost,2601,Khost (Matun),574,82,80,75,419
+05-09-18,21,Ghor,2109,Tolak,21,Ghor,2101,Chaghcharan,175,25,,,
+06-09-18,6,Nangarhar,612,Pachieragam,26,Khost,2601,Khost (Matun),91,13,13,13,65
+06-09-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,88,16,,,
+07-09-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,56,8,,,
+07-09-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,42,6,,,
+08-09-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,55,10,,,
+09-09-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,226,41,,,
+10-09-18,16,Takhar,1614,Khwajaghar,16,Takhar,1601,Taloqan,742,106,,,
+10-09-18,9,Baghlan,902,Baghlan-e-Jadid,9,Baghlan,902,Baghlan-e-Jadid,1659,237,,,
+10-09-18,2,Kapisa,206,Alasay,2,Kapisa,201,Mahmud-e-Raqi,70,10,,,
+10-09-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,38,7,,,
+10-09-18,16,Takhar,1614,Khwajaghar,16,Takhar,1601,Taloqan,1183,169,,,
+10-09-18,20,Sar-e-Pul,2001,Sar-e-Pul,20,Sar-e-Pul,2001,Sar-e-Pul,231,33,,,
+10-09-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,98,14,,,
+10-09-18,4,Wardak,402,Jalrez,4,Wardak,408,Markaz-e-Behsud,84,12,,,
+10-09-18,28,Faryab,2805,Almar,18,Balkh,1802,Nahr-e-Shahi,1050,150,,,
+10-09-18,7,Laghman,705,Dawlatshah,3,Parwan,301,Charikar,63,9,,,
+11-09-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1301,Asadabad,18,3,3,3,12
+12-09-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,195,31,,,
+12-09-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,826,118,,,
+12-09-18,13,Kunar,1308,Chawkay,13,Kunar,1309,Khaskunar,18,2,2,2,14
+13-09-18,21,Ghor,2105,Shahrak,21,Ghor,2105,Shahrak,185,35,,,
+13-09-18,21,Ghor,2105,Shahrak,21,Ghor,2105,Shahrak,549,81,,,
+13-09-18,31,Farah,3102,Bakwa,31,Farah,3101,Farah,24,3,,,
+14-09-18,20,Sar-e-Pul,2003,Kohestanat,20,Sar-e-Pul,2001,Sar-e-Pul,231,33,,,
+14-09-18,13,Kunar,1315,Nari,13,Kunar,1306,Shigal Wa Sheltan,16,3,2,2,12
+14-09-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,286,48,,,
+14-09-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1301,Asadabad,18,3,3,3,12
+15-09-18,31,Farah,3101,Farah,31,Farah,3101,Farah,143,23,,,
+15-09-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,240,40,,,
+15-09-18,16,Takhar,1603,Baharak,16,Takhar,1601,Taloqan,2226,318,,,
+15-09-18,30,Hirat,3015,Shindand,30,Hirat,3001,Hirat,105,15,,,
+15-09-18,31,Farah,3101,Farah,31,Farah,3101,Farah,205,36,,,
+15-09-18,21,Ghor,2109,Tolak,21,Ghor,2101,Chaghcharan,28,4,,,
+16-09-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,28,4,,,
+16-09-18,15,Badakhshan,1504,Arghanjkhwa,15,Badakhshan,1514,Shighnan,427,61,,,
+16-09-18,15,Badakhshan,1503,Argo,15,Badakhshan,1501,Fayzabad,175,25,,,
+17-09-18,12,Paktya,1208,Alikhel (Jaji),12,Paktya,1201,Gardez,56,8,8,8,40
+17-09-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,22,4,,,
+17-09-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,39,6,,,
+17-09-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,14,2,,,
+17-09-18,15,Badakhshan,1510,Darayem,15,Badakhshan,1510,Darayem,1386,198,,,
+18-09-18,12,Paktya,1209,Janikhel,12,Paktya,1201,Gardez,49,7,7,7,35
+18-09-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,70,10,,,
+18-09-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,77,11,,,
+18-09-18,30,Hirat,3003,Kushk,30,Hirat,3001,Hirat,56,8,,,
+18-09-18,21,Ghor,2105,Shahrak,30,Hirat,3001,Hirat,735,105,,,
+18-09-18,2,Kapisa,205,Tagab,2,Kapisa,201,Mahmud-e-Raqi,35,5,,,
+18-09-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,567,81,,,
+18-09-18,28,Faryab,2802,Khwajasabzposh,21,Ghor,2101,Chaghcharan,84,12,,,
+19-09-18,29,Badghis,2904,Qadis,30,Hirat,3001,Hirat,63,9,,,
+19-09-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,25,5,,,
+19-09-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,32,5,,,
+19-09-18,21,Ghor,2103,DoLayna,30,Hirat,3001,Hirat,665,95,,,
+19-09-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,28,4,,,
+19-09-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,105,15,,,
+20-09-18,21,Ghor,2109,Tolak,30,Hirat,3001,Hirat,560,80,,,
+20-09-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,175,25,,,
+20-09-18,31,Farah,3101,Farah,31,Farah,3101,Farah,50,8,,,
+20-09-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,58,9,,,
+20-09-18,13,Kunar,1305,Marawara,13,Kunar,1303,Narang,14,3,4,3,7
+20-09-18,21,Ghor,2110,Saghar,30,Hirat,3001,Hirat,658,94,,,
+20-09-18,2,Kapisa,202,Nejrab,2,Kapisa,207,Hisa-e-Awal-e-Kohestan,35,5,,,
+21-09-18,2,Kapisa,205,Tagab,2,Kapisa,205,Tagab,2100,300,,,
+21-09-18,13,Kunar,1302,Watapur,13,Kunar,1302,Watapur,3,1,1,1,1
+21-09-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,105,15,,,
+22-09-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,91,13,,,
+22-09-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,70,10,,,
+24-09-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,13,2,,,
+24-09-18,17,Kunduz,1704,Chardarah,17,Kunduz,1701,Kunduz,2527,361,,,
+24-09-18,17,Kunduz,1704,Chardarah,17,Kunduz,1701,Kunduz,2331,333,,,
+25-09-18,12,Paktya,1206,Zadran,12,Paktya,1201,Gardez,35,5,5,5,25
+25-09-18,28,Faryab,2810,Dawlatabad,18,Balkh,1802,Nahr-e-Shahi,952,136,,,
+26-09-18,20,Sar-e-Pul,2001,Sar-e-Pul,20,Sar-e-Pul,2001,Sar-e-Pul,413,59,,,
+26-09-18,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah,16,3,,,
+26-09-18,20,Sar-e-Pul,2007,Sancharak,20,Sar-e-Pul,2007,sancharak,1218,174,,,
+26-09-18,20,Sar-e-Pul,2007,Sancharak,20,Sar-e-Pul,2007,sancharak,259,37,,,
+26-09-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,115,18,,,
+26-09-18,20,Sar-e-Pul,2007,Sancharak,20,Sar-e-Pul,2001,Sar-e-Pul,1449,207,,,
+27-09-18,6,Nangarhar,605,Chaparhar,12,Paktya,1201,Gardez,35,5,5,5,25
+29-09-18,7,Laghman,702,Alishang,7,Laghman,701,Mehtarlam / Bad Pash,41,7,9,9,23
+29-09-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,17,3,4,4,9
+29-09-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,100,16,,,
+01-10-18,32,Hilmand,3203,Nad-e-Ali / Marja,33,Kandahar,3301,Kandahar / Dand,108,14,10,25,73
+01-10-18,32,Hilmand,3205,Sangin,33,Kandahar,3301,Kandahar / Dand,93,14,12,16,65
+01-10-18,33,Kandahar,3307,Khakrez,33,Kandahar,3301,Kandahar / Dand,59,7,6,14,39
+01-10-18,24,Zabul,2402,Arghandab,33,Kandahar,3301,Kandahar / Dand,6,1,1,1,4
+01-10-18,24,Zabul,2403,Mizan,33,Kandahar,3301,Kandahar / Dand,10,1,1,1,8
+01-10-18,32,Hilmand,3210,Kajaki,33,Kandahar,3301,Kandahar / Dand,6,1,1,1,4
+01-10-18,32,Hilmand,3201,Lashkargah,33,Kandahar,3301,Kandahar / Dand,8,1,1,1,6
+01-10-18,32,Hilmand,3213,Deh-e-Shu,33,Kandahar,3301,Kandahar / Dand,14,2,2,2,10
+01-10-18,23,Uruzgan,2301,Tirinkot,33,Kandahar,3301,Kandahar / Dand,48,7,7,10,31
+01-10-18,23,Uruzgan,2303,Shahid-e-Hassas,33,Kandahar,3301,Kandahar / Dand,49,6,7,11,31
+01-10-18,33,Kandahar,3315,Ghorak,33,Kandahar,3301,Kandahar / Dand,31,4,4,4,23
+01-10-18,1,Kabul,113,Surobi,5,Logar,501,Pul-e-Alam,35,5,,,
+01-10-18,33,Kandahar,3314,Nesh,33,Kandahar,3301,Kandahar / Dand,41,5,6,6,29
+01-10-18,33,Kandahar,3306,Shahwalikot,33,Kandahar,3301,Kandahar / Dand,22,3,3,7,12
+01-10-18,23,Uruzgan,2302,Chora / Chinarto,33,Kandahar,3301,Kandahar / Dand,75,10,10,19,46
+01-10-18,23,Uruzgan,2304,Dehrawud,33,Kandahar,3301,Kandahar / Dand,170,24,33,37,100
+03-10-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,770,123,123,130,519
+03-10-18,5,Logar,505,Charkh,5,Logar,501,Pul-e-Alam,56,8,,,
+03-10-18,13,Kunar,1302,Watapur,13,Kunar,1302,Watapur,517,81,78,87,352
+05-10-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,52,7,,,
+06-10-18,13,Kunar,1306,Shigal Wa Sheltan,14,Nuristan,1405,Wama,63,9,,,
+06-10-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,35,6,,,
+06-10-18,7,Laghman,704,Alingar,14,Nuristan,1405,Wama,70,10,,,
+06-10-18,13,Kunar,1313,Chapadara,14,Nuristan,1405,Wama,28,4,,,
+07-10-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,58,9,,,
+08-10-18,28,Faryab,2810,Dawlatabad,28,Faryab,2811,Andkhoy,329,47,,,
+08-10-18,28,Faryab,2807,Kohestan,28,Faryab,2801,Maymana,231,33,,,
+08-10-18,28,Faryab,,,28,Faryab,2801,Maymana,35,5,,,
+08-10-18,28,Faryab,2809,Bilcheragh,28,Faryab,2801,Maymana,49,7,,,
+08-10-18,28,Faryab,2808,Garziwan,28,Faryab,2801,Maymana,49,7,,,
+08-10-18,28,Faryab,2805,Almar,28,Faryab,2801,Maymana,63,9,,,
+08-10-18,28,Faryab,2802,Khwajasabzposh,28,Faryab,2801,Maymana,567,81,,,
+08-10-18,28,Faryab,,,27,Jawzjan,2701,Shiberghan,1645,235,,,
+08-10-18,6,Nangarhar,605,Chaparhar,6,Nangarhar,602,Behsud,17,2,3,2,12
+08-10-18,28,Faryab,2804,Shirintagab,28,Faryab,2801,Maymana,175,25,,,
+08-10-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,392,56,,,
+08-10-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,35,5,,,
+09-10-18,28,Faryab,2810,Dawlatabad,28,Faryab,2801,Maymana,82,17,,,
+10-10-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,49,7,,,
+11-10-18,13,Kunar,1313,Chapadara,14,Nuristan,1401,Poruns,16,2,2,2,12
+11-10-18,15,Badakhshan,1526,Koran Wa Monjan,14,Nuristan,1401,Poruns,6,2,1,1,4
+12-10-18,6,Nangarhar,611,Sherzad,6,Nangarhar,602,Behsud,108,17,11,18,108
+13-10-18,23,Uruzgan,2301,Tirinkot,23,Uruzgan,2301,Tirinkot,581,70,117,98,366
+13-10-18,23,Uruzgan,2303,Shahid-e-Hassas,23,Uruzgan,2301,Tirinkot,2,1,0,1,1
+13-10-18,33,Kandahar,3314,Nesh,23,Uruzgan,2301,Tirinkot,43,4,7,12,24
+13-10-18,23,Uruzgan,2305,Khasuruzgan,23,Uruzgan,2301,Tirinkot,59,7,11,8,40
+13-10-18,23,Uruzgan,2304,Dehrawud,23,Uruzgan,2301,Tirinkot,7,1,0,2,5
+14-10-18,6,Nangarhar,604,Khogyani,6,Nangarhar,601,Jalalabad,198,16,27,32,126
+15-10-18,2,Kapisa,205,Tagab,1,Kabul,101,Kabul,91,13,,,
+15-10-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,40,8,,,
+15-10-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,50,10,,,
+15-10-18,20,Sar-e-Pul,2007,Sancharak,18,Balkh,1802,Nahr-e-Shahi,1246,178,,,
+16-10-18,6,Nangarhar,611,Sherzad,6,Nangarhar,603,Surkhrod,199,35,25,26,199
+16-10-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,18,3,3,3,12
+19-10-18,17,Kunduz,1702,Emamsaheb,17,Kunduz,1702,Emamsaheb,679,97,,,
+20-10-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,385,70,75,76,234
+20-10-18,9,Baghlan,902,Baghlan-e-Jadid,9,Baghlan,902,Baghlan-e-Jadid,2380,340,,,
+20-10-18,13,Kunar,1302,Watapur,13,Kunar,1302,Watapur,245,46,45,45,155
+22-10-18,13,Kunar,1311,Barkunar,13,Kunar,1301,Asadabad,18,3,3,3,12
+24-10-18,7,Laghman,701,Mehtarlam / Bad Pash,7,Laghman,701,Mehtarlam / Bad Pash,29,25,30,136,195
+24-10-18,12,Paktya,1206,Zadran,12,Paktya,1201,Gardez,70,10,10,10,50
+24-10-18,7,Laghman,701,Mehtarlam / Bad Pash,7,Laghman,701,Mehtarlam / Bad Pash,14,10,15,56,85
+25-10-18,21,Ghor,2103,DoLayna,21,Ghor,2103,DoLayna,532,88,,,
+25-10-18,28,Faryab,2804,Shirintagab,27,Jawzjan,2701,Shiberghan,448,64,,,
+25-10-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,190,26,,,
+25-10-18,12,Paktya,1204,Zurmat,12,Paktya,1201,Gardez,56,8,8,8,40
+25-10-18,28,Faryab,2810,Dawlatabad,27,Jawzjan,2701,Shiberghan,126,18,,,
+25-10-18,28,Faryab,2809,Bilcheragh,27,Jawzjan,2701,Shiberghan,168,24,,,
+25-10-18,20,Sar-e-Pul,2002,Sayad,27,Jawzjan,2701,Shiberghan,35,5,,,
+25-10-18,20,Sar-e-Pul,2007,Sancharak,27,Jawzjan,2701,Shiberghan,98,14,,,
+25-10-18,28,Faryab,2802,Khwajasabzposh,27,Jawzjan,2701,Shiberghan,42,6,,,
+25-10-18,27,Jawzjan,2704,Qushtepa,27,Jawzjan,2701,Shiberghan,511,73,,,
+28-10-18,15,Badakhshan,1504,Arghanjkhwa,15,Badakhshan,1501,Fayzabad,140,20,,,
+28-10-18,12,Paktya,1209,Janikhel,12,Paktya,1201,Gardez,140,20,20,20,100
+28-10-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,350,50,,,
+30-10-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,162,27,,,
+31-10-18,28,Faryab,2805,Almar,21,Ghor,2101,Chaghcharan,12,2,,,
+01-11-18,11,Ghazni,1117,Malestan,10,Bamyan,1001,Bamyan,955,201,171,36,548
+01-11-18,28,Faryab,2810,Dawlatabad,18,Balkh,1802,Nahr-e-Shahi,1729,247,,,
+01-11-18,11,Ghazni,1117,Malestan,10,Bamyan,1001,Bamyan,600,126,93,141,366
+01-11-18,11,Ghazni,1113,Jaghuri,11,Ghazni,1101,Ghazni,626,102,,,
+01-11-18,11,Ghazni,1117,Malestan,10,Bamyan,1001,Bamyan,455,82,70,106,279
+01-11-18,11,Ghazni,1117,Malestan,10,Bamyan,1001,Bamyan,404,81,61,85,258
+01-11-18,11,Ghazni,1117,Malestan,11,Ghazni,1101,Ghazni,775,118,,,
+01-11-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,72,12,,,
+02-11-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,12,2,,,
+03-11-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,30,5,,,
+04-11-18,21,Ghor,2109,Tolak,21,Ghor,2101,Chaghcharan,30,5,,,
+04-11-18,4,Wardak,405,Daymirdad,4,Wardak,401,Maydanshahr,175,25,,,
+05-11-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,30,5,,,
+05-11-18,7,Laghman,702,Alishang,7,Laghman,701,Mehtarlam / Bad Pash,10,9,12,47,69
+05-11-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,42,36,49,215,306
+06-11-18,28,Faryab,2804,Shirintagab,18,Balkh,1802,Nahr-e-Shahi,1407,201,,,
+06-11-18,4,Wardak,402,Jalrez,4,Wardak,401,Maydanshahr,168,24,,,
+06-11-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,30,5,,,
+07-11-18,9,Baghlan,901,Pul-e-Khumri,9,Baghlan,901,Pul-e-Khumri,854,122,,,
+07-11-18,17,Kunduz,1703,Qala-e-Zal,18,Balkh,1801,Mazar-e-Sharif,882,126,,,
+08-11-18,6,Nangarhar,604,Khogyani,6,Nangarhar,602,Behsud,13,2,4,4,5
+08-11-18,6,Nangarhar,604,Khogyani,6,Nangarhar,604,Khogyani,197,25,30,32,135
+08-11-18,17,Kunduz,1707,Dasht-e-Archi,16,Takhar,1614,Khwajaghar,1463,209,,,
+08-11-18,16,Takhar,1614,Khwajaghar,16,Takhar,1601,Taloqan,3199,457,,,
+09-11-18,13,Kunar,1302,Watapur,13,Kunar,1301,Asadabad,73,12,11,12,50
+10-11-18,29,Badghis,2905,Jawand,21,Ghor,2101,Chaghcharan,144,24,,,
+10-11-18,17,Kunduz,1707,Dasht-e-Archi,17,Kunduz,1701,Kunduz,805,115,,,
+10-11-18,13,Kunar,1315,Nari,13,Kunar,1301,Asadabad,18,3,3,3,12
+11-11-18,4,Wardak,403,Nerkh,4,Wardak,401,Maydanshahr,140,20,,,
+11-11-18,13,Kunar,1305,Marawara,13,Kunar,1301,Asadabad,12,2,2,2,8
+11-11-18,11,Ghazni,1101,Ghazni,1,Kabul,101,Kabul,35,5,,,
+11-11-18,11,Ghazni,1117,Malestan,1,Kabul,101,Kabul,70,10,,,
+11-11-18,15,Badakhshan,1520,Yamgan,15,Badakhshan,1501,Fayzabad,252,36,,,
+11-11-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,140,20,,,
+11-11-18,11,Ghazni,1117,Malestan,1,Kabul,101,Kabul,357,51,,,
+11-11-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,90,15,,,
+11-11-18,4,Wardak,405,Daymirdad,1,Kabul,101,Kabul,455,65,,,
+12-11-18,32,Hilmand,3210,Kajaki,32,Hilmand,3201,Lashkargah,43,6,6,6,31
+12-11-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,60,10,,,
+12-11-18,32,Hilmand,3209,Garmser,32,Hilmand,3201,Lashkargah,46,6,6,8,32
+12-11-18,32,Hilmand,3207,Nawzad,32,Hilmand,3201,Lashkargah,16,2,2,2,12
+12-11-18,32,Hilmand,3205,Sangin,32,Hilmand,3201,Lashkargah,65,8,8,9,48
+12-11-18,32,Hilmand,3203,Nad-e-Ali / Marja,32,Hilmand,3201,Lashkargah,439,64,60,62,317
+12-11-18,32,Hilmand,3204,Nawa-e-Barakzaiy,32,Hilmand,3201,Lashkargah,92,13,13,13,66
+12-11-18,31,Farah,3105,Pushtrod,32,Hilmand,3201,Lashkargah,4,1,1,1,2
+12-11-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1301,Asadabad,61,10,9,10,42
+12-11-18,31,Farah,3109,Gulestan,32,Hilmand,3201,Lashkargah,5,1,1,1,3
+12-11-18,32,Hilmand,3206,Musaqalah,32,Hilmand,3201,Lashkargah,13,1,1,1,11
+12-11-18,11,Ghazni,1113,Jaghuri,32,Hilmand,3201,Lashkargah,109,18,17,17,75
+12-11-18,32,Hilmand,3201,Lashkargah,32,Hilmand,3201,Lashkargah,7,1,1,1,5
+12-11-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,59,45,71,241,371
+12-11-18,32,Hilmand,3202,Nahr-e-Saraj,32,Hilmand,3201,Lashkargah,15,2,1,3,11
+12-11-18,11,Ghazni,1117,Malestan,32,Hilmand,3201,Lashkargah,33,7,5,6,22
+12-11-18,7,Laghman,702,Alishang,7,Laghman,701,Mehtarlam / Bad Pash,4,5,6,31,41
+12-11-18,11,Ghazni,1113,Jaghuri,1,Kabul,101,Kabul,1400,200,,,
+13-11-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,12,2,,,
+13-11-18,13,Kunar,1313,Chapadara,13,Kunar,1301,Asadabad,60,10,9,10,41
+14-11-18,15,Badakhshan,1503,Argo,15,Badakhshan,1501,Fayzabad,287,41,,,
+14-11-18,28,Faryab,2805,Almar,21,Ghor,2101,Chaghcharan,144,24,,,
+15-11-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,132,22,,,
+15-11-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,156,22,,,
+15-11-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,54,9,,,
+15-11-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,42,7,,,
+15-11-18,14,Nuristan,1407,Kamdesh,13,Kunar,1308,Chawkay,4,1,0,1,3
+15-11-18,31,Farah,3101,Farah,31,Farah,3101,Farah,296,47,,,
+15-11-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,7,1,,,
+15-11-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,237,36,,,
+16-11-18,11,Ghazni,1113,Jaghuri,24,Zabul,2401,Qalat,14,2,4,4,6
+16-11-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1303,Narang,14,3,3,3,8
+16-11-18,11,Ghazni,1117,Malestan,24,Zabul,2401,Qalat,14,2,3,4,7
+16-11-18,24,Zabul,2403,Mizan,24,Zabul,2401,Qalat,131,18,30,28,73
+17-11-18,13,Kunar,1311,Barkunar,13,Kunar,1304,Sarkani,10,2,2,2,6
+19-11-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,16,16,19,95,130
+19-11-18,13,Kunar,1306,Shigal Wa Sheltan,13,Kunar,1306,Shigal Wa Sheltan,11,1,1,1,9
+20-11-18,11,Ghazni,1113,Jaghuri,33,Kandahar,3301,Kandahar / Dand,77,11,,,
+20-11-18,34,Nimroz,3405,Khashrod / Dularam,34,Nimroz,3401,Zaranj,37,6,5,6,26
+20-11-18,21,Ghor,2106,Taywarah,34,Nimroz,3401,Zaranj,36,5,5,8,23
+20-11-18,13,Kunar,1307,Dara-e-Pech,13,Kunar,1307,Dara-e-Pech,16,3,3,3,10
+20-11-18,6,Nangarhar,605,Chaparhar,1,Kabul,101,Kabul,35,5,,,
+20-11-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,56,8,,,
+20-11-18,17,Kunduz,1707,Dasht-e-Archi,1,Kabul,101,Kabul,14,2,,,
+20-11-18,31,Farah,3101,Farah,34,Nimroz,3401,Zaranj,41,8,7,8,26
+21-11-18,21,Ghor,2103,DoLayna,21,Ghor,2101,Chaghcharan,28,4,,,
+21-11-18,13,Kunar,1302,Watapur,13,Kunar,1306,Shigal Wa Sheltan,86,12,12,12,62
+21-11-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,28,4,,,
+22-11-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,14,2,,,
+22-11-18,13,Kunar,1305,Marawara,13,Kunar,1305,Marawara,10,2,2,2,6
+22-11-18,11,Ghazni,1117,Malestan,30,Hirat,3001,Hirat,60,10,,,
+22-11-18,11,Ghazni,1113,Jaghuri,30,Hirat,3001,Hirat,384,64,,,
+23-11-18,21,Ghor,2106,Taywarah,21,Ghor,2101,Chaghcharan,14,2,,,
+25-11-18,12,Paktya,1208,Alikhel (Jaji),12,Paktya,1201,Gardez,140,20,20,20,100
+25-11-18,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah,42,7,,,
+25-11-18,31,Farah,3103,Balabuluk,31,Farah,3101,Farah,174,26,,,
+25-11-18,11,Ghazni,1117,Malestan,30,Hirat,3002,Injil,30,5,,,
+25-11-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,120,20,,,
+25-11-18,31,Farah,3101,Farah,31,Farah,3101,Farah,102,17,,,
+25-11-18,31,Farah,3110,Purchaman,31,Farah,3101,Farah,10,3,,,
+25-11-18,31,Farah,3109,Gulestan,31,Farah,3101,Farah,43,7,,,
+25-11-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,300,50,,,
+25-11-18,31,Farah,3107,Shibkoh,31,Farah,3101,Farah,9,1,,,
+25-11-18,31,Farah,3105,Pushtrod,31,Farah,3101,Farah,114,17,,,
+26-11-18,12,Paktya,1202,Sayedkaram / Mirzaka,12,Paktya,1201,Gardez,105,15,15,15,75
+28-11-18,2,Kapisa,205,Tagab,2,Kapisa,201,Mahmud-e-Raqi,294,42,,,
+28-11-18,7,Laghman,704,Alingar,7,Laghman,701,Mehtarlam / Bad Pash,56,44,60,246,362
+28-11-18,12,Paktya,1204,Zurmat,12,Paktya,1201,Gardez,70,10,10,10,50
+28-11-18,7,Laghman,702,Alishang,7,Laghman,701,Mehtarlam / Bad Pash,3,3,3,16,22
+29-11-18,6,Nangarhar,605,Chaparhar,12,Paktya,1201,Gardez,70,10,10,10,50
+30-11-18,24,Zabul,2402,Arghandab,24,Zabul,2401,Qalat,76,10,33,32,11
+30-11-18,24,Zabul,2406,Shahjoy,24,Zabul,2401,Qalat,191,24,86,84,21
+30-11-18,29,Badghis,2902,Muqur,29,Badghis,2901,Qala-e-Naw,36,6,,,
+30-11-18,24,Zabul,2403,Mizan,24,Zabul,2401,Qalat,29,5,10,9,10
+30-11-18,24,Zabul,2401,Qalat,24,Zabul,2401,Qalat,99,16,43,39,17
+30-11-18,24,Zabul,2405,Shinkay,24,Zabul,2401,Qalat,108,18,46,39,23
+30-11-18,11,Ghazni,1105,Andar,1,Kabul,101,Kabul,49,7,,,
+01-12-18,32,Hilmand,3206,Musaqalah,33,Kandahar,3301,Kandahar / Dand,8,1,1,1,6
+01-12-18,23,Uruzgan,2301,Tirinkot,33,Kandahar,3301,Kandahar / Dand,45,5,7,8,30
+01-12-18,32,Hilmand,3201,Lashkargah,33,Kandahar,3301,Kandahar / Dand,5,1,1,1,3
+01-12-18,32,Hilmand,3210,Kajaki,33,Kandahar,3301,Kandahar / Dand,114,14,9,15,90
+01-12-18,33,Kandahar,3315,Ghorak,33,Kandahar,3301,Kandahar / Dand,10,1,1,0,9
+01-12-18,29,Badghis,2906,Balamurghab,33,Kandahar,3301,Kandahar / Dand,7,1,1,1,5
+01-12-18,11,Ghazni,1114,Muqur,33,Kandahar,3301,Kandahar / Dand,16,2,2,3,11
+01-12-18,33,Kandahar,3307,Khakrez,33,Kandahar,3301,Kandahar / Dand,33,6,6,6,21
+01-12-18,11,Ghazni,1113,Jaghuri,10,Bamyan,1001,Bamyan,203,29,16,29,74
+01-12-18,28,Faryab,2806,Qaysar,33,Kandahar,3301,Kandahar / Dand,4,1,1,1,2
+01-12-18,33,Kandahar,3314,Nesh,33,Kandahar,3301,Kandahar / Dand,23,3,3,3,17
+01-12-18,32,Hilmand,3205,Sangin,33,Kandahar,3301,Kandahar / Dand,169,23,27,24,118
+01-12-18,32,Hilmand,3203,Nad-e-Ali / Marja,33,Kandahar,3301,Kandahar / Dand,27,3,3,3,21
+01-12-18,32,Hilmand,3203,Nad-e-Ali / Marja,33,Kandahar,3301,Kandahar / Dand,17,2,3,4,10
+01-12-18,29,Badghis,2907,Ghormach,33,Kandahar,3301,Kandahar / Dand,14,2,2,2,10
+01-12-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,70,10,,,
+01-12-18,24,Zabul,2402,Arghandab,33,Kandahar,3301,Kandahar / Dand,4,1,1,1,2
+01-12-18,23,Uruzgan,2305,Khasuruzgan,33,Kandahar,3301,Kandahar / Dand,9,1,1,1,7
+01-12-18,33,Kandahar,3315,Ghorak,33,Kandahar,3301,Kandahar / Dand,30,4,4,4,22
+01-12-18,12,Paktya,1202,Sayedkaram / Mirzaka,33,Kandahar,3301,Kandahar / Dand,9,1,1,3,5
+01-12-18,32,Hilmand,3205,Sangin,33,Kandahar,3301,Kandahar / Dand,17,2,3,2,12
+01-12-18,23,Uruzgan,2304,Dehrawud,33,Kandahar,3301,Kandahar / Dand,15,2,1,2,12
+01-12-18,33,Kandahar,3306,Shahwalikot,33,Kandahar,3301,Kandahar / Dand,15,1,1,0,14
+02-12-18,26,Khost,2602,Sabari,26,Khost,2601,Khost (Matun),490,70,,,
+02-12-18,9,Baghlan,902,Baghlan-e-Jadid,9,Baghlan,902,Baghlan-e-Jadid,532,76,,,
+03-12-18,6,Nangarhar,612,Pachieragam,26,Khost,2601,Khost (Matun),91,13,,,
+03-12-18,9,Baghlan,903,Dahana-e-Ghori,1,Kabul,101,Kabul,7,1,,,
+04-12-18,28,Faryab,2814,Qorghan,28,Faryab,2811,Andkhoy,1393,199,,,
+04-12-18,12,Paktya,1208,Alikhel (Jaji),26,Khost,2601,Khost (Matun),112,16,,,
+04-12-18,28,Faryab,2811,Andkhoy,28,Faryab,2811,Andkhoy,1736,248,,,
+04-12-18,28,Faryab,2812,Qaramqol,28,Faryab,2811,Andkhoy,4193,599,560,39,
+07-12-18,11,Ghazni,1113,Jaghuri,30,Hirat,3002,Injil,222,36,,,
+08-12-18,11,Ghazni,1116,Ajrestan,30,Hirat,3002,Injil,6,1,,,
+09-12-18,5,Logar,504,Barakibarak,1,Kabul,101,Kabul,98,14,,,
+09-12-18,25,Paktika,2510,Urgun,26,Khost,2601,Khost (Matun),140,20,,,
+10-12-18,11,Ghazni,1110,Qarabagh,1,Kabul,101,Kabul,21,3,,,
+10-12-18,9,Baghlan,901,Pul-e-Khumri,9,Baghlan,901,Pul-e-Khumri,721,103,,,
+10-12-18,2,Kapisa,202,Nejrab,1,Kabul,101,Kabul,322,26,,,
+11-12-18,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,18,3,,,
+11-12-18,11,Ghazni,1105,Andar,1,Kabul,101,Kabul,84,12,,,
+12-12-18,28,Faryab,2803,Pashtunkot,28,Faryab,2801,Maymana,504,72,,,
+12-12-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,224,36,,,
+13-12-18,21,Ghor,2104,Dawlatyar,21,Ghor,2101,Chaghcharan,40,6,,,
+14-12-18,21,Ghor,2101,Chaghcharan,21,Ghor,2101,Chaghcharan,30,5,,,
+14-12-18,21,Ghor,2105,Shahrak,21,Ghor,2101,Chaghcharan,12,2,,,
+14-12-18,18,Balkh,1815,Keshendeh,18,Balkh,1815,Keshendeh,665,95,,,
+20-12-18,23,Uruzgan,2301,Tirinkot,23,Uruzgan,2301,Tirinkot,2003,240,,,
+20-12-18,17,Kunduz,1706,Khanabad,17,Kunduz,1701,Kunduz,525,75,,,
+20-12-18,16,Takhar,1614,Khwajaghar,16,Takhar,1601,Taloqan,427,61,,,
+20-12-18,9,Baghlan,903,Dahana-e-Ghori,1,Kabul,101,Kabul,56,8,,,
+20-12-18,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,27,,,,
+20-12-18,2,Kapisa,205,Tagab,1,Kabul,101,Kabul,280,40,,,
+20-12-18,16,Takhar,1615,Eshkashem,16,Takhar,1615,Eshkashem,119,17,,,
+20-12-18,29,Badghis,2906,Balamurghab,29,Badghis,2901,Qala-e-Naw,90,15,,,
+21-12-18,29,Badghis,2901,Qala-e-Naw,29,Badghis,2901,Qala-e-Naw,120,22,,,
+22-12-18,29,Badghis,2904,Qadis,29,Badghis,2901,Qala-e-Naw,75,15,,,
+23-12-18,29,Badghis,2903,Abkamari,29,Badghis,2901,Qala-e-Naw,180,40,,,
+24-12-18,29,Badghis,2905,Jawand,29,Badghis,2901,Qala-e-Naw,25,5,,,
+24-12-18,20,Sar-e-Pul,2002,Sayad,20,Sar-e-Pul,2001,Sar-e-Pul,525,75,,,
+25-12-18,31,Farah,3101,Farah,31,Farah,3101,Farah ,133,23,,,
+25-12-18,15,Badakhshan,1523,Eshkmesh,1,Kabul,101,Kabul,35,5,,,
+43459,21,Ghor,2102,Charsadra,21,Ghor,2101,Chaghcharan,306,51,,,
+43459,21,Ghor,2107,Pasaband,21,Ghor,2101,Chaghcharan,30,5,,,
+43459,31,Farah,3103,Balabuluk,31,Farah,3101,Farah ,47,7,,,
+43459,29,Badghis,2907,Ghormach,29,Badghis,2901,Qala-e-Naw,80,17,,,
+43459,4,Wardak,403,Nerkh,1,Kabul,101,Kabul,21,3,,,
+43459,24,Zabul,2407,Kakar,24,Zabul,2406,Shahjoy,401,56,,,
+43459,31,Farah,3105,Pushtrod,31,Farah,3101,Farah ,12,2,,,
+43460,31,Farah,3104,Khak-e-Safed,31,Farah,3101,Farah ,51,7,,,
+43461,31,Farah,,Different,31,Farah,3101,Farah ,77,12,,,
+43462,31,Farah,3106,Qala-e-Kah,31,Farah,3101,Farah ,26,3,,,
+43465,28,Faryab,2804,Shirintagab,28,Faryab,2801,Maymana,2485,355,,,

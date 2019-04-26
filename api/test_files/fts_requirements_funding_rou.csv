@@ -1,0 +1,15 @@
+countryCode,id,name,code,startDate,endDate,year,requirements,funding,percentFunded
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#date+start,#date+end,#date+year,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+ROU,,Not specified,,,,2014,,122799,
+ROU,,Not specified,,,,2012,,76170,
+ROU,,Not specified,,,,2010,,122084,
+ROU,,Not specified,,,,2009,,83210,
+ROU,,Not specified,,,,2008,,605983,
+ROU,,Not specified,,,,2007,,59227,
+ROU,,Not specified,,,,2006,,764779,
+ROU,,Not specified,,,,2005,,4768677,
+ROU,,Not specified,,,,2004,,142607,
+ROU,,Not specified,,,,2003,,42796,
+ROU,,Not specified,,,,2002,,255227,
+ROU,,Not specified,,,,2001,,108873,
+ROU,,Not specified,,,,2000,,536055,

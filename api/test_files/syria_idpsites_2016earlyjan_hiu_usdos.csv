@@ -1,0 +1,77 @@
+Description,Country,ADM1,ADM2,ADM3,ADM4,Latitude,Longitude,Name,PCODE,fips,iso_alpha2,iso_alpha3,stanag,tld,GENC2
+IDP Camp,Syria,Al Qunaytirah,Al Qunaytirah,Al Qunaytirah,Breiqa,33.039,35.86,Burayqah IDP Camp,SY140000C6269,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,As Suwayda',As Suwayda',As Suwayda',Kherba,32.583,36.439,Kharaba IDP Camp,SY130000C6150,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,As Suwayda',As Suwayda',As Suwayda',Kherba,32.588,36.447,Kharaba Church East IDP Camp,SY130000C6150,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Damascus Countryside,Duma,Sabe Byar,Sabe Byar,33.311,38.674,Ruqban Border Crossing IDP Camp,SY030202C2345,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Damascus Countryside,Duma,Sabe Byar,Sabe Byar,32.857,37.82,Khashm al Ghardush IDP Camp,SY030202C2345,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Dar'a,Dar'a,Ash-Shajara,Ash-Shajara,32.775,35.886,Ash Shajarah IDP Camp 01,SY120003C6021,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Dar'a,Dar'a,Busra Esh-Sham,Tisiya,32.418,36.457,Tisiya IDP Camp,SY120001C6000,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Afrin,Afrin,Baselhaya,36.467,36.951,Basselhaya IDP Camp,SY020300C1371,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Afrin,Jandairis,Deir Ballut,36.323,36.662,Dayr Ballut Atimah IDP Camp,SY020302C1435,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Ain Al Arab,Ain Al Arab,Ain Al Arab,36.894,38.33,Kobane Ayn al Arab IDP Camp,SY020600C1946,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Ain Al Arab,Lower Shyookh,Upper Shyookh,36.772,38.084,Awwas IDP Camp Northeast,SY020601C2002,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Ain Al Arab,Lower Shyookh,Upper Shyookh,36.763,38.069,Awwas IDP Camp,SY020601C2002,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Salama,36.623,37.092,Qassarjah Sudji IDP Camp,SY020400C1561,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Salama,36.632,37.084,Azaz Customs Border Crossing Ne,SY020400C1561,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Salama,36.63,37.086,Azaz Border Crossing Refugee Camp,SY020400C1561,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Shamarin,36.654,37.14,Sharmarin Camp,SY020400C1566,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Shamarin,36.653,37.128,Shamarin IDP Camp West,SY020400C1566,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Shamarin,36.638,37.147,Shamarin IDP Camp Southeast,SY020400C1566,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Shamarin,36.661,37.136,Shamarin IDP Camp North,SY020400C1566,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,A'zaz,Talil Elsham,36.655,37.118,Tulayl Ash Sham IDP Camp,SY020400C1559,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,Suran,Kafr Barja,36.627,37.146,Kafr Burayshah IDP Camp,SY020405C1671,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,Suran,Kiwar Kalas,36.669,37.24,Harjalah IDP Camp,SY020405C1661,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,Suran,Zayzafun -Ekdeh,36.66,37.182,Ikadah IDP Camp,SY020405C1658,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,Tall Refaat,Tall Refaat,36.463,37.126,Tall Rifat IDP Camp 002,SY020402C1621,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,A'zaz,Tall Refaat,Tall Refaat,36.471,37.06,Tall Rifat IDP Camp,SY020402C1621,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Jarablus,Jarablus,Jarablus,36.808,38.01,Jarabulus South IDP Camp,SY020800C2227,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Jarablus,Jarablus,Jarablus,36.824,38.012,Jarabulus IDP Camp,SY020800C2227,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Menbij,Menbij,Menbij,36.509,37.932,Manbij IDP Camp 002,SY020500C1767,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,Menbij,Menbij,Menbij,36.525,37.911,Manbij IDP Camp 001,SY020500C1767,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Halab,,,,36.655,37.118,Unnamed,,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Homs,Homs,Hasyaa,Hasyaa,34.404,36.764,Hisyah IDP Camp,SY040108C2675,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Dana,Harim,Qah,36.293,36.702,Atimah IDP Camp Southeast,SY070301C4131,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Aqrabat,36.263,36.729,Kafaldn Meydan IDP Camp,SY070301C4127,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Aqrabat,36.268,36.721,Kafaldin North IDP Camp,SY070301C4127,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Aqrabat,36.249,36.711,Kafaldin IDP Camp Southwest,SY070301C4127,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Aqrabat,36.266,36.702,Aqrabat Southwest IDP Camp,SY070301C4127,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Aqrabat,36.277,36.723,Aqrabat IDP Camp,SY070301C4127,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Dana,36.204,36.757,Ad Dana IDP Camp,SY070301C4126,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Deir Hassan,36.209,36.723,Sarmada IDP Camp 02,SY070301C4129,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Deir Hassan,36.204,36.734,Sarmada IDP Camp 003,SY070301C4129,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Deir Hassan,36.206,36.73,Sarmada IDP Camp,SY070301C4129,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Deir Hassan,36.236,36.753,Dayr Hashshan IDP Camp,SY070301C4129,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Deir Hassan,36.213,36.715,Bab al Hawa Upper IDP Camp,SY070301C4129,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Deir Hassan,36.211,36.715,Bab al Hawa Lower IDP Camp,SY070301C4129,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Qah,36.29,36.711,Qah West IDP Camp,SY070301C4131,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Qah,36.283,36.72,Qah Southwest IDP Camp,SY070301C4131,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Qah,36.293,36.728,Qah IDP Camp,SY070301C4131,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Sarmada,36.201,36.71,Shaykh Hasan Camp Southwest,SY070301C4121,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Sarmada,36.183,36.691,Sarfud IDP Camp,SY070301C4121,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Dana,Sarmada,36.217,36.693,Dar Kuwayta Camp Northeast,SY070301C4121,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Harim,Harim,36.227,36.561,Baraka Khirbat Kisah IDP Camp,SY070300C4115,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Harim,Kafr Hum,36.198,36.474,Kafr Hum IDP Camp,SY070300C4117,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Salqin,Big Hir Jamus,36.19,36.421,Hayr Jamus al Kibir IDP Camp,ÿSY070302C4141,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Salqin,Delbiya,36.133,36.423,Dalbiyah IDP Camp 02,SY070302C4146,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Salqin,Delbiya,36.131,36.401,Dalbiyah IDP Camp,SY070302C4146,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Salqin,Kafarna,36.197,36.432,Khirbat Farraziyah Athme MSF Harem IDP,SY070302C4149,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Harim,Salqin,Kafr Jat,36.182,36.432,Kafr Jat IDP Camp,SY070302C4139,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Idlib,Harim,Salqin,36.175,36.406,Muzanta IDP Camp,SY070302C4144,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Badama,Badama,35.804,36.157,Ubin IDP Camp,SY070401C4226,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Badama,Badama,35.831,36.192,Mashta IDP Camp,SY070401C4226,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Badama,Badama,35.831,36.192,Al Hambushiyah IDP Camp,SY070401C4226,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Badama,Hanbushiyeh,35.823,36.173,Biryas IDP Camp,SY070401C4228,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Badama,Kherbet Eljoz,35.881,36.174,Khirbat al Jawz IDP Camp 02,SY070401C4231,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Badama,Kherbet Eljoz,35.896,36.178,Khirbat al Jawz IDP Camp,SY070401C4231,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Jisr-Ash-Shugur,Dgali,35.914,36.379,Qirmidah West Camp,SY070400C4214,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Idlib,Jisr-Ash-Shugur,Jisr-Ash-Shugur,Dgali,35.91,36.406,Hammam Ash Shaykh Isa IDP Camp,SY070400C4214,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Latakia,Latakia,Hanadi,Shir,35.541,35.85,Rudu IDP Camp,SY060006C3563,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Latakia,Latakia,Latakia,Burj Elqasab,35.56,35.749,Latakia Aquatic Sports Facility IDP Camp,SY060000C3474,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Latakia,Latakia,Rebee'a,Samira - Sallur,35.819,36.134,Zaytunjuq IDP Camp,SY060002C3501,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Latakia,Latakia,Rebee'a,Samira - Sallur,35.825,36.134,Yamadiyah South IDP Camp,SY060002C3501,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Latakia,Latakia,Rebee'a,Samira - Sallur,35.841,36.134,Yamadiyah IDP Camp,SY060002C3501,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Latakia,Latakia,Rebee'a,Samira - Sallur,35.857,36.111,Qarah Bibar IDP Camp,SY060002C3501,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Tartus,Tartus,Tartus,Ennabiya,34.851,35.907,Shirkat as Sahil IDP Camp,SY100000C5238,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Tartus,Tartus,Tartus,Ennabiya,34.858,35.893,Hayy ar Radar IDP Camp,SY100000C5238,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Tartus,Tartus,Tartus,Hisheh,34.787,35.926,Al Hishah IDP Camp,SY100000C5243,SY,SY,SYR,SYR,.sy,SY
+IDP Camp,Syria,Tartus,Tartus,Tartus,Tartus,34.891,35.889,Tartus IDP Camp,SY100000C5221,SY,SY,SYR,SYR,.sy,SY
