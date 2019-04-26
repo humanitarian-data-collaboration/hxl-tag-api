@@ -1,0 +1,5 @@
+countryCode,id,name,code,startDate,endDate,year,requirements,funding,percentFunded
+#country+code,#activity+appeal+id+fts_internal,#activity+appeal+name,#activity+appeal+id+external,#date+start,#date+end,#date+year,#value+funding+required+usd,#value+funding+total+usd,#value+funding+pct
+AUT,,Not specified,,,,2015,,3699998,
+AUT,,Not specified,,,,2003,,1835552,
+AUT,,Not specified,,,,2002,,691667,
