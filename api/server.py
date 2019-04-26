@@ -203,11 +203,13 @@ def upload_file():
             input_dataset = pd.read_json(file)
             input_dataset = input_dataset.rename(columns=input_dataset.iloc[0]).drop(input_dataset.index[0])
                 # process the untagged dataset
+        input_headers = input_dataset.columns.values
         processed_dataset, empty_cols = preprocess(input_dataset, 
                                pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
         model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
         output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
         output_dataset.loc[empty_cols,0] = 'No Prediction. Column only had missing values'
+        output_dataset.insert(loc=0, column='Header', value=input_headers)
 
         resp = make_response(output_dataset.to_csv())
         resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
