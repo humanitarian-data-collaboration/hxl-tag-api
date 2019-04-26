@@ -110,7 +110,7 @@ def transform_vectorizers(df_target):
     cols = ['Header_embedding', 'Organization_embedded', 'data_combined']
     df['features_combined'] = df[cols].values.tolist()
     df['features_combined'] = df['features_combined'].apply(lambda x: [val for item in x for val in item])
-    diff = 2700 - len(df['features_combined'][0])
+    diff = 2934 - len(df['features_combined'][0])
     for i in range(len(df)):
         for j in range(diff):
             df['features_combined'][i].append(0)
