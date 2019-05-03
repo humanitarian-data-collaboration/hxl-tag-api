@@ -40,20 +40,16 @@ ALLOWED_EXTENSIONS_CSV = set(['csv'])
 ALLOWED_EXTENSIONS_JSON = set(['json'])
 
 app = Flask(__name__)
-# CORS(app)
 app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 
 def lower_cols(lst):
-    #convert data to lowercases
-    #QUESTION: will I miss any important information? 
+    #convert data to lowercases (may be missing important info)
     return [word.lower() for word in lst if isinstance(word,str)]
 
 
 def remove_chars(lst):
-    #remove punctuation characters such as ",", "(", ")", """, ":", "/", and "."
-    #NOTE: PRESERVES WHITE SPACE.
-    #QUESTION: any other characters we should be aware of? Is this a good idea? I'm inspecting each word individually.
-    #Any potential pitfalls? 
+    #remove punctuation characters such as ",", "(", ")", """, ":", "/", "_" and "."
+    #NOTE: PRESERVES WHITE SPACE. MAY NOT BE COMPREHENSIVE/ NOT FULLY BUG TESTED
     cleaned = [re.sub('\s+', ' ', mystring).strip() for mystring in lst if isinstance(mystring,str)]
     cleaned = [re.sub(r'[[^A-Za-z0-9\s]+]', ' ', mystr) for mystr in cleaned if isinstance(mystr,str)]
     cleaned = [mystr.replace('_', ' ') for mystr in cleaned]
@@ -64,7 +60,11 @@ def clean_cols(data):
     data = remove_chars(data)
     return data
 
+
 def fill_empty_cols(df):
+    '''If there are empty columns in the df, this will fill the second cell in that column with 1. 
+    This is done in order to keep the col in place when processing, so that "Empty column" can later
+    be outputted in the predictions.'''
     empty_cols = []
     for i in df.columns.values:
         if (len(df[i].dropna()) == 0):
@@ -80,6 +80,7 @@ def preprocess(pandas_dataset, df_target):
         pandas_dataset.dropna(how = 'all', inplace = True)
         pandas_dataset, empty_cols = fill_empty_cols(pandas_dataset)
         #Drops columns with all nan values. Subset parameter is used to exclude column label.
+        #May no longer be needed due to fill_empty_cols function.
         pandas_dataset.dropna(axis=1, how = 'all', subset=range(1,len(pandas_dataset)), inplace = True)
         headers = clean_cols(headers)
     for i in range(len(headers)):
