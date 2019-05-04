@@ -73,6 +73,7 @@ def fill_empty_cols(df):
     return df, empty_cols
 
 def preprocess(pandas_dataset, df_target):
+    headers = []
     if (not pandas_dataset.empty):
         organization = 'HDX'   #Replace if datasets contains organization
         headers = list(pandas_dataset.columns.values)
@@ -196,7 +197,7 @@ def upload_file():
         # file.save(os.getcwd())
         if file and allowed_file_csv(file.filename):
             filename = secure_filename(file.filename)
-            input_dataset = pd.read_csv(file)
+            input_dataset = pd.read_csv(file, encoding = "utf-8", na_values=['nan','nan'],)
                 
 
         if file and allowed_file_json(file.filename):
