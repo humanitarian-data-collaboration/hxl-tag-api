@@ -21,6 +21,7 @@ import json
 from nltk.corpus import stopwords
 nltk.download('stopwords')
 stopWords = set(stopwords.words('english'))
+#Use server.ipynb for testing in a Jupyter notebook.
 
 '''Install fastText by doing:
 #git clone https://github.com/facebookresearch/fastText.git
@@ -65,6 +66,7 @@ def clean_cols(data):
     return data
 
 def fill_empty_cols(df):
+    #Adds 1 in the 2nd row of an empty column.
     empty_cols = []
     for i in df.columns.values:
         if (len(df[i].dropna()) == 0):
@@ -83,6 +85,7 @@ def preprocess(pandas_dataset, df_target):
         pandas_dataset.dropna(axis=1, how = 'all', subset=range(1,len(pandas_dataset)), inplace = True)
         headers = clean_cols(headers)
     for i in range(len(headers)):
+        #Makes a dictionary of each header and its data and adds these dictionaries to dataframe df_target.
         try:
             dic = {'Header': headers[i], 
                    'Data': list(pandas_dataset.iloc[1:, i]), 
@@ -105,11 +108,14 @@ def transform_vectorizers(df_target):
     df['data_combined'] = df_target.loc[:, 'embedded_datapoint0': 'embedded_datapoint' 
                                                            + str(number_of_data_point_to_vectorize-1)].values.tolist()
     df['data_combined'] = df['data_combined'].apply(lambda x: [val for item in x for val in item])
+    #Uses FastText to generate header and orgaanization embeddings
     df['Header_embedding'] = df_target['Header'].astype(str).apply(fmodel.get_sentence_vector)
     df['Organization_embedded'] = df_target['Organization'].astype(str).apply(fmodel.get_sentence_vector)
     cols = ['Header_embedding', 'Organization_embedded', 'data_combined']
     df['features_combined'] = df[cols].values.tolist()
     df['features_combined'] = df['features_combined'].apply(lambda x: [val for item in x for val in item])
+    #2700 is the number of rows needed to prevent ShapeErrors when running the prediction model.
+    #The code below appends 0s to prevent these errors but not sure if these 0s affect the predictions.
     diff = 2700 - len(df['features_combined'][0])
     for i in range(len(df)):
         for j in range(diff):
@@ -145,7 +151,7 @@ def embedded_datapoints(df, number_of_data_point_to_vectorize=7):
     df, number_of_data_point_to_vectorize = vectorize_n_datapoints(df)
     print(df.head())
     for i in range(number_of_data_point_to_vectorize):
-        
+        #Uses FastText to generate vector word embeddings
         df['embedded_datapoint' + str(i)] = df['datapoint' + str(i)].map(lambda x: fmodel.get_sentence_vector(str(x)))
     return df, number_of_data_point_to_vectorize
 
