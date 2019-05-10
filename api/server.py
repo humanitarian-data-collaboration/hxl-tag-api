@@ -40,16 +40,20 @@ ALLOWED_EXTENSIONS_CSV = set(['csv'])
 ALLOWED_EXTENSIONS_JSON = set(['json'])
 
 app = Flask(__name__)
+# CORS(app)
 app.config['UPLOAD_FOLDER'] = os.path.join(app.instance_path)
 
 def lower_cols(lst):
-    #convert data to lowercases (may be missing important info)
+    #convert data to lowercases
+    #QUESTION: will I miss any important information? 
     return [word.lower() for word in lst if isinstance(word,str)]
 
 
 def remove_chars(lst):
-    #remove punctuation characters such as ",", "(", ")", """, ":", "/", "_" and "."
-    #NOTE: PRESERVES WHITE SPACE. MAY NOT BE COMPREHENSIVE/ NOT FULLY BUG TESTED
+    #remove punctuation characters such as ",", "(", ")", """, ":", "/", and "."
+    #NOTE: PRESERVES WHITE SPACE.
+    #QUESTION: any other characters we should be aware of? Is this a good idea? I'm inspecting each word individually.
+    #Any potential pitfalls? 
     cleaned = [re.sub('\s+', ' ', mystring).strip() for mystring in lst if isinstance(mystring,str)]
     cleaned = [re.sub(r'[[^A-Za-z0-9\s]+]', ' ', mystr) for mystr in cleaned if isinstance(mystr,str)]
     cleaned = [mystr.replace('_', ' ') for mystr in cleaned]
@@ -60,11 +64,7 @@ def clean_cols(data):
     data = remove_chars(data)
     return data
 
-
 def fill_empty_cols(df):
-    '''If there are empty columns in the df, this will fill the second cell in that column with 1. 
-    This is done in order to keep the col in place when processing, so that "Empty column" can later
-    be outputted in the predictions.'''
     empty_cols = []
     for i in df.columns.values:
         if (len(df[i].dropna()) == 0):
@@ -73,7 +73,6 @@ def fill_empty_cols(df):
     return df, empty_cols
 
 def preprocess(pandas_dataset, df_target):
-    headers = []
     if (not pandas_dataset.empty):
         organization = 'HDX'   #Replace if datasets contains organization
         headers = list(pandas_dataset.columns.values)
@@ -81,7 +80,6 @@ def preprocess(pandas_dataset, df_target):
         pandas_dataset.dropna(how = 'all', inplace = True)
         pandas_dataset, empty_cols = fill_empty_cols(pandas_dataset)
         #Drops columns with all nan values. Subset parameter is used to exclude column label.
-        #May no longer be needed due to fill_empty_cols function.
         pandas_dataset.dropna(axis=1, how = 'all', subset=range(1,len(pandas_dataset)), inplace = True)
         headers = clean_cols(headers)
     for i in range(len(headers)):
@@ -96,7 +94,7 @@ def preprocess(pandas_dataset, df_target):
             raise Exception("Error: arguments not matched")
 
     df_result = transform_vectorizers(df_target)
-    return df_result, empty_cols
+    return df_target, df_result, empty_cols
 
 def transform_vectorizers(df_target):
     number_of_data_point_to_vectorize = 7
@@ -182,6 +180,41 @@ def generate_n_grams(data_lst, n):
     #make sure that n_grams 'refresh' when a new dataset is encountered!!!!   
     return list(ngrams(cleaned, n))
 
+
+def tag_predicted(clf, X_test, series, threshold):
+    #True if tag should be left blank
+    if (not isinstance(X_test, np.ndarray)):
+        X_test = X_test.values.tolist()
+    probs = clf.predict_proba(X_test)
+    values = []
+    for i in range(len(X_test)):
+        max_arg = probs[i].argsort()[-1]
+        top_suggested_tag = clf.classes_[max_arg]
+        prob = np.take(probs[i], max_arg)
+        if (prob > threshold):
+            values.append(False)
+        else:
+            values.append(True)
+    return values
+
+#helper function to fill in the blanks for tags that have a confidence level less than the threshold
+def fill_blank_tags(predicted_tags, clf, X_test, series, threshold = 0.3):
+    boolean_array = tag_predicted(clf, X_test, series, threshold)
+    for i in range(len(predicted_tags)):
+        if (boolean_array[i] == True):
+            predicted_tags[i] = ''
+    return predicted_tags
+
+def add_hashtags(predicted_tags):
+    result = []
+    if (isinstance(predicted_tags, np.ndarray)):
+        for word in predicted_tags:
+            if word == '':
+                result.append('')
+            else:
+                result.append("#"+word)
+    return result
+
 @app.route('/', methods=['GET','POST'])
 def upload_file():
     if request.method == 'POST':
@@ -197,7 +230,7 @@ def upload_file():
         # file.save(os.getcwd())
         if file and allowed_file_csv(file.filename):
             filename = secure_filename(file.filename)
-            input_dataset = pd.read_csv(file, encoding = "utf-8", na_values=['nan','nan'],)
+            input_dataset = pd.read_csv(file)
                 
 
         if file and allowed_file_json(file.filename):
@@ -206,15 +239,18 @@ def upload_file():
             input_dataset = input_dataset.rename(columns=input_dataset.iloc[0]).drop(input_dataset.index[0])
                 # process the untagged dataset
         input_headers = input_dataset.columns.values
-        processed_dataset, empty_cols = preprocess(input_dataset, 
+        raw, processed_dataset, empty_cols = preprocess(input_dataset, 
                                pd.DataFrame(columns=['Header','Data','Relative Column Position','Organization','Index']))
         model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
         output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
-        output_dataset.loc[empty_cols,0] = 'No Prediction. Column only had missing values'
-        output_dataset.insert(loc=0, column='Header', value=input_headers)
-        output_dataset.rename(index=str, columns={0: "Predicted tag"}, inplace=True)
+        output_dataset.loc[empty_cols,0] = ''
+        output_dataset = fill_blank_tags(output_dataset.iloc[:, 0].values, model, processed_dataset["features_combined"], raw['Header'])
+        output_dataset = pd.DataFrame(add_hashtags(output_dataset))
+        input_dataset.loc[-1] = output_dataset.iloc[:, 0].values
+        input_dataset.index = input_dataset.index + 1
+        input_dataset = input_dataset.sort_index()
 
-        resp = make_response(output_dataset.to_csv())
+        resp = make_response(input_dataset.to_csv())
         resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
         resp.headers["Content-Type"] = "text/csv"
         return resp
@@ -224,15 +260,21 @@ def upload_file():
 
     return '''
     <!doctype html>
+    <head>
     <title>Upload new File</title>
-    <h1>Upload new File (only CSV and JSON files accepted)</h1>
+ 
+    </head>
+    <body style="background-color:#91C9E8; font-family: "Times New Roman", Times, serif";>
+    <div style="position: relative; left: 300px; top: 200px;">
+    <h3>Upload the dataset that you want to add HXL tags, </h3>
+    <h3>and a file with tagged dataset will be downloaded. </h3>
+    <h3> (only CSV and JSON files accepted)</h3>
     <form method=post enctype=multipart/form-data>
       <input type=file name=file>
       <input type=submit value=Upload>
-    # <form method=post>
-    #   <input name=text>
-    #   <input type=submit>
     </form>
+    <div>
+    <body>
     ''' 
 
 
