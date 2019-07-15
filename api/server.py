@@ -212,31 +212,6 @@ def generate_n_grams(data_lst, n):
     #make sure that n_grams 'refresh' when a new dataset is encountered!!!!   
     return list(ngrams(cleaned, n))
 
-
-def tag_predicted(clf, X_test, series, threshold):
-    #True if tag should be left blank
-    if (not isinstance(X_test, np.ndarray)):
-        X_test = X_test.values.tolist()
-    probs = clf.predict_proba(X_test)
-    values = []
-    for i in range(len(X_test)):
-        max_arg = probs[i].argsort()[-1]
-        top_suggested_tag = clf.classes_[max_arg]
-        prob = np.take(probs[i], max_arg)
-        if (prob > threshold):
-            values.append(False)
-        else:
-            values.append(True)
-    return values
-
-#helper function to fill in the blanks for tags that have a confidence level less than the threshold
-def fill_blank_tags(predicted_tags, clf, X_test, series, threshold = 0.3):
-    boolean_array = tag_predicted(clf, X_test, series, threshold)
-    for i in range(len(predicted_tags)):
-        if (boolean_array[i] == True):
-            predicted_tags[i] = ''
-    return predicted_tags
-
 def add_hashtags(predicted_tags):
     result = []
     if (isinstance(predicted_tags, np.ndarray)):
@@ -246,33 +221,6 @@ def add_hashtags(predicted_tags):
             else:
                 result.append("#"+word)
     return result
-
-def check_mappings(headers, predicted_tags):
-    count = 0
-    index = 0
-    
-    #MAPPINGS - SUBJECT TO MODIFICATION
-    #Only changed if the confidence probability < 0.8
-    MAPPINGS = {
-    "#geo" : ['lon', 'lat'], #words that would likely appear for #geo tag
-    "#admin" : ['county'], #words that would likely appear for #admin tag
-    "#country" :  ['country'], #words that would likely appear for #country tag
-    "#date" : ['year', 'date'], #words that would likely appear for #date tag
-    "#funding": ['funding', 'funded'], #words that would likely appear for #funding tag
-    "#value": ['percentfunded'], #words that would likely appear for #value tag
-    "#org":['organization', 'funder ref'], #words that would likely appear for #org tag
-    "#status":['status'] #words that would likely appear for #status tag
-    }
-    for header in headers:
-        predicted_tag = predicted_tags[index]
-        for key, val in MAPPINGS.items():
-            #check if the header contains any of the words in the mappings (substrings are included)
-            if (any(header in mystring for mystring in val)):
-                if (predicted_tag != key):
-                    predicted_tags[index] = key
-                    count += 1
-        index += 1
-    return count, predicted_tags
 
 #post-processing function that 1) checks tags with low confidence against mappings 2) fills in a blank prediction for 
 #tags with a confidence level lower than threshold and had no obvious mappings associated with the predicted tag. 
