@@ -1,7 +1,8 @@
 from flask import Flask, redirect, request, render_template, url_for, send_from_directory, make_response
 from werkzeug.wrappers import Request, Response
 from werkzeug.serving import run_simple
-from jsonrpc import JSONRPCResponseManager, dispatcher
+#from jsonrpc import JSONRPCResponseManager, dispatcher
+from jsonrpc import dispatcher
 import os
 import hashlib
 import pandas as pd
@@ -10,7 +11,7 @@ from werkzeug.utils import secure_filename
 import pickle
 import re
 from sklearn.neural_network import MLPClassifier
-from fastText import load_model
+from fasttext import load_model #used to be fastText
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import CountVectorizer
 import nltk
@@ -60,10 +61,23 @@ def remove_chars(lst):
     cleaned = [mystr.replace('_', ' ') for mystr in cleaned]
     return cleaned
 
+def separate_words_cap(lst):
+	#separate words according to capitalization. Ex: projectNumber --> project Number
+    wordsFiltered = []
+    for word in lst:
+        temp = re.sub( r"([A-Z])", r" \1", word).split()
+        if not temp or (len(temp) == len(word)):
+            wordsFiltered.append(word)
+        else:     
+            string = ' '.join(temp)
+            wordsFiltered.append(string)
+    return wordsFiltered    
+
 def clean_cols(data):
-    data = lower_cols(data)
-    data = remove_chars(data)
-    return data
+	data = separate_words_cap(data)
+	data = lower_cols(data)
+	data = remove_chars(data)
+	return data
 
 def fill_empty_cols(df):
     #Adds 1 in the 2nd row of an empty column.
@@ -98,6 +112,18 @@ def preprocess(pandas_dataset, df_target):
 
     df_result = transform_vectorizers(df_target)
     return df_target, df_result, empty_cols
+
+def select_randomly(dataset, threshold = 200):
+    #ensures that dataset isn't skewed towards particular tags by ensuring that each tag has at most a given number 
+    #(default: 200) of rows defined by the threshold
+    new_dataset = dataset
+    tags_to_be_pruned = dataset['Tag'].value_counts()[dataset['Tag'].value_counts() > threshold].keys().tolist()
+    for tag in tags_to_be_pruned:
+        count = dataset['Tag'][dataset['Tag'] == tag].value_counts()
+        drop_count = count - threshold
+        drop_count = drop_count.tolist()[0]
+        new_dataset = new_dataset.drop(np.random.choice(new_dataset[new_dataset['Tag']==tag].index,size=drop_count,replace=False))
+    return new_dataset    
 
 def transform_vectorizers(df_target):
     number_of_data_point_to_vectorize = 7
@@ -221,6 +247,89 @@ def add_hashtags(predicted_tags):
                 result.append("#"+word)
     return result
 
+def check_mappings(headers, predicted_tags):
+    count = 0
+    index = 0
+    
+    #MAPPINGS - SUBJECT TO MODIFICATION
+    #Only changed if the confidence probability < 0.8
+    MAPPINGS = {
+    "#geo" : ['lon', 'lat'], #words that would likely appear for #geo tag
+    "#admin" : ['county'], #words that would likely appear for #admin tag
+    "#country" :  ['country'], #words that would likely appear for #country tag
+    "#date" : ['year', 'date'], #words that would likely appear for #date tag
+    "#funding": ['funding', 'funded'], #words that would likely appear for #funding tag
+    "#value": ['percentfunded'], #words that would likely appear for #value tag
+    "#org":['organization', 'funder ref'], #words that would likely appear for #org tag
+    "#status":['status'] #words that would likely appear for #status tag
+    }
+    for header in headers:
+        predicted_tag = predicted_tags[index]
+        for key, val in MAPPINGS.items():
+            #check if the header contains any of the words in the mappings (substrings are included)
+            if (any(header in mystring for mystring in val)):
+                if (predicted_tag != key):
+                    predicted_tags[index] = key
+                    count += 1
+        index += 1
+    return count, predicted_tags
+
+#post-processing function that 1) checks tags with low confidence against mappings 2) fills in a blank prediction for 
+#tags with a confidence level lower than threshold and had no obvious mappings associated with the predicted tag. 
+#The function returns 1) the count of corrected tags 2) predicted and predicted tags
+
+def check_mapping(header, predicted_tag):
+    MAPPINGS = {
+    "#geo" : ['lon', 'lat', 'latitude', 'longitude'], #words that would likely appear for #geo tag
+    "#admin" : ['county'], #words that would likely appear for #admin tag
+    "#country" :  ['country'], #words that would likely appear for #country tag
+    "#date" : ['year', 'date'], #words that would likely appear for #date tag
+    "#funding": ['funding', 'funded'], #words that would likely appear for #funding tag
+    "#value": ['percentfunded'], #words that would likely appear for #value tag
+    "#org":['organization', 'funder ref', 'org'], #words that would likely appear for #org tag
+    "#status":['status'], #words that would likely appear for #status tag
+    "#sector":['sector'], #words that would likely appear for #sector tag
+    "#adm1":['adm1', 'admin1'], #words that would likely appear for #adm1 tag
+    "#adm2":['adm2', 'admin2'], #words that would likely appear for #adm2 tag
+    "#adm3":['adm3', 'admin3'], #words that would likely appear for #adm3 tag
+    "#adm4":['adm4', 'admin4']  #words that would likely appear for #adm4 tag        
+    }
+    change_tag = False
+    header_words = header.split()
+    for key, val in MAPPINGS.items():
+        for word in header_words:
+            #check if the header contains any of the words in the mappings (substrings are not included)
+            if (word in val):
+                if (predicted_tag != key):
+                    predicted_tag = key
+                    change_tag = True
+    return change_tag, predicted_tag
+    
+
+def post_processing(headers, predicted_tags, clf, X_test, mapping_threshold = 0.85, blank_threshold = 0.2):
+    if (not isinstance(X_test, np.ndarray)):
+        X_test = X_test.values.tolist()
+    probs = clf.predict_proba(X_test)
+    values = []
+    corrected_count = 0
+    blank_count = 0
+    for i in range(len(X_test)):
+        max_arg = probs[i].argsort()[-1]
+        top_suggested_tag = clf.classes_[max_arg]
+        prob = np.take(probs[i], max_arg)
+        predicted_tag = predicted_tags[i]
+        if (prob < mapping_threshold):
+            header = headers.tolist()[i]
+            inc, predicted_tag = check_mapping(header, predicted_tag)
+            if (inc):
+                corrected_count += 1
+            else:
+                if (prob < blank_threshold): 
+                    predicted_tag = ''
+                    blank_count += 1
+        values.append(predicted_tag)
+    return corrected_count, blank_count, values 
+
 @app.route('/', methods=['GET','POST'])
 def upload_file():
     if request.method == 'POST':
@@ -250,16 +359,24 @@ def upload_file():
         model = pickle.load(open("model.pkl", "rb")) #Model needs be named model.pkl, preferably using version 0.20.3
         output_dataset = pd.DataFrame(data = model.predict(list(processed_dataset['features_combined'])))
         output_dataset.loc[empty_cols,0] = ''
-        output_dataset = fill_blank_tags(output_dataset.iloc[:, 0].values, model, processed_dataset["features_combined"], raw['Header'])
-        output_dataset = pd.DataFrame(add_hashtags(output_dataset))
+        #NEW CODE
+        predicted_tags = output_dataset.iloc[:, 0].values
+        headers = raw['Header'] 
+        predicted_tags = add_hashtags(predicted_tags)
+        corrected_count, blank_count, predicted_tags = post_processing(headers, predicted_tags, model, processed_dataset["features_combined"])
+        #count, predicted_tags = check_mappings(headers, predicted_tags)
+        output_dataset = pd.DataFrame(predicted_tags)
+        ###
+		#output_dataset = fill_blank_tags(predicted_tags, model, processed_dataset["features_combined"], raw['Header'])
+		#output_dataset = pd.DataFrame(add_hashtags(output_dataset))
         input_dataset.loc[-1] = output_dataset.iloc[:, 0].values
         input_dataset.index = input_dataset.index + 1
         input_dataset = input_dataset.sort_index()
-
         resp = make_response(input_dataset.to_csv())
         resp.headers["Content-Disposition"] = "attachment; filename=export.csv"
         resp.headers["Content-Type"] = "text/csv"
         return resp
+
         
           
 
