@@ -254,7 +254,7 @@ def check_mapping(header, predicted_tag):
     return change_tag, predicted_tag
     
 
-def post_processing(headers, predicted_tags, clf, X_test, mapping_threshold = 0.85, blank_threshold = 0.2):
+def post_processing(headers, predicted_tags, clf, X_test, mapping_threshold = 0.88, blank_threshold = 0.2):
     if (not isinstance(X_test, np.ndarray)):
         X_test = X_test.values.tolist()
     probs = clf.predict_proba(X_test)
