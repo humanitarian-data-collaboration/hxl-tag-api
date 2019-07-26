@@ -65,12 +65,15 @@ def separate_words_cap(lst):
 	#separate words according to capitalization. Ex: projectNumber --> project Number
     wordsFiltered = []
     for word in lst:
-        temp = re.sub( r"([A-Z])", r" \1", word).split()
-        if not temp or (len(temp) == len(word)):
-            wordsFiltered.append(word)
-        else:     
-            string = ' '.join(temp)
-            wordsFiltered.append(string)
+    	if (word.isupper()):
+    		wordsFiltered.append(word)
+    	else:
+    		temp = re.sub( r"([A-Z])", r" \1", word).split()
+    		if not temp or (len(temp) == len(word)):
+    			wordsFiltered.append(word)
+    		else:     
+    			string = ' '.join(temp)
+    			wordsFiltered.append(string)
     return wordsFiltered    
 
 def clean_cols(data):
@@ -230,7 +233,7 @@ def check_mapping(header, predicted_tag):
     MAPPINGS = {
     "#geo" : ['lon', 'lat', 'latitude', 'longitude'], #words that would likely appear for #geo tag
     "#admin" : ['county'], #words that would likely appear for #admin tag
-    "#country" :  ['country'], #words that would likely appear for #country tag
+    "#country" :  ['country', 'i s o'], #words that would likely appear for #country tag
     "#date" : ['year', 'date'], #words that would likely appear for #date tag
     "#funding": ['funding', 'funded'], #words that would likely appear for #funding tag
     "#value": ['percentfunded'], #words that would likely appear for #value tag
@@ -240,7 +243,8 @@ def check_mapping(header, predicted_tag):
     "#adm1":['adm1', 'admin1'], #words that would likely appear for #adm1 tag
     "#adm2":['adm2', 'admin2'], #words that would likely appear for #adm2 tag
     "#adm3":['adm3', 'admin3'], #words that would likely appear for #adm3 tag
-    "#adm4":['adm4', 'admin4']  #words that would likely appear for #adm4 tag        
+    "#adm4":['adm4', 'admin4'],  #words that would likely appear for #adm4 tag   
+    "#value":['cost']     
     }
     change_tag = False
     header_words = header.split()
