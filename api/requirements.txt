@@ -40,7 +40,7 @@ Mako==1.0.7
 MarkupSafe==1.1.0
 matplotlib==3.0.3
 ndg-httpsclient==0.5.1
-nltk==3.4
+nltk==3.4.5
 npm==0.1.1
 numpy==1.16.1
 openpyxl==2.4.11
