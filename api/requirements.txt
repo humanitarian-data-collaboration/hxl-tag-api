@@ -11,7 +11,7 @@ ckanapi==4.1
 Click==7.0
 colorama==0.4.1
 colorlog==4.0.2
-cryptography==2.5
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.6
 dnspython==1.16.0
