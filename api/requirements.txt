@@ -20,7 +20,7 @@ email-validator==1.0.3
 et-xmlfile==1.0.1
 fasttext==0.8.22
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 future==0.17.1
 hdx-python-api==3.4.9
 hdx-python-country==1.5.4
