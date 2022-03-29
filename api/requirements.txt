@@ -46,7 +46,7 @@ numpy==1.16.1
 openpyxl==2.4.11
 optional-django==0.1.0
 pandas==0.24.1
-paramiko==2.4.2
+paramiko==2.10.1
 psycopg2-binary==2.7.7
 pyaml==18.11.0
 pyasn1==0.4.5
